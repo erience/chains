@@ -450,7 +450,7 @@
                 "decimals": 18
             },
             "infoURL": "https://dehvo.com",
-            "value": 100000000000000000,
+            "value": 22000000000000000,
             "shortName": "deh",
             "id": 113,
             "networkId": 113,
@@ -648,7 +648,7 @@
                 "decimals": 18
             },
             "infoURL": "https://astranaut.io",
-            "value": 100000000000000000,
+            "value": 20000000000000000,
             "shortName": "astra",
             "id": 11110,
             "networkId": 11110,
@@ -709,7 +709,7 @@
                 "decimals": 18
             },
             "infoURL": "https://step.network",
-            "value": 100000000000000000,
+            "value": 22000000000000000,
             "shortName": "step",
             "id": 1234,
             "networkId": 1234,
@@ -810,7 +810,7 @@
                 "decimals": 18
             },
             "infoURL": "https://flare.xyz",
-            "value": 100000000000000000,
+            "value": 20000000000000000,
             "shortName": "flr",
             "id": 14,
             "networkId": 14,
@@ -903,7 +903,7 @@
                 "decimals": 18
             },
             "infoURL": "https://ssquad.games/",
-            "value": 100000000000000000,
+            "value": 22000000000000000,
             "shortName": "SPS",
             "id": 13000,
             "networkId": 13000,
@@ -1045,7 +1045,7 @@
                 "decimals": 18
             },
             "infoURL": "https://www.elastos.org/",
-            "value": 100000000000000000,
+            "value": 20000000000000000,
             "shortName": "esc",
             "id": 20,
             "networkId": 20,
@@ -1090,7 +1090,7 @@
                 "decimals": 18
             },
             "infoURL": "https://islamiccoin.net",
-            "value": 100000000000000000,
+            "value": 27000000000000000,
             "shortName": "ISLM",
             "id": 11235,
             "networkId": 11235,
@@ -1279,7 +1279,7 @@
                 "decimals": 18
             },
             "infoURL": "https://www.zakumi.io",
-            "value": 100000000000000000,
+            "value": 22000000000000000,
             "shortName": "zafic",
             "id": 1369,
             "networkId": 1369,
@@ -1372,7 +1372,7 @@
                 "decimals": 18
             },
             "infoURL": "https://nebulanetwork.io/",
-            "value": 100000000000000000,
+            "value": 20000000000000000,
             "shortName": "nebula-mainnet",
             "id": 1482601649,
             "networkId": 1482601649,
@@ -1470,7 +1470,7 @@
                 "decimals": 18
             },
             "infoURL": "https://hashbit.org",
-            "value": 100000000000000000,
+            "value": 20000000000000000,
             "shortName": "hbit",
             "id": 11119,
             "networkId": 11119,
@@ -1563,7 +1563,7 @@
                 "decimals": 18
             },
             "infoURL": "https://calypsohub.network/",
-            "value": 100000000000000000,
+            "value": 22000000000000000,
             "shortName": "calypso-mainnet",
             "id": 1564830818,
             "networkId": 1564830818,
@@ -1612,7 +1612,7 @@
                 "decimals": 18
             },
             "infoURL": "https://optimism.io",
-            "value": 100000000000000000,
+            "value": 20000000000000000,
             "shortName": "oeth",
             "id": 10,
             "networkId": 10,
@@ -1663,7 +1663,7 @@
                 "decimals": 18
             },
             "infoURL": "https://cronos.org/",
-            "value": 100000000000000000,
+            "value": 22000000000000000,
             "shortName": "cro",
             "id": 25,
             "networkId": 25,
@@ -1807,7 +1807,7 @@
                 "decimals": 18
             },
             "infoURL": "https://mainnetz.io",
-            "value": 100000000000000000,
+            "value": 20000000000000000,
             "shortName": "NetZm",
             "id": 2016,
             "networkId": 2016,
@@ -2069,7 +2069,7 @@
                 "decimals": 18
             },
             "infoURL": "https://edgeware.io",
-            "value": 100000000000000000,
+            "value": 22000000000000000,
             "shortName": "edg",
             "id": 2021,
             "networkId": 2021,
@@ -2174,7 +2174,7 @@
                 "decimals": 18
             },
             "infoURL": "https://neon-labs.org",
-            "value": 100000000000000000,
+            "value": 23000000000000000,
             "shortName": "neonevm-devnet",
             "id": 245022926,
             "networkId": 245022926,
@@ -2374,7 +2374,7 @@
                 "decimals": 18
             },
             "infoURL": "https://popcateum.org",
-            "value": 100000000000000000,
+            "value": 22000000000000000,
             "shortName": "popcat",
             "id": 1213,
             "networkId": 1213,
@@ -2422,7 +2422,7 @@
                 "decimals": 18
             },
             "infoURL": "https://boba.network",
-            "value": 100000000000000000,
+            "value": 20000000000000000,
             "shortName": "Bobabeam",
             "id": 1294,
             "networkId": 1294,
@@ -2560,7 +2560,7 @@
                 "decimals": 18
             },
             "infoURL": "https://evm.anytype.io",
-            "value": 100000000000000000,
+            "value": 22000000000000000,
             "shortName": "AnytypeChain",
             "id": 1701,
             "networkId": 1701,
@@ -2656,7 +2656,7 @@
                 "decimals": 18
             },
             "infoURL": "https://www.ekta.io",
-            "value": 100000000000000000,
+            "value": 20000000000000000,
             "shortName": "ekta",
             "id": 1994,
             "networkId": 1994,
@@ -2807,7 +2807,7 @@
                 "decimals": 18
             },
             "infoURL": "https://crab.network/",
-            "value": 100000000000000000,
+            "value": 22000000000000000,
             "shortName": "crab",
             "id": 44,
             "networkId": 44,
@@ -2852,7 +2852,7 @@
                 "decimals": 18
             },
             "infoURL": "https://sherpax.io/",
-            "value": 100000000000000000,
+            "value": 20000000000000000,
             "shortName": "Sherpax",
             "id": 1506,
             "networkId": 1506,
@@ -3036,7 +3036,7 @@
                 "decimals": 18
             },
             "infoURL": "https://iotex.io",
-            "value": 100000000000000000,
+            "value": 22000000000000000,
             "shortName": "iotex-mainnet",
             "id": 4689,
             "networkId": 4689,
@@ -3081,7 +3081,7 @@
                 "decimals": 18
             },
             "infoURL": "https://ethoprotocol.com",
-            "value": 100000000000000000,
+            "value": 20000000000000000,
             "shortName": "etho",
             "id": 1313114,
             "networkId": 1313114,
@@ -3172,7 +3172,7 @@
                 "decimals": 18
             },
             "infoURL": "https://www.bitcinetwork.com",
-            "value": 100000000000000000,
+            "value": 20000000000000000,
             "shortName": "bitci",
             "id": 1907,
             "networkId": 1907,
@@ -3217,7 +3217,7 @@
                 "decimals": 18
             },
             "infoURL": "https://www.genesisl1.com",
-            "value": 100000000000000000,
+            "value": 19000000000000000,
             "shortName": "L1",
             "id": 29,
             "networkId": 29,
@@ -3262,7 +3262,7 @@
                 "decimals": 18
             },
             "infoURL": "https://docs.metaplayer.one/",
-            "value": 100000000000000000,
+            "value": 22000000000000000,
             "shortName": "Metad",
             "id": 2122,
             "networkId": 2122,
@@ -3537,7 +3537,7 @@
                 "decimals": 18
             },
             "infoURL": "https://redlight.finance/",
-            "value": 100000000000000000,
+            "value": 22000000000000000,
             "shortName": "REDLC",
             "id": 2611,
             "networkId": 2611,
@@ -3581,7 +3581,7 @@
                 "decimals": 18
             },
             "infoURL": "https://graphlinq.io",
-            "value": 100000000000000000,
+            "value": 19000000000000000,
             "shortName": "glq",
             "id": 614,
             "networkId": 614,
@@ -3730,7 +3730,7 @@
                 "decimals": 18
             },
             "infoURL": "https://milkomeda.com",
-            "value": 100000000000000000,
+            "value": 20000000000000000,
             "shortName": "milkAda",
             "id": 2001,
             "networkId": 2001,
@@ -3774,7 +3774,7 @@
                 "decimals": 18
             },
             "infoURL": "http://theloopnetwork.org/",
-            "value": 100000000000000000,
+            "value": 22000000000000000,
             "shortName": "loop",
             "id": 15551,
             "networkId": 15551,
@@ -3868,7 +3868,7 @@
                 "decimals": 18
             },
             "infoURL": "https://milkomeda.com",
-            "value": 100000000000000000,
+            "value": 20000000000000000,
             "shortName": "milkALGO",
             "id": 2002,
             "networkId": 2002,
@@ -3915,7 +3915,7 @@
                 "decimals": 18
             },
             "infoURL": "https://github.com/ethereum-pocr/pocrnet",
-            "value": 100000000000000000,
+            "value": 22000000000000000,
             "shortName": "pocrnet",
             "id": 2606,
             "networkId": 2606,
@@ -3970,7 +3970,7 @@
                 }
             ],
             "infoURL": "https://www.camelark.com",
-            "value": 100000000000000000,
+            "value": 19000000000000000,
             "rpcUrls": {
                 "default": {
                     "http": [
@@ -4110,7 +4110,7 @@
                 "decimals": 18
             },
             "infoURL": "https://xinfin.org",
-            "value": 100000000000000000,
+            "value": 20000000000000000,
             "shortName": "xdc",
             "id": 50,
             "networkId": 50,
@@ -4219,7 +4219,7 @@
                 "decimals": 18
             },
             "infoURL": "https://quadrans.io",
-            "value": 100000000000000000,
+            "value": 22000000000000000,
             "shortName": "quadrans",
             "id": 10946,
             "networkId": 10946,
@@ -4268,7 +4268,7 @@
                 "decimals": 18
             },
             "infoURL": "https://filecoin.io",
-            "value": 100000000000000000,
+            "value": 20000000000000000,
             "shortName": "filecoin",
             "id": 314,
             "networkId": 314,
@@ -4388,7 +4388,7 @@
                 "decimals": 18
             },
             "infoURL": "https://www.zilliqa.com/",
-            "value": 100000000000000000,
+            "value": 22000000000000000,
             "shortName": "zil",
             "id": 32769,
             "networkId": 32769,
@@ -4435,7 +4435,7 @@
                 "decimals": 18
             },
             "infoURL": "https://crossbell.io",
-            "value": 100000000000000000,
+            "value": 20000000000000000,
             "shortName": "csb",
             "id": 3737,
             "networkId": 3737,
@@ -4533,7 +4533,7 @@
                 "decimals": 18
             },
             "infoURL": "https://velaverse.io",
-            "value": 100000000000000000,
+            "value": 22000000000000000,
             "shortName": "CLASS",
             "id": 555,
             "networkId": 555,
@@ -4672,7 +4672,7 @@
                 "decimals": 18
             },
             "infoURL": "https://bitcoinevm.com",
-            "value": 100000000000000000,
+            "value": 20000000000000000,
             "shortName": "BTC",
             "id": 2203,
             "networkId": 2203,
@@ -4719,7 +4719,7 @@
                 "decimals": 18
             },
             "infoURL": "https://ace.fusionist.io/",
-            "value": 100000000000000000,
+            "value": 22000000000000000,
             "shortName": "ace",
             "id": 648,
             "networkId": 648,
@@ -4773,7 +4773,7 @@
                 }
             ],
             "infoURL": "https://etherfair.org",
-            "value": 100000000000000000,
+            "value": 20000000000000000,
             "rpcUrls": {
                 "default": {
                     "http": [
@@ -4917,7 +4917,7 @@
                 "decimals": 18
             },
             "infoURL": "https://tcgverse.xyz/",
-            "value": 100000000000000000,
+            "value": 22000000000000000,
             "shortName": "TCGV",
             "id": 2400,
             "networkId": 2400,
@@ -5000,7 +5000,7 @@
                 "decimals": 18
             },
             "infoURL": "https://drac.io/",
-            "value": 100000000000000000,
+            "value": 20000000000000000,
             "shortName": "drac",
             "features": [
                 {
@@ -5054,7 +5054,7 @@
                 "decimals": 18
             },
             "infoURL": "https://www.openvessel.io",
-            "value": 100000000000000000,
+            "value": 22000000000000000,
             "shortName": "vsl",
             "id": 7355310,
             "networkId": 7355310,
@@ -5155,7 +5155,7 @@
                 }
             ],
             "infoURL": "https://arbitrum.io",
-            "value": 100000000000000000,
+            "value": 20000000000000000,
             "parent": {
                 "type": "L2",
                 "network": "eip155-1",
@@ -5244,7 +5244,7 @@
                 "decimals": 18
             },
             "infoURL": "https://darwinia.network/",
-            "value": 100000000000000000,
+            "value": 22000000000000000,
             "shortName": "darwinia",
             "id": 46,
             "networkId": 46,
@@ -5288,7 +5288,7 @@
                 "decimals": 18
             },
             "infoURL": "https://cryptophoenix.org/phoenix",
-            "value": 100000000000000000,
+            "value": 20000000000000000,
             "shortName": "Phoenix",
             "id": 13381,
             "networkId": 13381,
@@ -5342,7 +5342,7 @@
                 "decimals": 18
             },
             "infoURL": "https://wikiwoop.com",
-            "value": 100000000000000000,
+            "value": 22000000000000000,
             "shortName": "woop",
             "id": 139,
             "networkId": 139,
@@ -5479,7 +5479,7 @@
                 "decimals": 18
             },
             "infoURL": "https://planq.network",
-            "value": 100000000000000000,
+            "value": 22000000000000000,
             "shortName": "planq",
             "id": 7070,
             "networkId": 7070,
@@ -5582,7 +5582,7 @@
                 "decimals": 18
             },
             "infoURL": "https://cennz.net",
-            "value": 100000000000000000,
+            "value": 20000000000000000,
             "shortName": "cennz-n",
             "id": 3001,
             "networkId": 3001,
@@ -5675,7 +5675,7 @@
                 "decimals": 18
             },
             "infoURL": "https://ivarex.com",
-            "value": 100000000000000000,
+            "value": 22000000000000000,
             "shortName": "ivar",
             "id": 88888,
             "networkId": 88888,
@@ -5720,7 +5720,7 @@
                 "decimals": 18
             },
             "infoURL": "https://alph.network",
-            "value": 100000000000000000,
+            "value": 20000000000000000,
             "shortName": "alph",
             "id": 8738,
             "networkId": 8738,
@@ -5765,7 +5765,7 @@
                 "decimals": 18
             },
             "infoURL": "TeaPartyCrypto.com",
-            "value": 100000000000000000,
+            "value": 19000000000000000,
             "shortName": "TeaParty",
             "id": 1773,
             "networkId": 1773,
@@ -5975,7 +5975,7 @@
                 }
             ],
             "infoURL": "https://acria.ai",
-            "value": 100000000000000000,
+            "value": 22000000000000000,
             "shortName": "aic",
             "id": 47,
             "networkId": 47,
@@ -6019,7 +6019,7 @@
                 "decimals": 18
             },
             "infoURL": "https://neonlink.io",
-            "value": 100000000000000000,
+            "value": 20000000000000000,
             "shortName": "neon",
             "id": 259,
             "networkId": 259,
@@ -6163,7 +6163,7 @@
                 "decimals": 18
             },
             "infoURL": "https://docs.oasis.io/dapp/sapphire",
-            "value": 100000000000000000,
+            "value": 20000000000000000,
             "shortName": "sapphire",
             "id": 23294,
             "networkId": 23294,
@@ -6254,7 +6254,7 @@
                 "decimals": 18
             },
             "infoURL": "https://www.v.network",
-            "value": 100000000000000000,
+            "value": 22000000000000000,
             "explorers": [
                 {
                     "name": "Visionscan",
@@ -6303,7 +6303,7 @@
                 "decimals": 18
             },
             "infoURL": "https://eticaprotocol.org",
-            "value": 100000000000000000,
+            "value": 20000000000000000,
             "shortName": "Etica",
             "id": 61803,
             "networkId": 61803,
@@ -6357,7 +6357,7 @@
                 "decimals": 18
             },
             "infoURL": "https://boba.network",
-            "value": 100000000000000000,
+            "value": 20000000000000000,
             "shortName": "Boba",
             "id": 288,
             "networkId": 288,
@@ -6518,7 +6518,7 @@
                 "decimals": 18
             },
             "infoURL": "https://ventionscan.io",
-            "value": 100000000000000000,
+            "value": 20000000000000000,
             "shortName": "vscm",
             "id": 77612,
             "networkId": 77612,
@@ -6610,7 +6610,7 @@
                 "decimals": 18
             },
             "infoURL": "https://boba.network",
-            "value": 100000000000000000,
+            "value": 22000000000000000,
             "shortName": "Bobaopera",
             "id": 301,
             "networkId": 301,
@@ -6703,7 +6703,7 @@
                 "decimals": 18
             },
             "infoURL": "https://xinfin.org",
-            "value": 100000000000000000,
+            "value": 20000000000000000,
             "shortName": "txdc",
             "id": 51,
             "networkId": 51,
@@ -6762,7 +6762,7 @@
                 "decimals": 18
             },
             "infoURL": "https://www.buildwithtoki.com",
-            "value": 100000000000000000,
+            "value": 19000000000000000,
             "shortName": "toki",
             "id": 8654,
             "networkId": 8654,
@@ -6935,7 +6935,7 @@
                 "decimals": 18
             },
             "infoURL": "https://www.klaytn.com/",
-            "value": 100000000000000000,
+            "value": 22000000000000000,
             "shortName": "Cypress",
             "id": 8217,
             "networkId": 8217,
@@ -7048,7 +7048,7 @@
                 "decimals": 18
             },
             "infoURL": "https://hedera.com",
-            "value": 100000000000000000,
+            "value": 20000000000000000,
             "shortName": "hedera-previewnet",
             "id": 297,
             "networkId": 297,
@@ -7218,7 +7218,7 @@
                 "decimals": 18
             },
             "infoURL": "https://thinkium.net/",
-            "value": 100000000000000000,
+            "value": 22000000000000000,
             "shortName": "TKM2",
             "id": 70002,
             "networkId": 70002,
@@ -7370,7 +7370,7 @@
                 "decimals": 18
             },
             "infoURL": "https://boba.network",
-            "value": 100000000000000000,
+            "value": 20000000000000000,
             "shortName": "BobaBnb",
             "id": 56288,
             "networkId": 56288,
@@ -7512,7 +7512,7 @@
                 "decimals": 18
             },
             "infoURL": "https://unique.network",
-            "value": 100000000000000000,
+            "value": 22000000000000000,
             "shortName": "qtz",
             "id": 8881,
             "networkId": 8881,
@@ -7561,7 +7561,7 @@
                 "decimals": 18
             },
             "infoURL": "https://github.com/Qitmeer",
-            "value": 100000000000000000,
+            "value": 20000000000000000,
             "shortName": "meer",
             "id": 813,
             "networkId": 813,
@@ -7610,7 +7610,7 @@
                 "decimals": 18
             },
             "infoURL": "https://polygon.technology/polygon-zkevm",
-            "value": 100000000000000000,
+            "value": 20000000000000000,
             "shortName": "zkevm",
             "id": 1101,
             "networkId": 1101,
@@ -7754,7 +7754,7 @@
                 "decimals": 18
             },
             "infoURL": "https://hap.land",
-            "value": 100000000000000000,
+            "value": 20000000000000000,
             "shortName": "hap",
             "id": 8794598,
             "networkId": 8794598,
@@ -7850,7 +7850,7 @@
                 "decimals": 18
             },
             "infoURL": "https://unique.network",
-            "value": 100000000000000000,
+            "value": 22000000000000000,
             "shortName": "unq",
             "id": 8880,
             "networkId": 8880,
@@ -7894,7 +7894,7 @@
                 "decimals": 18
             },
             "infoURL": "https://thinkium.net/",
-            "value": 100000000000000000,
+            "value": 20000000000000000,
             "shortName": "TKM103",
             "id": 70103,
             "networkId": 70103,
@@ -8032,7 +8032,7 @@
                 "decimals": 18
             },
             "infoURL": "https://www.coinex.org/",
-            "value": 100000000000000000,
+            "value": 22000000000000000,
             "shortName": "cet",
             "id": 52,
             "networkId": 52,
@@ -8088,7 +8088,7 @@
                 }
             ],
             "infoURL": "https://www.gatenetwork.io",
-            "value": 100000000000000000,
+            "value": 20000000000000000,
             "rpcUrls": {
                 "default": {
                     "http": [
@@ -8206,7 +8206,7 @@
                 "decimals": 18
             },
             "infoURL": "https://mmtnetwork.io/",
-            "value": 100000000000000000,
+            "value": 22000000000000000,
             "shortName": "mmt",
             "id": 8898,
             "networkId": 8898,
@@ -8261,7 +8261,7 @@
                 }
             ],
             "infoURL": "https://avescoin.io",
-            "value": 100000000000000000,
+            "value": 20000000000000000,
             "shortName": "avs",
             "id": 33333,
             "networkId": 33333,
@@ -8403,7 +8403,7 @@
                 "decimals": 18
             },
             "infoURL": "https://eosargentina.io",
-            "value": 100000000000000000,
+            "value": 22000000000000000,
             "shortName": "eos-legacy",
             "id": 59,
             "networkId": 59,
@@ -8483,7 +8483,7 @@
                 "decimals": 18
             },
             "infoURL": "https://docs.oasis.io/dapp/emerald",
-            "value": 100000000000000000,
+            "value": 20000000000000000,
             "shortName": "emerald",
             "id": 42262,
             "networkId": 42262,
@@ -8574,7 +8574,7 @@
                 "decimals": 18
             },
             "infoURL": "https://evanesco.org/",
-            "value": 100000000000000000,
+            "value": 22000000000000000,
             "shortName": "evanesco",
             "id": 2213,
             "networkId": 2213,
@@ -8715,7 +8715,7 @@
                 "decimals": 18
             },
             "infoURL": "https://www.syscoin.org",
-            "value": 100000000000000000,
+            "value": 20000000000000000,
             "shortName": "sys",
             "id": 57,
             "networkId": 57,
@@ -8844,7 +8844,7 @@
                 "decimals": 18
             },
             "infoURL": "https://saakuru.network",
-            "value": 100000000000000000,
+            "value": 22000000000000000,
             "shortName": "saakuru",
             "id": 7225878,
             "networkId": 7225878,
@@ -8888,7 +8888,7 @@
                 "decimals": 18
             },
             "infoURL": "https://frennetwork.app",
-            "value": 100000000000000000,
+            "value": 20000000000000000,
             "shortName": "FREN",
             "id": 44444,
             "networkId": 44444,
@@ -8940,7 +8940,7 @@
                 "decimals": 18
             },
             "infoURL": "https://shiden.astar.network/",
-            "value": 100000000000000000,
+            "value": 20000000000000000,
             "shortName": "sdn",
             "id": 336,
             "networkId": 336,
@@ -9019,7 +9019,7 @@
                 "decimals": 18
             },
             "infoURL": "https://net.paribu.com",
-            "value": 100000000000000000,
+            "value": 20000000000000000,
             "shortName": "prb",
             "id": 3400,
             "networkId": 3400,
@@ -9160,7 +9160,7 @@
                 "decimals": 18
             },
             "infoURL": "https://taraxa.io",
-            "value": 100000000000000000,
+            "value": 22000000000000000,
             "shortName": "tara",
             "id": 841,
             "networkId": 841,
@@ -9205,7 +9205,7 @@
                 "decimals": 18
             },
             "infoURL": "https://shyft.network",
-            "value": 100000000000000000,
+            "value": 20000000000000000,
             "shortName": "shyft",
             "id": 7341,
             "networkId": 7341,
@@ -9250,7 +9250,7 @@
                 "decimals": 18
             },
             "infoURL": "https://www.nervos.org",
-            "value": 100000000000000000,
+            "value": 22000000000000000,
             "shortName": "gw-mainnet-v1",
             "id": 71402,
             "networkId": 71402,
@@ -9398,7 +9398,7 @@
                 "decimals": 18
             },
             "infoURL": "https://tresnetwork.com",
-            "value": 100000000000000000,
+            "value": 22000000000000000,
             "shortName": "TRESMAIN",
             "id": 6066,
             "networkId": 6066,
@@ -9446,7 +9446,7 @@
                 "decimals": 18
             },
             "infoURL": "https://evmos.org",
-            "value": 100000000000000000,
+            "value": 20000000000000000,
             "shortName": "evmos",
             "id": 9001,
             "networkId": 9001,
@@ -9507,7 +9507,7 @@
                 "decimals": 18
             },
             "infoURL": "https://www.zeniq.dev/",
-            "value": 100000000000000000,
+            "value": 20000000000000000,
             "shortName": "zeniq",
             "id": 383414847825,
             "networkId": 383414847825,
@@ -9669,7 +9669,7 @@
                 "decimals": 18
             },
             "infoURL": "https://functionx.io/",
-            "value": 100000000000000000,
+            "value": 22000000000000000,
             "shortName": "FxCore",
             "id": 530,
             "networkId": 530,
@@ -9761,7 +9761,7 @@
                 "decimals": 18
             },
             "infoURL": "https://nuls.io",
-            "value": 100000000000000000,
+            "value": 20000000000000000,
             "shortName": "enuls",
             "id": 119,
             "networkId": 119,
@@ -9811,7 +9811,7 @@
                 "decimals": 18
             },
             "infoURL": "https://docs.shardeum.org/",
-            "value": 100000000000000000,
+            "value": 22000000000000000,
             "shortName": "Liberty10",
             "id": 8080,
             "networkId": 8080,
