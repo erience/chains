@@ -112,7 +112,7 @@
                 "decimals": 18
             },
             "infoURL": "https://polygon.technology/",
-            "value": 100000000000000000,
+            "value": 16000000000000000,
             "shortName": "matic",
             "id": 137,
             "networkId": 137,
@@ -247,7 +247,7 @@
                 "decimals": 18
             },
             "infoURL": "https://www.metis.io",
-            "value": 100000000000000000,
+            "value": 16000000000000000,
             "shortName": "metis-andromeda",
             "icon": "https://assets.coingecko.com/coins/images/15595/small/metis.jpeg?1660285312",
             "id": 1088,
@@ -496,7 +496,7 @@
                 "decimals": 18
             },
             "infoURL": "https://siberium.net",
-            "value": 100000000000000000,
+            "value": 16000000000000000,
             "shortName": "sbr",
             "id": 111111,
             "networkId": 111111,
@@ -765,7 +765,7 @@
                 "decimals": 18
             },
             "infoURL": "https://dexalot.com",
-            "value": 100000000000000000,
+            "value": 16000000000000000,
             "shortName": "dexalot",
             "id": 432204,
             "networkId": 432204,
@@ -998,7 +998,7 @@
                 "decimals": 18
             },
             "infoURL": "https://dogcoin.network",
-            "value": 100000000000000000,
+            "value": 16000000000000000,
             "shortName": "DOGSm",
             "id": 1117,
             "networkId": 1117,
@@ -1232,7 +1232,7 @@
                 "decimals": 18
             },
             "infoURL": "https://www.humanprotocol.org",
-            "value": 100000000000000000,
+            "value": 16000000000000000,
             "shortName": "human-mainnet",
             "id": 1273227453,
             "networkId": 1273227453,
@@ -1515,7 +1515,7 @@
                 "decimals": 18
             },
             "infoURL": "https://oasys.games",
-            "value": 100000000000000000,
+            "value": 16000000000000000,
             "shortName": "OAS",
             "id": 248,
             "networkId": 248,
@@ -1852,7 +1852,7 @@
                 "decimals": 18
             },
             "infoURL": "https://numbersprotocol.io",
-            "value": 100000000000000000,
+            "value": 16000000000000000,
             "shortName": "Jade",
             "id": 10507,
             "networkId": 10507,
@@ -1998,7 +1998,7 @@
                 "decimals": 18
             },
             "infoURL": "https://europahub.network/",
-            "value": 100000000000000000,
+            "value": 16000000000000000,
             "shortName": "europa",
             "id": 2046399126,
             "networkId": 2046399126,
@@ -2326,7 +2326,7 @@
                 "decimals": 18
             },
             "infoURL": "https://techpay.io/",
-            "value": 100000000000000000,
+            "value": 16000000000000000,
             "shortName": "tpc",
             "id": 2569,
             "networkId": 2569,
@@ -2513,7 +2513,7 @@
                 "decimals": 18
             },
             "infoURL": "https://sinso.io",
-            "value": 100000000000000000,
+            "value": 16000000000000000,
             "shortName": "ASAR",
             "id": 1388,
             "networkId": 1388,
@@ -2760,7 +2760,7 @@
                 "decimals": 18
             },
             "infoURL": "https://j2o.io",
-            "value": 100000000000000000,
+            "value": 16000000000000000,
             "shortName": "j2o",
             "id": 35011,
             "networkId": 35011,
@@ -2991,7 +2991,7 @@
                 "decimals": 18
             },
             "infoURL": "https://mysardis.com",
-            "value": 100000000000000000,
+            "value": 16000000000000000,
             "shortName": "SRDXm",
             "id": 51712,
             "networkId": 51712,
@@ -3353,7 +3353,7 @@
                 "decimals": 18
             },
             "infoURL": "https://cennz.net",
-            "value": 100000000000000000,
+            "value": 16000000000000000,
             "shortName": "cennz-a",
             "id": 21337,
             "networkId": 21337,
@@ -3491,7 +3491,7 @@
                 "decimals": 18
             },
             "infoURL": "https://maplabs.io",
-            "value": 100000000000000000,
+            "value": 16000000000000000,
             "shortName": "map",
             "id": 22776,
             "networkId": 22776,
@@ -3682,7 +3682,7 @@
                 "decimals": 18
             },
             "infoURL": "https://ttcoin.info/",
-            "value": 100000000000000000,
+            "value": 16000000000000000,
             "shortName": "tc",
             "id": 330844,
             "networkId": 330844,
