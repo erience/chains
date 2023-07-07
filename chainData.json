@@ -3,7 +3,7 @@
         {
             "name": "Ethereum Mainnet",
             "network": "Ethereum",
-            "icon": "https://assets.coingecko.com/coins/images/9651/small/logo_blue.png?1663764088",
+            "icon": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/info/logo.png",
             "rpc": [
                 "https://eth.llamarpc.com"
             ],
