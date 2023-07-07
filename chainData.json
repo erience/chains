@@ -1,6 +1,51 @@
 {
     "ChainData": [
         {
+            "name": "Ethereum Mainnet",
+            "network": "Ethereum",
+            "icon": "https://assets.coingecko.com/coins/images/9651/small/logo_blue.png?1663764088",
+            "rpc": [
+                "https://eth.llamarpc.com"
+            ],
+            "faucets": [],
+            "nativeCurrency": {
+                "name": "Ethereum",
+                "symbol": "ETH",
+                "decimals": 18
+            },
+            "infoURL": "https://ethereum.org",
+            "value": 20000000000000000,
+            "shortName": "eth",
+            "id": 1,
+            "networkId": 1,
+            "explorers": [
+                {
+                    "name": "Ethereum Explorer",
+                    "url": "https://etherscan.io",
+                    "standard": "EIP3091"
+                }
+            ],
+            "rpcUrls": {
+                "default": {
+                    "http": [
+                        "https://eth.llamarpc.com"
+                    ]
+                },
+                "public": {
+                    "http": [
+                        "https://eth.llamarpc.com"
+                    ]
+                }
+            },
+            "blockExplorers": {
+                "public": {
+                    "name": "Ethereum Explorer",
+                    "url": "https://etherscan.io",
+                    "standard": "EIP3091"
+                }
+            }
+        },
+        {
             "name": "Velas EVM Mainnet",
             "network": "Velas",
             "icon": "https://assets.coingecko.com/coins/images/9651/small/logo_blue.png?1663764088",
