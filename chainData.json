@@ -45,6 +45,51 @@
                 }
             }
         },
+                {
+            "name": "Ethereum TestNet",
+            "network": "Ethereum",
+            "icon": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/info/logo.png",
+            "rpc": [
+                "https://rpc.ankr.com/eth_goerli"
+            ],
+            "faucets": [],
+            "nativeCurrency": {
+                "name": "Ethereum",
+                "symbol": "ETH",
+                "decimals": 18
+            },
+            "infoURL": "https://ethereum.org",
+            "value": 20000000000000000,
+            "shortName": "eth",
+            "id": 5,
+            "networkId": 5,
+            "explorers": [
+                {
+                    "name": "Ethereum Explorer",
+                    "url": "https://etherscan.io",
+                    "standard": "EIP3091"
+                }
+            ],
+            "rpcUrls": {
+                "default": {
+                    "http": [
+                        "https://rpc.ankr.com/eth_goerli"
+                    ]
+                },
+                "public": {
+                    "http": [
+                        "https://rpc.ankr.com/eth_goerli"
+                    ]
+                }
+            },
+            "blockExplorers": {
+                "public": {
+                    "name": "Ethereum Explorer",
+                    "url": "https://etherscan.io",
+                    "standard": "EIP3091"
+                }
+            }
+        },
         {
             "name": "Velas EVM Mainnet",
             "network": "Velas",
