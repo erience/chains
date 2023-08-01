@@ -4,46 +4,16 @@
             "name": "Ethereum Mainnet",
             "network": "Ethereum",
             "icon": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/info/logo.png",
-            "rpc": [
-                "https://eth.llamarpc.com"
-            ],
-            "faucets": [],
+            "rpc": "https://eth.llamarpc.com",
             "nativeCurrency": {
                 "name": "Ethereum",
                 "symbol": "ETH",
                 "decimals": 18
             },
-            "infoURL": "https://ethereum.org",
             "value": 20000000000000000,
-            "shortName": "eth",
             "id": 1,
             "networkId": 1,
-            "explorers": [
-                {
-                    "name": "Ethereum Explorer",
-                    "url": "https://etherscan.io",
-                    "standard": "EIP3091"
-                }
-            ],
-            "rpcUrls": {
-                "default": {
-                    "http": [
-                        "https://eth.llamarpc.com"
-                    ]
-                },
-                "public": {
-                    "http": [
-                        "https://eth.llamarpc.com"
-                    ]
-                }
-            },
-            "blockExplorers": {
-                "public": {
-                    "name": "Ethereum Explorer",
-                    "url": "https://etherscan.io",
-                    "standard": "EIP3091"
-                }
-            }
+            "blockExplorers": "https://etherscan.io",
         },
         {
             "name": "Velas EVM Mainnet",
