@@ -1,21 +1,6 @@
 {
     "ChainData": [
         {
-            "name": "Ethereum Mainnet",
-            "network": "Ethereum",
-            "icon": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/info/logo.png",
-            "rpc": "https://eth.llamarpc.com",
-            "nativeCurrency": {
-                "name": "Ethereum",
-                "symbol": "ETH",
-                "decimals": 18
-            },
-            "value": 20000000000000000,
-            "id": 1,
-            "networkId": 1,
-            "blockExplorers": "https://etherscan.io",
-        },
-        {
             "name": "Velas EVM Mainnet",
             "network": "Velas",
             "icon": "https://assets.coingecko.com/coins/images/9651/small/logo_blue.png?1663764088",
