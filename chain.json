@@ -80,7 +80,7 @@
         {
             "name": "Ethereum Classic Mainnet",
             "network": "Ethereum Classic",
-            "icon": "",
+            "icon": "https://raw.githubusercontent.com/erience/chains/main/etc.png",
             "rpc": "https://geth-at.etc-network.info",
             "nativeCurrency": { "name": "Ethereum Classic", "symbol": "ETC", "decimals": 18 },
             "value": 20000000000000000,
@@ -91,7 +91,7 @@
         {
             "name": "OKX Chain Mainnet",
             "network": "OKX",
-            "icon": "",
+            "icon": "https://raw.githubusercontent.com/erience/chains/main/okx.png",
             "rpc": "https://exchainrpc.okex.org",
             "nativeCurrency": { "name": "OKX", "symbol": "OKX", "decimals": 18 },
             "value": 20000000000000000,
@@ -102,7 +102,7 @@
         {
             "name": "Cronos Mainnet Beta",
             "network": "CRO",
-            "icon": "https://s2.coinmarketcap.com/static/img/coins/64x64/3635.png",
+            "icon": "https://raw.githubusercontent.com/erience/chains/main/cronos.png",
             "rpc": "https://evm.cronos.org",
             "nativeCurrency": { "name": "Cronos", "symbol": "CRO", "decimals": 18 },
             "value": 0,
@@ -111,8 +111,9 @@
             "blockExplorers": "https://cronoscan.com"
         },
         {
-            "name": "Arbitrum Nova",
+            "name": "Arbitrum Nova Mainnet",
             "network": "ETH",
+            "icon": "https://raw.githubusercontent.com/erience/chains/main/arbitrum.png",
             "rpc": "https://nova.arbitrum.io/rpc",
             "nativeCurrency": { "name": "Ether", "symbol": "ETH", "decimals": 18 },
             "value": 20000000000000000,
@@ -121,9 +122,9 @@
             "blockExplorers": "https://nova-explorer.arbitrum.io"
         },
         {
-            "name": "Optimism",
+            "name": "Optimism Mainnet",
             "network": "ETH",
-            "icon": "https://s2.coinmarketcap.com/static/img/coins/64x64/11840.png",
+            "icon": "https://raw.githubusercontent.com/erience/chains/main/optimism.png",
             "rpc": "https://mainnet.optimism.io/",
             "nativeCurrency": { "name": "Ether", "symbol": "ETH", "decimals": 18 },
             "value": 20000000000000000,
@@ -134,7 +135,7 @@
         {
             "name": "XinFin XDC Network",
             "network": "XDC",
-            "icon": "xdc",
+            "icon": "https://raw.githubusercontent.com/erience/chains/main/xinfin.png",
             "rpc": "https://erpc.xinfin.network",
             "nativeCurrency": { "name": "XinFin", "symbol": "XDC", "decimals": 18 },
             "value": 20000000000000000,
@@ -143,9 +144,9 @@
             "blockExplorers": "https://xdcscan.io"
         },
         {
-            "name": "Fantom Opera",
+            "name": "Fantom Opera Mainnet",
             "network": "FTM",
-            "icon": "https://s2.coinmarketcap.com/static/img/coins/64x64/3513.png",
+            "icon": "https://raw.githubusercontent.com/erience/chains/main/fantom.png",
             "rpc": "https://rpc.ftm.tools",
             "nativeCurrency": { "name": "Fantom", "symbol": "FTM", "decimals": 18 },
             "value": 21000000000000000,
@@ -154,9 +155,9 @@
             "blockExplorers": "https://ftmscan.com"
         },
         {
-            "name": "Kava EVM",
+            "name": "Kava Mainnet",
             "network": "KAVA",
-            "icon": "https://s2.coinmarketcap.com/static/img/coins/64x64/4846.png",
+            "icon": "https://raw.githubusercontent.com/erience/chains/main/kava.png",
             "rpc": "https://evm.kava.io",
             "nativeCurrency": { "name": "Kava", "symbol": "KAVA", "decimals": 18 },
             "value": 27000000000000000,
@@ -165,8 +166,9 @@
             "blockExplorers": "https://explorer.kava.io"
         },
         {
-            "name": "KCC Mainnet",
+            "name": "Kucoin Community Chain Mainnet",
             "network": "KCC",
+            "icon": "https://raw.githubusercontent.com/erience/chains/main/kucoin.png",
             "rpc": "https://rpc-mainnet.kcc.network",
             "nativeCurrency": { "name": "KuCoin Token", "symbol": "KCS", "decimals": 18 },
             "value": 21000000000000000,
@@ -177,6 +179,7 @@
         {
             "name": "Klaytn Mainnet Cypress",
             "network": "KLAY",
+            "icon": "https://raw.githubusercontent.com/erience/chains/main/klaytn.png",
             "rpc": "https://public-node-api.klaytnapi.com/v1/cypress",
             "nativeCurrency": { "name": "KLAY", "symbol": "KLAY", "decimals": 18 },
             "value": 22000000000000000,
@@ -187,7 +190,7 @@
         {
             "name": "Pepe Chain Mainnet",
             "network": "Pepe",
-            "icon": "",
+            "icon": "https://raw.githubusercontent.com/erience/chains/main/pepe.png",
             "rpc": "https://rpc.pepe-chain.vip",
             "nativeCurrency": { "name": "Pepe", "symbol": "PEPE", "decimals": 18 },
             "value": 20000000000000000,
@@ -198,7 +201,7 @@
         {
             "name": "BitTorrent Mainnet",
             "network": "BitTorrent",
-            "icon": "",
+            "icon": "https://raw.githubusercontent.com/erience/chains/main/btt.png",
             "rpc": "https://rpc.bittorrentchain.io",
             "nativeCurrency": { "name": "BitTorrent", "symbol": "BTT", "decimals": 18 },
             "value": 20000000000000000,
@@ -209,7 +212,7 @@
         {
             "name": "Huobi Eco Mainnet",
             "network": "Huobi",
-            "icon": "",
+            "icon": "https://raw.githubusercontent.com/erience/chains/main/heco.png",
             "rpc": "https://http-mainnet.hecochain.com",
             "nativeCurrency": { "name": "Huobi", "symbol": "HT", "decimals": 18 },
             "value": 20000000000000000,
@@ -220,7 +223,7 @@
         {
             "name": "Flare Mainnet",
             "network": "FLR",
-            "icon": "https://s2.coinmarketcap.com/static/img/coins/64x64/7950.png",
+            "icon": "https://raw.githubusercontent.com/erience/chains/main/flare.png",
             "rpc": "https://flare-api.flare.network/ext/C/rpc",
             "nativeCurrency": { "name": "Flare", "symbol": "FLR", "decimals": 18 },
             "value": 20000000000000000,
