@@ -1078,21 +1078,6 @@
       "blockExplorers": "https://explorer.popcateum.org"
     },
     {
-      "name": "Bobabeam",
-      "network": "Bobabeam",
-      "icon": "https://s2.coinmarketcap.com/static/img/coins/64x64/14556.png",
-      "rpc": "https://bobabeam.boba.network",
-      "nativeCurrency": {
-        "name": "Boba Token",
-        "symbol": "BOBA",
-        "decimals": 18
-      },
-      "value": 20000000000000000,
-      "id": 1294,
-      "networkId": 1294,
-      "blockExplorers": "https://blockexplorer.bobabeam.boba.network"
-    },
-    {
       "name": "AIOZ Network",
       "network": "AIOZ",
       "icon": "https://s2.coinmarketcap.com/static/img/coins/64x64/9104.png",
@@ -2187,21 +2172,6 @@
       "blockExplorers": "https://eticascan.org"
     },
     {
-      "name": "Boba Network",
-      "network": "ETH",
-      "icon": "https://raw.githubusercontent.com/erience/chains/main/crypto87.png",
-      "rpc": "https://mainnet.boba.network/",
-      "nativeCurrency": {
-        "name": "Ether",
-        "symbol": "ETH",
-        "decimals": 18
-      },
-      "value": 20000000000000000,
-      "id": 288,
-      "networkId": 288,
-      "blockExplorers": "https://bobascan.com"
-    },
-    {
       "name": "Nebula Staging",
       "network": "staging-faint-slimy-achird",
       "icon": "https://raw.githubusercontent.com/erience/chains/main/crypto87.png",
@@ -2262,21 +2232,6 @@
       "blockExplorers": "https://mainnet.yuan.org"
     },
     {
-      "name": "Bobaopera",
-      "network": "Bobaopera",
-      "icon": "https://raw.githubusercontent.com/erience/chains/main/crypto87.png",
-      "rpc": "https://bobaopera.boba.network",
-      "nativeCurrency": {
-        "name": "Boba Token",
-        "symbol": "BOBA",
-        "decimals": 18
-      },
-      "value": 22000000000000000,
-      "id": 301,
-      "networkId": 301,
-      "blockExplorers": "https://blockexplorer.bobaopera.boba.network"
-    },
-    {
       "name": "Aitd Mainnet",
       "network": "AITD",
       "icon": "https://raw.githubusercontent.com/erience/chains/main/crypto87.png",
@@ -2335,21 +2290,6 @@
       "id": 30,
       "networkId": 30,
       "blockExplorers": "https://explorer.rsk.co"
-    },
-    {
-      "name": "Boba Avax",
-      "network": "Boba Avax",
-      "icon": "https://raw.githubusercontent.com/erience/chains/main/crypto87.png",
-      "rpc": "https://avax.boba.network",
-      "nativeCurrency": {
-        "name": "Boba Token",
-        "symbol": "BOBA",
-        "decimals": 18
-      },
-      "value": 19000000000000000,
-      "id": 43288,
-      "networkId": 43288,
-      "blockExplorers": "https://blockexplorer.avax.boba.network"
     },
     {
       "name": "Scolcoin Mainnet",
@@ -2487,19 +2427,49 @@
       "blockExplorers": "https://explorer.nahmii.io"
     },
     {
-      "name": "Boba BNB Mainnet",
-      "network": "Boba BNB Mainnet",
-      "icon": "https://raw.githubusercontent.com/erience/chains/main/crypto87.png",
+      "name": "Boba Ethereum Network",
+      "network": "Boba Ethereum",
+      "icon": "https://raw.githubusercontent.com/erience/chains/main/boba.png",
+      "rpc": "https://mainnet.boba.network/",
+      "nativeCurrency": {
+        "name": "Ethereum",
+        "symbol": "ETH",
+        "decimals": 18
+      },
+      "value": 20000000000000000,
+      "id": 288,
+      "networkId": 288,
+      "blockExplorers": "https://bobascan.com"
+    },
+    {
+      "name": "Boba Binance Mainnet",
+      "network": "Boba Binance",
+      "icon": "https://raw.githubusercontent.com/erience/chains/main/boba.png",
       "rpc": "https://bnb.boba.network",
       "nativeCurrency": {
-        "name": "Boba Token",
-        "symbol": "BOBA",
+        "name": "Binance Coin",
+        "symbol": "BNB",
         "decimals": 18
       },
       "value": 20000000000000000,
       "id": 56288,
       "networkId": 56288,
       "blockExplorers": "https://blockexplorer.bnb.boba.network"
+    },
+    {
+      "name": "Boba Avalanche Mainnet",
+      "network": "Boba Avalanche",
+      "icon": "https://raw.githubusercontent.com/erience/chains/main/boba.png",
+      "rpc": "https://avax.boba.network",
+      "nativeCurrency": {
+        "name": "Avalanche",
+        "symbol": "AVAX",
+        "decimals": 18
+      },
+      "value": 19000000000000000,
+      "id": 43288,
+      "networkId": 43288,
+      "blockExplorers": "https://blockexplorer.avax.boba.network"
     },
     {
       "name": "Thinkium Mainnet Chain 1",
