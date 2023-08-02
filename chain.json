@@ -151,18 +151,18 @@
       "blockExplorers": "https://cronoscan.com"
     },
     {
-      "name": "Arbitrum Nova Mainnet",
-      "network": "ETH",
+      "name": "Arbitrum One Mainnet",
+      "network": "Arbitrum One",
       "icon": "https://raw.githubusercontent.com/erience/chains/main/arbitrum.png",
       "rpc": "https://nova.arbitrum.io/rpc",
       "nativeCurrency": {
-        "name": "Ether",
+        "name": "Ethereum",
         "symbol": "ETH",
         "decimals": 18
       },
       "value": 20000000000000000,
-      "id": 42170,
-      "networkId": 42170,
+      "id": 42161,
+      "networkId": 42161,
       "blockExplorers": "https://nova-explorer.arbitrum.io"
     },
     {
