@@ -45,7 +45,7 @@
             "blockExplorers": "https://polygonscan.com"
         },
         {
-            "name": "Polygon zkEVM",
+            "name": "Polygon zkEVM Mainnet",
             "network": "Polygon",
             "icon": "https://raw.githubusercontent.com/erience/chains/main/polygon.png",
             "rpc": "https://zkevm-rpc.com",
@@ -69,7 +69,7 @@
         {
             "name": "Avalanche C-Chain",
             "network": "AVAX",
-            "icon": "avax",
+            "icon": "https://raw.githubusercontent.com/erience/chains/main/avax.png",
             "rpc": "https://api.avax.network/ext/bc/C/rpc",
             "nativeCurrency": { "name": "Avalanche", "symbol": "AVAX", "decimals": 18 },
             "value": 21000000000000000,
