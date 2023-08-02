@@ -482,17 +482,6 @@
             "blockExplorers": "https://cicscan.com"
         },
         {
-            "name": "Web3Games Devnet",
-            "network": "Web3Games",
-            "icon": "https://s2.coinmarketcap.com/static/cloud/img/dex/default-icon-day.svg?_=7934c0e",
-            "rpc": "https://devnet.web3games.org/evm",
-            "nativeCurrency": { "name": "Web3Games", "symbol": "W3G", "decimals": 18 },
-            "value": 21000000000000000,
-            "id": 105,
-            "networkId": 105,
-            "blockExplorers": "https://explorer-devnet.web3games.org"
-        },
-        {
             "name": "Astra",
             "network": "Astra",
             "icon": "https://s2.coinmarketcap.com/static/img/coins/64x64/10621.png",
@@ -713,17 +702,6 @@
             "blockExplorers": "https://mainnet.num.network"
         },
         {
-            "name": "Harmony Devnet Shard 0",
-            "network": "Harmony",
-            "icon": "https://s2.coinmarketcap.com/static/img/coins/64x64/11696.png",
-            "rpc": "https://api.s1.ps.hmny.io",
-            "nativeCurrency": { "name": "ONE", "symbol": "ONE", "decimals": 18 },
-            "value": 27000000000000000,
-            "id": 1666900000,
-            "networkId": 1666900000,
-            "blockExplorers": "https://explorer.ps.hmny.io"
-        },
-        {
             "name": "Exosama Network",
             "network": "EXN",
             "icon": "https://img.api.cryptorank.io/coins/exosama_network1670508799547.png",
@@ -766,17 +744,6 @@
             "id": 186,
             "networkId": 186,
             "blockExplorers": "https://seeleview.net"
-        },
-        {
-            "name": "Neon EVM DevNet",
-            "network": "Solana",
-            "icon": "https://s2.coinmarketcap.com/static/img/coins/64x64/26735.png",
-            "rpc": "https://devnet.neonevm.org",
-            "nativeCurrency": { "name": "Neon", "symbol": "NEON", "decimals": 18 },
-            "value": 23000000000000000,
-            "id": 245022926,
-            "networkId": 245022926,
-            "blockExplorers": "https://devnet.explorer.neon-labs.org"
         },
         {
             "name": "Lightlink Phoenix Mainnet",
@@ -1894,16 +1861,6 @@
             "id": 40,
             "networkId": 40,
             "blockExplorers": "https://teloscan.io"
-        },
-        {
-            "name": "Linqto Devnet",
-            "network": "LNQ",
-            "rpc": "https://linqto-dev.com",
-            "nativeCurrency": { "name": "XRP", "symbol": "XRP", "decimals": 18 },
-            "value": 19000000000000000,
-            "id": 84,
-            "networkId": 84,
-            "blockExplorers": "https://explorer.linqto-dev.com"
         },
         {
             "name": "HAPnetwork",
