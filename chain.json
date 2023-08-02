@@ -16,6 +16,36 @@
       "blockExplorers": "https://etherscan.io"
     },
     {
+    "name": "DogeChain Mainnet",
+    "network": "DogeChain",
+    "icon": "",
+    "rpc": "https://rpc.dogechain.dog",
+    "nativeCurrency": {
+        "name": "DogeChain",
+        "symbol": "DOGE",
+        "decimals": 18
+    },
+    "value": 20000000000000000,
+    "id": 2000,
+    "networkId": 2000,
+    "blockExplorers": "https://explorer.dogechain.dog"
+},
+{
+    "name": "Smart Bitcoin Cash Mainnet",
+    "network": "SmartBCH",
+    "icon": "",
+    "rpc": "https://smartbch.greyh.at",
+    "nativeCurrency": {
+        "name": "SmartBCH",
+        "symbol": "BCH",
+        "decimals": 18
+    },
+    "value": 20000000000000000,
+    "id": 10000,
+    "networkId": 10000,
+    "blockExplorers": "https://www.smartscan.cash"
+},
+    {
       "name": "Velas EVM Mainnet",
       "network": "Velas",
       "icon": "https://assets.coingecko.com/coins/images/9651/small/logo_blue.png?1663764088",
