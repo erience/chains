@@ -177,7 +177,7 @@
             "blockExplorers": "https://explorer.kcc.io/en"
         },
         {
-            "name": "Klaytn Mainnet Cypress",
+            "name": "Klaytn Cypress Mainnet",
             "network": "KLAY",
             "icon": "https://raw.githubusercontent.com/erience/chains/main/klaytn.png",
             "rpc": "https://public-node-api.klaytnapi.com/v1/cypress",
@@ -234,7 +234,7 @@
         {
             "name": "Celo Mainnet",
             "network": "Celo",
-            "icon": "",
+            "icon": "https://raw.githubusercontent.com/erience/chains/main/celo.png",
             "rpc": "https://rpc.ankr.com/celo",
             "nativeCurrency": { "name": "Celo", "symbol": "CELO", "decimals": 18 },
             "value": 20000000000000000,
@@ -245,7 +245,7 @@
         {
             "name": "EthereumPoW Mainnet",
             "network": "EthereumPoW",
-            "icon": "",
+            "icon": "https://raw.githubusercontent.com/erience/chains/main/ethereumpow.png",
             "rpc": "https://mainnet.ethereumpow.org",
             "nativeCurrency": { "name": "EthereumPoW", "symbol": "ETHW", "decimals": 18 },
             "value": 20000000000000000,
@@ -256,7 +256,7 @@
         {
             "name": "Mantle Mainnet",
             "network": "Mantle",
-            "icon": "",
+            "icon": "https://raw.githubusercontent.com/erience/chains/main/mantle.png",
             "rpc": "https://rpc.mantle.xyz",
             "nativeCurrency": { "name": "Mantle", "symbol": "MNT", "decimals": 18 },
             "value": 20000000000000000,
@@ -265,9 +265,9 @@
             "blockExplorers": "https://explorer.mantle.xyz"
         },
         {
-            "name": "IoTeX Network Mainnet",
-            "network": "iotex.io",
-            "icon": "https://s2.coinmarketcap.com/static/img/coins/64x64/2777.png",
+            "name": "IoTeX EVM Mainnet",
+            "network": "IoTeX",
+            "icon": "https://raw.githubusercontent.com/erience/chains/main/iotex.png",
             "rpc": "https://babel-api.mainnet.iotex.io",
             "nativeCurrency": { "name": "IoTeX", "symbol": "IOTX", "decimals": 18 },
             "value": 22000000000000000,
