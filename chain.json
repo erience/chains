@@ -2290,6 +2290,7 @@
         {
             "name": "Web3Q Galileo",
             "network": "Web3Q",
+            "icon": "https://raw.githubusercontent.com/erience/chains/main/crypto87.png",
             "rpc": "https://galileo.web3q.io:8545",
             "nativeCurrency": { "name": "Web3Q", "symbol": "W3Q", "decimals": 18 },
             "value": 24000000000000000,
@@ -2300,7 +2301,7 @@
         {
             "name": "Hedera Mainnet",
             "network": "Hedera",
-            "icon": "hedera",
+            "icon": "https://raw.githubusercontent.com/erience/chains/main/crypto87.png",
             "rpc": "https://mainnet.hashio.io/api",
             "nativeCurrency": { "name": "hbar", "symbol": "HBAR", "decimals": 18 },
             "value": 21000000000000000,
@@ -2322,7 +2323,7 @@
         {
             "name": "Double-A Chain Mainnet",
             "network": "AAC",
-            "icon": "aac",
+            "icon": "https://raw.githubusercontent.com/erience/chains/main/crypto87.png",
             "rpc": "https://rpc.acuteangle.com",
             "nativeCurrency": { "name": "Acuteangle Native Token", "symbol": "AAC", "decimals": 18 },
             "value": 19000000000000000,
@@ -2333,7 +2334,7 @@
         {
             "name": "ENULS Mainnet",
             "network": "ENULS",
-            "icon": "enuls",
+            "icon": "https://raw.githubusercontent.com/erience/chains/main/crypto87.png",
             "rpc": "https://evmapi.nuls.io",
             "nativeCurrency": { "name": "NULS", "symbol": "NULS", "decimals": 18 },
             "value": 20000000000000000,
@@ -2344,7 +2345,7 @@
         {
             "name": "Shardeum Liberty 1.X",
             "network": "Shardeum",
-            "icon": "shardeum",
+            "icon": "https://raw.githubusercontent.com/erience/chains/main/crypto87.png",
             "rpc": "https://liberty10.shardeum.org/",
             "nativeCurrency": { "name": "Shardeum SHM", "symbol": "SHM", "decimals": 18 },
             "value": 22000000000000000,
@@ -2355,7 +2356,7 @@
         {
             "name": "Shardeum Liberty 2.X",
             "network": "Shardeum",
-            "icon": "shardeum",
+            "icon": "https://raw.githubusercontent.com/erience/chains/main/crypto87.png",
             "rpc": "https://liberty20.shardeum.org/",
             "nativeCurrency": { "name": "Shardeum SHM", "symbol": "SHM", "decimals": 18 },
             "value": 19000000000000000,
