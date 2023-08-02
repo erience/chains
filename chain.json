@@ -182,50 +182,50 @@
             "blockExplorers": "https://evm.confluxscan.net"
         },
         {
-    "name": "Huobi Eco Mainnet",
-    "network": "Huobi",
-    "icon": "",
-    "rpc": "https://http-mainnet.hecochain.com",
-    "nativeCurrency": {
-        "name": "Huobi",
-        "symbol": "HT",
-        "decimals": 18
-    },
-    "value": 20000000000000000,
-    "id": 128,
-    "networkId": 128,
-    "blockExplorers": "https://www.hecoinfo.com"
-},
+            "name": "Huobi Eco Mainnet",
+            "network": "Huobi",
+            "icon": "",
+            "rpc": "https://http-mainnet.hecochain.com",
+            "nativeCurrency": {
+                "name": "Huobi",
+                "symbol": "HT",
+                "decimals": 18
+            },
+            "value": 20000000000000000,
+            "id": 128,
+            "networkId": 128,
+            "blockExplorers": "https://www.hecoinfo.com"
+        },
         {
-    "name": "Celo Mainnet",
-    "network": "Celo",
-    "icon": "",
-    "rpc": "https://rpc.ankr.com/celo",
-    "nativeCurrency": {
-        "name": "Celo",
-        "symbol": "CELO",
-        "decimals": 18
-    },
-    "value": 20000000000000000,
-    "id": 42220,
-    "networkId": 42220,
-    "blockExplorers": "https://celoscan.io"
-},
+            "name": "Celo Mainnet",
+            "network": "Celo",
+            "icon": "",
+            "rpc": "https://rpc.ankr.com/celo",
+            "nativeCurrency": {
+                "name": "Celo",
+                "symbol": "CELO",
+                "decimals": 18
+            },
+            "value": 20000000000000000,
+            "id": 42220,
+            "networkId": 42220,
+            "blockExplorers": "https://celoscan.io"
+        },
         {
-    "name": "EthereumPoW Mainnet",
-    "network": "EthereumPoW",
-    "icon": "",
-    "rpc": "https://mainnet.ethereumpow.org",
-    "nativeCurrency": {
-        "name": "EthereumPoW",
-        "symbol": "ETHW",
-        "decimals": 18
-    },
-    "value": 20000000000000000,
-    "id": 10001,
-    "networkId": 10001,
-    "blockExplorers": "https://www.oklink.com/cn/ethw"
-},
+            "name": "EthereumPoW Mainnet",
+            "network": "EthereumPoW",
+            "icon": "",
+            "rpc": "https://mainnet.ethereumpow.org",
+            "nativeCurrency": {
+                "name": "EthereumPoW",
+                "symbol": "ETHW",
+                "decimals": 18
+            },
+            "value": 20000000000000000,
+            "id": 10001,
+            "networkId": 10001,
+            "blockExplorers": "https://www.oklink.com/cn/ethw"
+        },
         {
             "name": "Metis Andromeda Mainnet",
             "network": "ETH",
