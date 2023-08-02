@@ -2937,7 +2937,7 @@
       "blockExplorers": "https://explorer.paribu.network"
     },
     {
-      "name": "Shardeum Sphinx 1.X",
+      "name": "Shardeum Sphinx Mainnet",
       "network": "Shardeum",
       "icon": "https://raw.githubusercontent.com/erience/chains/main/crypto87.png",
       "rpc": "https://sphinx.shardeum.org/",
@@ -3160,36 +3160,6 @@
       "id": 119,
       "networkId": 119,
       "blockExplorers": "https://evmscan.nuls.io"
-    },
-    {
-      "name": "Shardeum Liberty 1.X",
-      "network": "Shardeum",
-      "icon": "https://raw.githubusercontent.com/erience/chains/main/crypto87.png",
-      "rpc": "https://liberty10.shardeum.org/",
-      "nativeCurrency": {
-        "name": "Shardeum SHM",
-        "symbol": "SHM",
-        "decimals": 18
-      },
-      "value": 22000000000000000,
-      "id": 8080,
-      "networkId": 8080,
-      "blockExplorers": "https://explorer-liberty10.shardeum.org"
-    },
-    {
-      "name": "Shardeum Liberty 2.X",
-      "network": "Shardeum",
-      "icon": "https://raw.githubusercontent.com/erience/chains/main/crypto87.png",
-      "rpc": "https://liberty20.shardeum.org/",
-      "nativeCurrency": {
-        "name": "Shardeum SHM",
-        "symbol": "SHM",
-        "decimals": 18
-      },
-      "value": 19000000000000000,
-      "id": 8081,
-      "networkId": 8081,
-      "blockExplorers": "https://explorer-liberty20.shardeum.org"
     }
   ]
 }
