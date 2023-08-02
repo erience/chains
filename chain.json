@@ -58,7 +58,7 @@
         {
             "name": "Smart Bitcoin Cash Mainnet",
             "network": "SmartBCH",
-            "icon": "",
+            "icon": "https://raw.githubusercontent.com/erience/chains/main/smartbch.png",
             "rpc": "https://smartbch.greyh.at",
             "nativeCurrency": { "name": "SmartBCH", "symbol": "BCH", "decimals": 18 },
             "value": 20000000000000000,
