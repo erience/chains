@@ -1,2329 +1,3225 @@
 {
-    "ChainData": [
-        {
-            "name": "Ethereum Mainnet",
-            "network": "Ethereum",
-            "icon": "https://raw.githubusercontent.com/erience/chains/main/eth.png",
-            "rpc": "https://eth.llamarpc.com",
-            "nativeCurrency": { "name": "Ethereum", "symbol": "ETH", "decimals": 18 },
-            "value": 20000000000000000,
-            "id": 1,
-            "networkId": 1,
-            "blockExplorers": "https://etherscan.io"
-        },
-        {
-            "name": "Binance Smart Chain Mainnet",
-            "network": "BSC",
-            "icon": "https://raw.githubusercontent.com/erience/chains/main/bsc.png",
-            "rpc": "https://bsc-dataseed1.binance.org",
-            "nativeCurrency": { "name": "Binance Chain Native Token", "symbol": "BNB", "decimals": 18 },
-            "value": 21000000000000000,
-            "id": 56,
-            "networkId": 56,
-            "blockExplorers": "https://bscscan.com"
-        },
-        {
-            "name": "DogeChain Mainnet",
-            "network": "DogeChain",
-            "icon": "https://raw.githubusercontent.com/erience/chains/main/dogechain.png",
-            "rpc": "https://rpc.dogechain.dog",
-            "nativeCurrency": { "name": "DogeChain", "symbol": "DOGE", "decimals": 18 },
-            "value": 20000000000000000,
-            "id": 2000,
-            "networkId": 2000,
-            "blockExplorers": "https://explorer.dogechain.dog"
-        },
-        {
-            "name": "Polygon Mainnet",
-            "network": "Polygon",
-            "icon": "https://raw.githubusercontent.com/erience/chains/main/polygon.png",
-            "rpc": "https://polygon-rpc.com/",
-            "nativeCurrency": { "name": "MATIC", "symbol": "MATIC", "decimals": 18 },
-            "value": 16000000000000000,
-            "id": 137,
-            "networkId": 137,
-            "blockExplorers": "https://polygonscan.com"
-        },
-        {
-            "name": "Polygon zkEVM Mainnet",
-            "network": "Polygon",
-            "icon": "https://raw.githubusercontent.com/erience/chains/main/polygon.png",
-            "rpc": "https://zkevm-rpc.com",
-            "nativeCurrency": { "name": "Ether", "symbol": "ETH", "decimals": 18 },
-            "value": 20000000000000000,
-            "id": 1101,
-            "networkId": 1101,
-            "blockExplorers": "https://zkevm.polygonscan.com"
-        },
-        {
-            "name": "Smart Bitcoin Cash Mainnet",
-            "network": "SmartBCH",
-            "icon": "https://raw.githubusercontent.com/erience/chains/main/smartbch.png",
-            "rpc": "https://smartbch.greyh.at",
-            "nativeCurrency": { "name": "SmartBCH", "symbol": "BCH", "decimals": 18 },
-            "value": 20000000000000000,
-            "id": 10000,
-            "networkId": 10000,
-            "blockExplorers": "https://www.smartscan.cash"
-        },
-        {
-            "name": "Avalanche C-Chain",
-            "network": "AVAX",
-            "icon": "https://raw.githubusercontent.com/erience/chains/main/avax.png",
-            "rpc": "https://api.avax.network/ext/bc/C/rpc",
-            "nativeCurrency": { "name": "Avalanche", "symbol": "AVAX", "decimals": 18 },
-            "value": 21000000000000000,
-            "id": 43114,
-            "networkId": 43114,
-            "blockExplorers": "https://snowtrace.io"
-        },
-        {
-            "name": "Ethereum Classic Mainnet",
-            "network": "Ethereum Classic",
-            "icon": "https://raw.githubusercontent.com/erience/chains/main/etc.png",
-            "rpc": "https://geth-at.etc-network.info",
-            "nativeCurrency": { "name": "Ethereum Classic", "symbol": "ETC", "decimals": 18 },
-            "value": 20000000000000000,
-            "id": 61,
-            "networkId": 61,
-            "blockExplorers": "https://etcblockexplorer.com"
-        },
-        {
-            "name": "OKX Chain Mainnet",
-            "network": "OKX",
-            "icon": "https://raw.githubusercontent.com/erience/chains/main/okx.png",
-            "rpc": "https://exchainrpc.okex.org",
-            "nativeCurrency": { "name": "OKX", "symbol": "OKX", "decimals": 18 },
-            "value": 20000000000000000,
-            "id": 66,
-            "networkId": 66,
-            "blockExplorers": "https://www.okx.com/explorer/oktc"
-        },
-        {
-            "name": "Cronos Mainnet Beta",
-            "network": "CRO",
-            "icon": "https://raw.githubusercontent.com/erience/chains/main/cronos.png",
-            "rpc": "https://evm.cronos.org",
-            "nativeCurrency": { "name": "Cronos", "symbol": "CRO", "decimals": 18 },
-            "value": 0,
-            "id": 25,
-            "networkId": 25,
-            "blockExplorers": "https://cronoscan.com"
-        },
-        {
-            "name": "Arbitrum Nova Mainnet",
-            "network": "ETH",
-            "icon": "https://raw.githubusercontent.com/erience/chains/main/arbitrum.png",
-            "rpc": "https://nova.arbitrum.io/rpc",
-            "nativeCurrency": { "name": "Ether", "symbol": "ETH", "decimals": 18 },
-            "value": 20000000000000000,
-            "id": 42170,
-            "networkId": 42170,
-            "blockExplorers": "https://nova-explorer.arbitrum.io"
-        },
-        {
-            "name": "Optimism Mainnet",
-            "network": "ETH",
-            "icon": "https://raw.githubusercontent.com/erience/chains/main/optimism.png",
-            "rpc": "https://mainnet.optimism.io/",
-            "nativeCurrency": { "name": "Ether", "symbol": "ETH", "decimals": 18 },
-            "value": 20000000000000000,
-            "id": 10,
-            "networkId": 10,
-            "blockExplorers": "https://optimistic.etherscan.io"
-        },
-        {
-            "name": "XinFin XDC Network",
-            "network": "XDC",
-            "icon": "https://raw.githubusercontent.com/erience/chains/main/xinfin.png",
-            "rpc": "https://erpc.xinfin.network",
-            "nativeCurrency": { "name": "XinFin", "symbol": "XDC", "decimals": 18 },
-            "value": 20000000000000000,
-            "id": 50,
-            "networkId": 50,
-            "blockExplorers": "https://xdcscan.io"
-        },
-        {
-            "name": "Fantom Opera Mainnet",
-            "network": "FTM",
-            "icon": "https://raw.githubusercontent.com/erience/chains/main/fantom.png",
-            "rpc": "https://rpc.ftm.tools",
-            "nativeCurrency": { "name": "Fantom", "symbol": "FTM", "decimals": 18 },
-            "value": 21000000000000000,
-            "id": 250,
-            "networkId": 250,
-            "blockExplorers": "https://ftmscan.com"
-        },
-        {
-            "name": "Kava EVM Mainnet",
-            "network": "KAVA",
-            "icon": "https://raw.githubusercontent.com/erience/chains/main/kava.png",
-            "rpc": "https://evm.kava.io",
-            "nativeCurrency": { "name": "Kava", "symbol": "KAVA", "decimals": 18 },
-            "value": 27000000000000000,
-            "id": 2222,
-            "networkId": 2222,
-            "blockExplorers": "https://explorer.kava.io"
-        },
-        {
-            "name": "Kucoin Community Chain Mainnet",
-            "network": "KCC",
-            "icon": "https://raw.githubusercontent.com/erience/chains/main/kucoin.png",
-            "rpc": "https://rpc-mainnet.kcc.network",
-            "nativeCurrency": { "name": "KuCoin Token", "symbol": "KCS", "decimals": 18 },
-            "value": 21000000000000000,
-            "id": 321,
-            "networkId": 321,
-            "blockExplorers": "https://explorer.kcc.io/en"
-        },
-        {
-            "name": "Klaytn Cypress Mainnet",
-            "network": "KLAY",
-            "icon": "https://raw.githubusercontent.com/erience/chains/main/klaytn.png",
-            "rpc": "https://public-node-api.klaytnapi.com/v1/cypress",
-            "nativeCurrency": { "name": "KLAY", "symbol": "KLAY", "decimals": 18 },
-            "value": 22000000000000000,
-            "id": 8217,
-            "networkId": 8217,
-            "blockExplorers": "https://scope.klaytn.com"
-        },
-        {
-            "name": "Pepe Chain Mainnet",
-            "network": "Pepe",
-            "icon": "https://raw.githubusercontent.com/erience/chains/main/pepe.png",
-            "rpc": "https://rpc.pepe-chain.vip",
-            "nativeCurrency": { "name": "Pepe", "symbol": "PEPE", "decimals": 18 },
-            "value": 20000000000000000,
-            "id": 411,
-            "networkId": 411,
-            "blockExplorers": "https://explorer.pepe-chain.vip"
-        },
-        {
-            "name": "BitTorrent Mainnet",
-            "network": "BitTorrent",
-            "icon": "https://raw.githubusercontent.com/erience/chains/main/btt.png",
-            "rpc": "https://rpc.bittorrentchain.io",
-            "nativeCurrency": { "name": "BitTorrent", "symbol": "BTT", "decimals": 18 },
-            "value": 20000000000000000,
-            "id": 199,
-            "networkId": 199,
-            "blockExplorers": "https://bttcscan.com"
-        },
-        {
-            "name": "Huobi Eco Mainnet",
-            "network": "Huobi",
-            "icon": "https://raw.githubusercontent.com/erience/chains/main/heco.png",
-            "rpc": "https://http-mainnet.hecochain.com",
-            "nativeCurrency": { "name": "Huobi", "symbol": "HT", "decimals": 18 },
-            "value": 20000000000000000,
-            "id": 128,
-            "networkId": 128,
-            "blockExplorers": "https://www.hecoinfo.com"
-        },
-        {
-            "name": "Flare Mainnet",
-            "network": "FLR",
-            "icon": "https://raw.githubusercontent.com/erience/chains/main/flare.png",
-            "rpc": "https://flare-api.flare.network/ext/C/rpc",
-            "nativeCurrency": { "name": "Flare", "symbol": "FLR", "decimals": 18 },
-            "value": 20000000000000000,
-            "id": 14,
-            "networkId": 14,
-            "blockExplorers": "https://flare-explorer.flare.network"
-        },
-        {
-            "name": "Celo Mainnet",
-            "network": "Celo",
-            "icon": "https://raw.githubusercontent.com/erience/chains/main/celo.png",
-            "rpc": "https://rpc.ankr.com/celo",
-            "nativeCurrency": { "name": "Celo", "symbol": "CELO", "decimals": 18 },
-            "value": 20000000000000000,
-            "id": 42220,
-            "networkId": 42220,
-            "blockExplorers": "https://celoscan.io"
-        },
-        {
-            "name": "EthereumPoW Mainnet",
-            "network": "EthereumPoW",
-            "icon": "https://raw.githubusercontent.com/erience/chains/main/ethereumpow.png",
-            "rpc": "https://mainnet.ethereumpow.org",
-            "nativeCurrency": { "name": "EthereumPoW", "symbol": "ETHW", "decimals": 18 },
-            "value": 20000000000000000,
-            "id": 10001,
-            "networkId": 10001,
-            "blockExplorers": "https://www.oklink.com/cn/ethw"
-        },
-        {
-            "name": "Mantle Mainnet",
-            "network": "Mantle",
-            "icon": "https://raw.githubusercontent.com/erience/chains/main/mantle.png",
-            "rpc": "https://rpc.mantle.xyz",
-            "nativeCurrency": { "name": "Mantle", "symbol": "MNT", "decimals": 18 },
-            "value": 20000000000000000,
-            "id": 5000,
-            "networkId": 5000,
-            "blockExplorers": "https://explorer.mantle.xyz"
-        },
-        {
-            "name": "IoTeX EVM Mainnet",
-            "network": "IoTeX",
-            "icon": "https://raw.githubusercontent.com/erience/chains/main/iotex.png",
-            "rpc": "https://babel-api.mainnet.iotex.io",
-            "nativeCurrency": { "name": "IoTeX", "symbol": "IOTX", "decimals": 18 },
-            "value": 22000000000000000,
-            "id": 4689,
-            "networkId": 4689,
-            "blockExplorers": "https://iotexscan.io"
-        },
-        {
-            "name": "Moonbeam",
-            "network": "MOON",
-            "icon": "https://assets.coingecko.com/coins/images/22459/small/glmr.png?1641880985",
-            "rpc": "https://rpc.api.moonbeam.network",
-            "nativeCurrency": { "name": "Glimmer", "symbol": "GLMR", "decimals": 18 },
-            "value": 21000000000000000,
-            "id": 1284,
-            "networkId": 1284,
-            "blockExplorers": "https://moonbeam.moonscan.io"
-        },
-        {
-            "name": "Harmony Mainnet Shard 0",
-            "network": "Harmony",
-            "icon": "https://s2.coinmarketcap.com/static/img/coins/64x64/3945.png",
-            "rpc": "https://api.harmony.one",
-            "nativeCurrency": { "name": "ONE", "symbol": "ONE", "decimals": 18 },
-            "value": 27000000000000000,
-            "id": 1666600000,
-            "networkId": 1666600000,
-            "blockExplorers": "https://explorer.harmony.one"
-        },
-        {
-            "name": "Tomochain Mainnet",
-            "network": "Tomo",
-            "icon": "",
-            "rpc": "https://rpc.tomochain.com",
-            "nativeCurrency": { "name": "Tomo", "symbol": "TOMO", "decimals": 18 },
-            "value": 20000000000000000,
-            "id": 88,
-            "networkId": 88,
-            "blockExplorers": "https://tomoscan.io"
-        },
-        {
-            "name": "Bitgert Mainnet",
-            "network": "Brise",
-            "icon": "brise",
-            "rpc": "https://rpc.icecreamswap.com",
-            "nativeCurrency": { "name": "Bitrise Token", "symbol": "Brise", "decimals": 18 },
-            "value": 19000000000000000,
-            "id": 32520,
-            "networkId": 32520,
-            "blockExplorers": "https://brisescan.com"
-        },
-        {
-            "name": "Core Blocknetwork Mainnet",
-            "network": "Core",
-            "icon": "https://s2.coinmarketcap.com/static/img/coins/64x64/23254.png",
-            "rpc": "https://rpc.coredao.org/",
-            "nativeCurrency": { "name": "Core Blocknetwork Native Token", "symbol": "CORE", "decimals": 18 },
-            "value": 21000000000000000,
-            "id": 1116,
-            "networkId": 1116,
-            "blockExplorers": "https://scan.coredao.org"
-        },
-        {
-            "name": "PulseChain Mainnet",
-            "network": "PulseChain",
-            "icon": "",
-            "rpc": "https://rpc.pulsechain.com",
-            "nativeCurrency": { "name": "PulseChain", "symbol": "PLS", "decimals": 18 },
-            "value": 20000000000000000,
-            "id": 369,
-            "networkId": 369,
-            "blockExplorers": "https://scan.pulsechain.com"
-        },
-        {
-            "name": "WEMIX3.0 Mainnet",
-            "network": "WEMIX",
-            "icon": "",
-            "rpc": "https://api.wemix.com",
-            "nativeCurrency": { "name": "WEMIX", "symbol": "WEMIX", "decimals": 18 },
-            "value": 20000000000000000,
-            "id": 1111,
-            "networkId": 1111,
-            "blockExplorers": "https://explorer.wemix.com"
-        },
-        {
-            "name": "Syscoin Mainnet",
-            "network": "SYS",
-            "rpc": "https://rpc.syscoin.org",
-            "nativeCurrency": { "name": "Syscoin", "symbol": "SYS", "decimals": 18 },
-            "value": 20000000000000000,
-            "id": 57,
-            "networkId": 57,
-            "blockExplorers": "https://explorer.syscoin.org"
-        },
-        {
-            "name": "Energy Web Chain",
-            "network": "Energy Web Chain",
-            "rpc": "https://rpc.energyweb.org",
-            "nativeCurrency": { "name": "Energy Web Token", "symbol": "EWT", "decimals": 18 },
-            "value": 19000000000000000,
-            "id": 246,
-            "networkId": 246,
-            "blockExplorers": "https://explorer.energyweb.org"
-        },
-        {
-            "name": "Velas EVM Mainnet",
-            "network": "Velas",
-            "icon": "https://assets.coingecko.com/coins/images/9651/small/logo_blue.png?1663764088",
-            "rpc": "https://evmexplorer.velas.com/rpc",
-            "nativeCurrency": { "name": "Velas", "symbol": "VLX", "decimals": 18 },
-            "value": 16000000000000000,
-            "id": 106,
-            "networkId": 106,
-            "blockExplorers": "https://evmexplorer.velas.com"
-        },
-        {
-            "name": "Aurora Mainnet",
-            "network": "NEAR",
-            "icon": "https://assets.coingecko.com/coins/images/20582/small/aurora.jpeg?1637250883",
-            "rpc": "https://mainnet.aurora.dev",
-            "nativeCurrency": { "name": "Ether", "symbol": "ETH", "decimals": 18 },
-            "value": 21000000000000000,
-            "id": 1313161554,
-            "networkId": 1313161554,
-            "blockExplorers": "https://aurorascan.dev"
-        },
-        {
-            "name": "Conflux eSpace",
-            "network": "Conflux",
-            "icon": "https://assets.coingecko.com/coins/images/13079/small/3vuYMbjN.png",
-            "rpc": "https://evm.confluxrpc.com",
-            "nativeCurrency": { "name": "CFX", "symbol": "CFX", "decimals": 18 },
-            "value": 27000000000000000,
-            "id": 1030,
-            "networkId": 1030,
-            "blockExplorers": "https://evm.confluxscan.net"
-        },
-        {
-            "name": "Metis Andromeda Mainnet",
-            "network": "ETH",
-            "icon": "https://assets.coingecko.com/coins/images/15595/small/metis.jpeg?1660285312",
-            "rpc": "https://andromeda.metis.io/?owner=1088",
-            "nativeCurrency": { "name": "Metis", "symbol": "METIS", "decimals": 18 },
-            "value": 16000000000000000,
-            "id": 1088,
-            "networkId": 1088,
-            "blockExplorers": "https://andromeda-explorer.metis.io"
-        },
-        {
-            "name": "Uptick Mainnet",
-            "network": "Uptick",
-            "icon": "https://cdn-images-1.medium.com/v2/resize:fit:1200/1*TTEyywFuUEaaNO9n9eThWQ.png",
-            "rpc": "https://json-rpc.uptick.network",
-            "nativeCurrency": { "name": "Uptick", "symbol": "UPTICK", "decimals": 18 },
-            "value": 24000000000000000,
-            "id": 117,
-            "networkId": 117,
-            "blockExplorers": "https://evm-explorer.uptick.network"
-        },
-        {
-            "name": "ThunderCore Mainnet",
-            "network": "TT",
-            "icon": "https://assets.coingecko.com/coins/images/4375/small/ThunderCore_Logo_Mark_Gradient_%283%29.png?1650455349",
-            "rpc": "https://mainnet-rpc.thundercore.com",
-            "nativeCurrency": { "name": "ThunderCore Token", "symbol": "TT", "decimals": 18 },
-            "value": 21000000000000000,
-            "id": 108,
-            "networkId": 108,
-            "blockExplorers": "https://viewblock.io/thundercore"
-        },
-        {
-            "name": "Ultron Mainnet",
-            "network": "Ultron",
-            "icon": "https://assets.coingecko.com/coins/images/26977/small/ULX.png?1661168951",
-            "rpc": "https://ultron-rpc.net",
-            "nativeCurrency": { "name": "Ultron", "symbol": "ULX", "decimals": 18 },
-            "value": 27000000000000000,
-            "id": 1231,
-            "networkId": 1231,
-            "blockExplorers": "https://ulxscan.com"
-        },
-        {
-            "name": "Dehvo",
-            "network": "Dehvo",
-            "rpc": "https://connect.dehvo.com",
-            "nativeCurrency": { "name": "Dehvo", "symbol": "Deh", "decimals": 18 },
-            "value": 22000000000000000,
-            "id": 113,
-            "networkId": 113,
-            "blockExplorers": "https://explorer.dehvo.com"
-        },
-        {
-            "name": "Siberium Network",
-            "network": "SBR",
-            "icon": "https://pbs.twimg.com/media/Fl1XagYWQAIx7a-?format=jpg&name=large",
-            "rpc": "https://rpc.main.siberium.net",
-            "nativeCurrency": { "name": "Siberium", "symbol": "SBR", "decimals": 18 },
-            "value": 16000000000000000,
-            "id": 111111,
-            "networkId": 111111,
-            "blockExplorers": "https://explorer.main.siberium.net"
-        },
-        {
-            "name": "CIC Chain Mainnet",
-            "network": "CIC",
-            "icon": "https://s2.coinmarketcap.com/static/img/coins/64x64/4743.png",
-            "rpc": "https://xapi.cicscan.com",
-            "nativeCurrency": { "name": "Crazy Internet Coin", "symbol": "CIC", "decimals": 18 },
-            "value": 24000000000000000,
-            "id": 1353,
-            "networkId": 1353,
-            "blockExplorers": "https://cicscan.com"
-        },
-        {
-            "name": "Astra",
-            "network": "Astra",
-            "icon": "https://s2.coinmarketcap.com/static/img/coins/64x64/10621.png",
-            "rpc": "https://rpc.astranaut.io",
-            "nativeCurrency": { "name": "Astra", "symbol": "ASA", "decimals": 18 },
-            "value": 20000000000000000,
-            "id": 11110,
-            "networkId": 11110,
-            "blockExplorers": "https://explorer.astranaut.io"
-        },
-        {
-            "name": "Step Network",
-            "network": "STEP",
-            "icon": "https://s2.coinmarketcap.com/static/img/coins/64x64/17010.png",
-            "rpc": "https://rpc.step.network",
-            "nativeCurrency": { "name": "FITFI", "symbol": "FITFI", "decimals": 18 },
-            "value": 22000000000000000,
-            "id": 1234,
-            "networkId": 1234,
-            "blockExplorers": "https://stepscan.io"
-        },
-        {
-            "name": "Dexalot Subnet",
-            "network": "DEXALOT",
-            "icon": "https://s2.coinmarketcap.com/static/img/coins/64x64/18732.png",
-            "rpc": "https://subnets.avax.network/dexalot/mainnet/rpc",
-            "nativeCurrency": { "name": "Dexalot", "symbol": "ALOT", "decimals": 18 },
-            "value": 16000000000000000,
-            "id": 432204,
-            "networkId": 432204,
-            "blockExplorers": "https://subnets.avax.network/dexalot"
-        },
-        {
-            "name": "SPS",
-            "network": "SPS",
-            "icon": "https://s2.coinmarketcap.com/static/img/coins/64x64/11035.png",
-            "rpc": "https://rpc.ssquad.games",
-            "nativeCurrency": { "name": "ECG", "symbol": "ECG", "decimals": 18 },
-            "value": 22000000000000000,
-            "id": 13000,
-            "networkId": 13000,
-            "blockExplorers": "http://spsscan.ssquad.games"
-        },
-        {
-            "name": "Dogcoin Mainnet",
-            "network": "DOGS",
-            "icon": "https://s2.coinmarketcap.com/static/img/coins/64x64/21521.png",
-            "rpc": "https://mainnet-rpc.dogcoin.me",
-            "nativeCurrency": { "name": "Dogcoin", "symbol": "DOGS", "decimals": 18 },
-            "value": 16000000000000000,
-            "id": 1117,
-            "networkId": 1117,
-            "blockExplorers": "https://explorer.dogcoin.network"
-        },
-        {
-            "name": "Elastos Smart Chain",
-            "network": "ETH",
-            "icon": "https://s2.coinmarketcap.com/static/img/coins/64x64/2492.png",
-            "rpc": "https://api.elastos.io/eth",
-            "nativeCurrency": { "name": "Elastos", "symbol": "ELA", "decimals": 18 },
-            "value": 20000000000000000,
-            "id": 20,
-            "networkId": 20,
-            "blockExplorers": "https://esc.elastos.io"
-        },
-        {
-            "name": "Haqq Network",
-            "network": "Haqq",
-            "icon": "https://play-lh.googleusercontent.com/ctaMhi6t9l8JFa6xZ8ZyqgKnuXzQFw7H6CpqXtW-GmBThZehyiAQ-i0YTjoBU2oReHi5",
-            "rpc": "https://rpc.eth.haqq.network",
-            "nativeCurrency": { "name": "Islamic Coin", "symbol": "ISLM", "decimals": 18 },
-            "value": 27000000000000000,
-            "id": 11235,
-            "networkId": 11235,
-            "blockExplorers": "https://explorer.haqq.network"
-        },
-        {
-            "name": "AirDAO Mainnet",
-            "network": "ambnet",
-            "icon": "https://s2.coinmarketcap.com/static/img/coins/64x64/2081.png",
-            "rpc": "https://network.ambrosus.io",
-            "nativeCurrency": { "name": "Amber", "symbol": "AMB", "decimals": 18 },
-            "value": 21000000000000000,
-            "id": 16718,
-            "networkId": 16718,
-            "blockExplorers": "https://airdao.io/explorer"
-        },
-        {
-            "name": "GTON Mainnet",
-            "network": "GTON",
-            "icon": "https://s2.coinmarketcap.com/static/img/coins/64x64/10006.png",
-            "rpc": "https://rpc.gton.network/",
-            "nativeCurrency": { "name": "GCD", "symbol": "GCD", "decimals": 18 },
-            "value": 24000000000000000,
-            "id": 1000,
-            "networkId": 1000,
-            "blockExplorers": ""
-        },
-        {
-            "name": "HUMAN Protocol",
-            "network": "wan-red-ain",
-            "icon": "https://s2.coinmarketcap.com/static/img/coins/64x64/10347.png",
-            "rpc": "https://mainnet.skalenodes.com/v1/wan-red-ain",
-            "nativeCurrency": { "name": "sFUEL", "symbol": "sFUEL", "decimals": 18 },
-            "value": 16000000000000000,
-            "id": 1273227453,
-            "networkId": 1273227453,
-            "blockExplorers": "https://wan-red-ain.explorer.mainnet.skalenodes.com"
-        },
-        {
-            "name": "Zafirium Mainnet",
-            "network": "ZAFIC",
-            "icon": "https://ipfs-2.thirdwebcdn.com/ipfs/bafybeifxqd7zel2m237kq5enavnh2s6cshaavswigogyvae2wevxy5k2ti/",
-            "rpc": "https://mainnet.zakumi.io",
-            "nativeCurrency": { "name": "Zakumi Chain Native Token", "symbol": "ZAFIC", "decimals": 18 },
-            "value": 22000000000000000,
-            "id": 1369,
-            "networkId": 1369,
-            "blockExplorers": "https://explorer.zakumi.io"
-        },
-        {
-            "name": "Soverun Mainnet",
-            "network": "SVRN",
-            "icon": "https://testnet.soverun.com/images/SVRN_logo.png",
-            "rpc": "https://mainnet-rpc.soverun.com",
-            "nativeCurrency": { "name": "Soverun", "symbol": "SVRN", "decimals": 18 },
-            "value": 27000000000000000,
-            "id": 10101010,
-            "networkId": 10101010,
-            "blockExplorers": "https://explorer.soverun.com"
-        },
-        {
-            "name": "Nebula Mainnet",
-            "network": "green-giddy-denebola",
-            "icon": "https://s2.coinmarketcap.com/static/img/coins/64x64/15153.png",
-            "rpc": "https://mainnet.skalenodes.com/v1/green-giddy-denebola",
-            "nativeCurrency": { "name": "sFUEL", "symbol": "sFUEL", "decimals": 18 },
-            "value": 20000000000000000,
-            "id": 1482601649,
-            "networkId": 1482601649,
-            "blockExplorers": "https://green-giddy-denebola.explorer.mainnet.skalenodes.com"
-        },
-        {
-            "name": "Songbird Canary-Network",
-            "network": "SGB",
-            "icon": "https://s2.coinmarketcap.com/static/img/coins/64x64/12186.png",
-            "rpc": "https://songbird-api.flare.network/ext/C/rpc",
-            "nativeCurrency": { "name": "Songbird", "symbol": "SGB", "decimals": 18 },
-            "value": 21000000000000000,
-            "id": 19,
-            "networkId": 19,
-            "blockExplorers": "https://songbird-explorer.flare.network"
-        },
-        {
-            "name": "HashBit Mainnet",
-            "network": "HBIT",
-            "icon": "https://s2.coinmarketcap.com/static/img/coins/64x64/12661.png",
-            "rpc": "https://mainnet-rpc.hashbit.org",
-            "nativeCurrency": { "name": "HashBit Native Token", "symbol": "HBIT", "decimals": 18 },
-            "value": 20000000000000000,
-            "id": 11119,
-            "networkId": 11119,
-            "blockExplorers": "https://explorer.hashbit.org"
-        },
-        {
-            "name": "Oasys Mainnet",
-            "network": "Oasys",
-            "icon": "https://s2.coinmarketcap.com/static/img/coins/64x64/22265.png",
-            "rpc": "https://rpc.mainnet.oasys.games",
-            "nativeCurrency": { "name": "OAS", "symbol": "OAS", "decimals": 18 },
-            "value": 16000000000000000,
-            "id": 248,
-            "networkId": 248,
-            "blockExplorers": "https://explorer.oasys.games"
-        },
-        {
-            "name": "Calypso NFT Hub (SKALE)",
-            "network": "honorable-steel-rasalhague",
-            "icon": "",
-            "rpc": "https://mainnet.skalenodes.com/v1/honorable-steel-rasalhague",
-            "nativeCurrency": { "name": "sFUEL", "symbol": "sFUEL", "decimals": 18 },
-            "value": 22000000000000000,
-            "id": 1564830818,
-            "networkId": 1564830818,
-            "blockExplorers": "https://honorable-steel-rasalhague.explorer.mainnet.skalenodes.com"
-        },
-        {
-            "name": "Ctex Scan Blocknetwork",
-            "network": "Ctex Scan Blocknetwork",
-            "icon": "https://s2.coinmarketcap.com/static/img/coins/64x64/23266.png",
-            "rpc": "https://mainnet-rpc.ctexscan.com/",
-            "nativeCurrency": { "name": "CTEX", "symbol": "CTEX", "decimals": 18 },
-            "value": 24000000000000000,
-            "id": 1455,
-            "networkId": 1455,
-            "blockExplorers": "https://ctexscan.com"
-        },
-        {
-            "name": "MainnetZ Mainnet",
-            "network": "NetZ",
-            "icon": "https://pbs.twimg.com/profile_images/1563701010241146883/zcM8MEO5_400x400.png",
-            "rpc": "https://mainnet-rpc.mainnetz.io",
-            "nativeCurrency": { "name": "MainnetZ", "symbol": "NetZ", "decimals": 18 },
-            "value": 20000000000000000,
-            "id": 2016,
-            "networkId": 2016,
-            "blockExplorers": "https://explorer.mainnetz.io"
-        },
-        {
-            "name": "Numbers Mainnet",
-            "network": "NUM",
-            "icon": "https://s2.coinmarketcap.com/static/img/coins/64x64/13521.png",
-            "rpc": "https://mainnetrpc.num.network",
-            "nativeCurrency": { "name": "NUM Token", "symbol": "NUM", "decimals": 18 },
-            "value": 16000000000000000,
-            "id": 10507,
-            "networkId": 10507,
-            "blockExplorers": "https://mainnet.num.network"
-        },
-        {
-            "name": "Exosama Network",
-            "network": "EXN",
-            "icon": "https://img.api.cryptorank.io/coins/exosama_network1670508799547.png",
-            "rpc": "https://rpc.exosama.com",
-            "nativeCurrency": { "name": "Sama Token", "symbol": "SAMA", "decimals": 18 },
-            "value": 19000000000000000,
-            "id": 2109,
-            "networkId": 2109,
-            "blockExplorers": "https://explorer.exosama.com"
-        },
-        {
-            "name": "Europa SKALE Chain",
-            "network": "europa",
-            "icon": "https://s2.coinmarketcap.com/static/img/coins/64x64/20318.png",
-            "rpc": "https://mainnet.skalenodes.com/v1/elated-tan-skat",
-            "nativeCurrency": { "name": "sFUEL", "symbol": "sFUEL", "decimals": 18 },
-            "value": 16000000000000000,
-            "id": 2046399126,
-            "networkId": 2046399126,
-            "blockExplorers": "https://elated-tan-skat.explorer.mainnet.skalenodes.com"
-        },
-        {
-            "name": "Edgeware EdgeEVM Mainnet",
-            "network": "EDG",
-            "icon": "https://s2.coinmarketcap.com/static/img/coins/64x64/5274.png",
-            "rpc": "https://edgeware-evm.jelliedowl.net",
-            "nativeCurrency": { "name": "Edgeware", "symbol": "EDG", "decimals": 18 },
-            "value": 22000000000000000,
-            "id": 2021,
-            "networkId": 2021,
-            "blockExplorers": "https://edgscan.live"
-        },
-        {
-            "name": "Seele Mainnet",
-            "network": "Seele",
-            "icon": "https://s2.coinmarketcap.com/static/img/coins/64x64/2830.png",
-            "rpc": "https://rpc.seelen.pro/",
-            "nativeCurrency": { "name": "Seele", "symbol": "Seele", "decimals": 18 },
-            "value": 21000000000000000,
-            "id": 186,
-            "networkId": 186,
-            "blockExplorers": "https://seeleview.net"
-        },
-        {
-            "name": "Lightlink Phoenix Mainnet",
-            "network": "Lightlink Phoenix Mainnet",
-            "icon": "https://s2.coinmarketcap.com/static/img/coins/64x64/22943.png",
-            "rpc": "https://replicator-01.phoenix.lightlink.io/rpc/v1",
-            "nativeCurrency": { "name": "Ethereum", "symbol": "ETH", "decimals": 18 },
-            "value": 19000000000000000,
-            "id": 1890,
-            "networkId": 1890,
-            "blockExplorers": "https://phoenix.lightlink.io"
-        },
-        {
-            "name": "OneLedger Mainnet",
-            "network": "OLT",
-            "icon": "https://s2.coinmarketcap.com/static/img/coins/64x64/2921.png",
-            "rpc": "https://mainnet-rpc.oneledger.network",
-            "nativeCurrency": { "name": "OLT", "symbol": "OLT", "decimals": 18 },
-            "value": 27000000000000000,
-            "id": 311752642,
-            "networkId": 311752642,
-            "blockExplorers": "https://mainnet-explorer.oneledger.network"
-        },
-        {
-            "name": "TechPay Mainnet",
-            "network": "TPC",
-            "icon": "https://s2.coinmarketcap.com/static/img/coins/64x64/19113.png",
-            "rpc": "https://api.techpay.io/",
-            "nativeCurrency": { "name": "TechPay", "symbol": "TPC", "decimals": 18 },
-            "value": 16000000000000000,
-            "id": 2569,
-            "networkId": 2569,
-            "blockExplorers": "https://tpcscan.com"
-        },
-        {
-            "name": "Popcateum Mainnet",
-            "network": "POPCATEUM",
-            "icon": "https://s2.coinmarketcap.com/static/img/coins/64x64/27022.png",
-            "rpc": "https://dataseed.popcateum.org",
-            "nativeCurrency": { "name": "Popcat", "symbol": "POP", "decimals": 18 },
-            "value": 22000000000000000,
-            "id": 1213,
-            "networkId": 1213,
-            "blockExplorers": "https://explorer.popcateum.org"
-        },
-        {
-            "name": "Bobabeam",
-            "network": "Bobabeam",
-            "icon": "https://s2.coinmarketcap.com/static/img/coins/64x64/14556.png",
-            "rpc": "https://bobabeam.boba.network",
-            "nativeCurrency": { "name": "Boba Token", "symbol": "BOBA", "decimals": 18 },
-            "value": 20000000000000000,
-            "id": 1294,
-            "networkId": 1294,
-            "blockExplorers": "https://blockexplorer.bobabeam.boba.network"
-        },
-        {
-            "name": "AIOZ Network",
-            "network": "AIOZ",
-            "icon": "https://s2.coinmarketcap.com/static/img/coins/64x64/9104.png",
-            "rpc": "https://eth-dataseed.aioz.network",
-            "nativeCurrency": { "name": "AIOZ", "symbol": "AIOZ", "decimals": 18 },
-            "value": 19000000000000000,
-            "id": 168,
-            "networkId": 168,
-            "blockExplorers": "https://explorer.aioz.network"
-        },
-        {
-            "name": "AmStar Mainnet",
-            "network": "AmStar",
-            "icon": "",
-            "rpc": "https://mainnet-rpc.amstarscan.com",
-            "nativeCurrency": { "name": "SINSO", "symbol": "SINSO", "decimals": 18 },
-            "value": 16000000000000000,
-            "id": 1388,
-            "networkId": 1388,
-            "blockExplorers": "https://mainnet.amstarscan.com"
-        },
-        {
-            "name": "Anytype EVM Chain",
-            "network": "ETH",
-            "icon": "https://www.gitbook.com/cdn-cgi/image/width=40,dpr=2,height=40,fit=contain,format=auto/https%3A%2F%2F291311858-files.gitbook.io%2F~%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FJbcKxgThRdSa4vZyLbvH%252Ficon%252FWnbsw1H89GGdGeGljoLI%252FFrame%25201%2520(6).png%3Falt%3Dmedia%26token%3D3a42bc35-eaa8-4a55-b985-d4bfb76278ca",
-            "rpc": "https://geth.anytype.io",
-            "nativeCurrency": { "name": "ANY", "symbol": "ANY", "decimals": 18 },
-            "value": 22000000000000000,
-            "id": 1701,
-            "networkId": 1701,
-            "blockExplorers": "https://explorer.anytype.io"
-        },
-        {
-            "name": "Ekta",
-            "network": "EKTA",
-            "icon": "https://s2.coinmarketcap.com/static/img/coins/64x64/11516.png",
-            "rpc": "https://main.ekta.io",
-            "nativeCurrency": { "name": "EKTA", "symbol": "EKTA", "decimals": 18 },
-            "value": 20000000000000000,
-            "id": 1994,
-            "networkId": 1994,
-            "blockExplorers": "https://ektascan.io"
-        },
-        {
-            "name": "High Performance Blocknetwork",
-            "network": "HPB",
-            "icon": "https://s2.coinmarketcap.com/static/img/coins/64x64/2345.png",
-            "rpc": "https://hpbnode.com",
-            "nativeCurrency": { "name": "High Performance Blocknetwork Ether", "symbol": "HPB", "decimals": 18 },
-            "value": 19000000000000000,
-            "id": 269,
-            "networkId": 269,
-            "blockExplorers": "https://hscan.org"
-        },
-        {
-            "name": "J2O Taro",
-            "network": "TARO",
-            "rpc": "https://rpc.j2o.io",
-            "nativeCurrency": { "name": "TARO Coin", "symbol": "taro", "decimals": 18 },
-            "value": 16000000000000000,
-            "id": 35011,
-            "networkId": 35011,
-            "blockExplorers": "https://exp.j2o.io"
-        },
-        {
-            "name": "Darwinia Crab Network",
-            "network": "crab",
-            "icon": "https://s2.coinmarketcap.com/static/img/coins/64x64/5798.png",
-            "rpc": "https://crab-rpc.darwinia.network",
-            "nativeCurrency": { "name": "Crab Network Native Token", "symbol": "CRAB", "decimals": 18 },
-            "value": 22000000000000000,
-            "id": 44,
-            "networkId": 44,
-            "blockExplorers": "https://crab.subscan.io"
-        },
-        {
-            "name": "Sherpax Mainnet",
-            "network": "Sherpax Mainnet",
-            "icon": "",
-            "rpc": "https://mainnet.sherpax.io/rpc",
-            "nativeCurrency": { "name": "KSX", "symbol": "KSX", "decimals": 18 },
-            "value": 20000000000000000,
-            "id": 1506,
-            "networkId": 1506,
-            "blockExplorers": "https://evm.sherpax.io"
-        },
-        {
-            "name": "PHI Network v2",
-            "network": "PHI",
-            "icon": "https://s2.coinmarketcap.com/static/img/coins/64x64/25853.png",
-            "rpc": "https://connect.phi.network",
-            "nativeCurrency": { "name": "PHI", "symbol": "Φ", "decimals": 18 },
-            "value": 21000000000000000,
-            "id": 144,
-            "networkId": 144,
-            "blockExplorers": "https://phiscan.com"
-        },
-        {
-            "name": "CloudTx Mainnet",
-            "network": "CLD",
-            "icon": "https://s2.coinmarketcap.com/static/img/coins/64x64/22332.png",
-            "rpc": "https://mainnet-rpc.cloudtx.finance",
-            "nativeCurrency": { "name": "CloudTx", "symbol": "CLD", "decimals": 18 },
-            "value": 27000000000000000,
-            "id": 31223,
-            "networkId": 31223,
-            "blockExplorers": "https://scan.cloudtx.finance"
-        },
-        {
-            "name": "Sardis Mainnet",
-            "network": "SRDX",
-            "icon": "https://ipfs-2.thirdwebcdn.com/ipfs/QmdR9QJjQEh1mBnf2WbJfehverxiP5RDPWMtEECbDP2rc3/",
-            "rpc": "https://mainnet-rpc.sardisnetwork.com",
-            "nativeCurrency": { "name": "Sardis", "symbol": "SRDX", "decimals": 18 },
-            "value": 16000000000000000,
-            "id": 51712,
-            "networkId": 51712,
-            "blockExplorers": "https://contract-mainnet.sardisnetwork.com"
-        },
-        {
-            "name": "Etho Protocol",
-            "network": "ETHO",
-            "icon": "https://s2.coinmarketcap.com/static/img/coins/64x64/3452.png",
-            "rpc": "https://rpc.ethoprotocol.com",
-            "nativeCurrency": { "name": "Etho Protocol", "symbol": "ETHO", "decimals": 18 },
-            "value": 20000000000000000,
-            "id": 1313114,
-            "networkId": 1313114,
-            "blockExplorers": "https://explorer.ethoprotocol.com"
-        },
-        {
-            "name": "Venidium Mainnet",
-            "network": "XVM",
-            "icon": "https://uploads-ssl.webflow.com/61af88c5d2b4d87acb63a2c2/61b1c5bd75fd54f4a8f1bf27_venix2-p-800.png",
-            "rpc": "https://rpc.venidium.io",
-            "nativeCurrency": { "name": "Venidium", "symbol": "XVM", "decimals": 18 },
-            "value": 19000000000000000,
-            "id": 4919,
-            "networkId": 4919,
-            "blockExplorers": "https://evm.venidiumexplorer.com"
-        },
-        {
-            "name": "Bitcinetwork Mainnet",
-            "network": "BITCI",
-            "icon": "https://cdn.dribbble.com/users/4113101/screenshots/19666010/media/f85534150b2ac81cb32752e0400864f5.jpg?compress=1&resize=768x576&vertical=center",
-            "rpc": "https://rpc.bitci.com",
-            "nativeCurrency": { "name": "Bitci", "symbol": "BITCI", "decimals": 18 },
-            "value": 20000000000000000,
-            "id": 1907,
-            "networkId": 1907,
-            "blockExplorers": "https://bitciexplorer.com"
-        },
-        {
-            "name": "Genesis L1",
-            "network": "genesis",
-            "icon": "https://s2.coinmarketcap.com/static/img/coins/64x64/13932.png",
-            "rpc": "https://rpc.genesisl1.org",
-            "nativeCurrency": { "name": "L1 coin", "symbol": "L1", "decimals": 18 },
-            "value": 19000000000000000,
-            "id": 29,
-            "networkId": 29,
-            "blockExplorers": "https://explorer.genesisl1.org"
-        },
-        {
-            "name": "Metaplayerone Mainnet",
-            "network": "METAD",
-            "icon": "",
-            "rpc": "https://rpc.metaplayer.one/",
-            "nativeCurrency": { "name": "METAD", "symbol": "METAD", "decimals": 18 },
-            "value": 22000000000000000,
-            "id": 2122,
-            "networkId": 2122,
-            "blockExplorers": "https://scan.metaplayer.one"
-        },
-        {
-            "name": "Excelon Mainnet",
-            "network": "XLON",
-            "icon": "",
-            "rpc": "https://edgewallet1.xlon.org/",
-            "nativeCurrency": { "name": "Excelon", "symbol": "xlon", "decimals": 18 },
-            "value": 21000000000000000,
-            "id": 22052002,
-            "networkId": 22052002,
-            "blockExplorers": "https://explorer.excelon.io"
-        },
-        {
-            "name": "CENNZnet Azalea",
-            "network": "CENNZnet",
-            "icon": "https://s2.coinmarketcap.com/static/img/coins/64x64/2585.png",
-            "rpc": "https://cennznet.unfrastructure.io/public",
-            "nativeCurrency": { "name": "CPAY", "symbol": "CPAY", "decimals": 18 },
-            "value": 16000000000000000,
-            "id": 21337,
-            "networkId": 21337,
-            "blockExplorers": "https://uncoverexplorer.com"
-        },
-        {
-            "name": "OHO Mainnet",
-            "network": "OHO",
-            "icon": "https://s2.coinmarketcap.com/static/img/coins/64x64/22264.png",
-            "rpc": "https://mainnet.oho.ai",
-            "nativeCurrency": { "name": "OHO", "symbol": "OHO", "decimals": 18 },
-            "value": 19000000000000000,
-            "id": 39815,
-            "networkId": 39815,
-            "blockExplorers": "https://ohoscan.com"
-        },
-        {
-            "name": "Empire Network",
-            "network": "EMPIRE",
-            "icon": "https://s2.coinmarketcap.com/static/img/coins/64x64/10613.png",
-            "rpc": "https://rpc.empirenetwork.io",
-            "nativeCurrency": { "name": "Empire", "symbol": "EMPIRE", "decimals": 18 },
-            "value": 27000000000000000,
-            "id": 3693,
-            "networkId": 3693,
-            "blockExplorers": "https://explorer.empirenetwork.io"
-        },
-        {
-            "name": "MAP Mainnet",
-            "network": "MAP",
-            "icon": "https://s2.coinmarketcap.com/static/img/coins/64x64/4956.png",
-            "rpc": "https://rpc.maplabs.io",
-            "nativeCurrency": { "name": "MAP", "symbol": "MAP", "decimals": 18 },
-            "value": 16000000000000000,
-            "id": 22776,
-            "networkId": 22776,
-            "blockExplorers": "https://mapscan.io"
-        },
-        {
-            "name": "Redlight Chain Mainnet",
-            "network": "REDLC",
-            "icon": "https://s2.coinmarketcap.com/static/img/coins/64x64/21505.png",
-            "rpc": "https://dataseed2.redlightscan.finance",
-            "nativeCurrency": { "name": "Redlight Coin", "symbol": "REDLC", "decimals": 18 },
-            "value": 22000000000000000,
-            "id": 2611,
-            "networkId": 2611,
-            "blockExplorers": "https://redlightscan.finance"
-        },
-        {
-            "name": "Graphlinq Blocknetwork Mainnet",
-            "network": "GLQ Blocknetwork",
-            "rpc": "https://glq-dataseed.graphlinq.io",
-            "nativeCurrency": { "name": "GLQ", "symbol": "GLQ", "decimals": 18 },
-            "value": 19000000000000000,
-            "id": 614,
-            "networkId": 614,
-            "blockExplorers": "https://explorer.graphlinq.io"
-        },
-        {
-            "name": "TTcoin Smart Chain Mainnet",
-            "network": "TSC",
-            "icon": "tscscan",
-            "rpc": "https://mainnet-rpc.tscscan.com",
-            "nativeCurrency": { "name": "TTcoin", "symbol": "TC", "decimals": 18 },
-            "value": 16000000000000000,
-            "id": 330844,
-            "networkId": 330844,
-            "blockExplorers": "https://tscscan.com"
-        },
-        {
-            "name": "Milkomeda C1 Mainnet",
-            "network": "milkAda",
-            "icon": "milkomeda",
-            "rpc": "https://rpc-mainnet-cardano-evm.c1.milkomeda.com",
-            "nativeCurrency": { "name": "milkAda", "symbol": "mADA", "decimals": 18 },
-            "value": 20000000000000000,
-            "id": 2001,
-            "networkId": 2001,
-            "blockExplorers": "https://explorer-mainnet-cardano-evm.c1.milkomeda.com"
-        },
-        {
-            "name": "LoopNetwork Mainnet",
-            "network": "LoopNetwork",
-            "rpc": "https://api.mainnetloop.com",
-            "nativeCurrency": { "name": "LOOP", "symbol": "LOOP", "decimals": 18 },
-            "value": 22000000000000000,
-            "id": 15551,
-            "networkId": 15551,
-            "blockExplorers": "http://explorer.mainnetloop.com"
-        },
-        {
-            "name": "Plian Mainnet Subnetwork 1",
-            "network": "Plian",
-            "rpc": "https://mainnet.plian.io/child_0",
-            "nativeCurrency": { "name": "Plian Token", "symbol": "PI", "decimals": 18 },
-            "value": 19000000000000000,
-            "id": 8007736,
-            "networkId": 8007736,
-            "blockExplorers": "https://piscan.plian.org/child_0"
-        },
-        {
-            "name": "Milkomeda A1 Mainnet",
-            "network": "milkALGO",
-            "icon": "milkomeda",
-            "rpc": "https://rpc-mainnet-algorand-rollup.a1.milkomeda.com",
-            "nativeCurrency": { "name": "milkALGO", "symbol": "mALGO", "decimals": 18 },
-            "value": 20000000000000000,
-            "id": 2002,
-            "networkId": 2002,
-            "blockExplorers": "https://explorer-mainnet-algorand-rollup.a1.milkomeda.com"
-        },
-        {
-            "name": "PoCRNet",
-            "network": "CRC",
-            "rpc": "https://pocrnet.westeurope.cloudapp.azure.com/http",
-            "nativeCurrency": { "name": "Carbon Reduction Coin", "symbol": "CRC", "decimals": 18 },
-            "value": 22000000000000000,
-            "id": 2606,
-            "networkId": 2606,
-            "blockExplorers": "https://ethereum-pocr.github.io/explorer/pocrnet"
-        },
-        {
-            "name": "Camelark Mainnet",
-            "network": "ETHW",
-            "icon": "camelark",
-            "rpc": "https://mainnet-http-rpc.camelark.com",
-            "nativeCurrency": { "name": "EthereumPoW", "symbol": "ETHW", "decimals": 18 },
-            "value": 19000000000000000,
-            "id": 20001,
-            "networkId": 20001,
-            "blockExplorers": "https://scan.camelark.com"
-        },
-        {
-            "name": "zkSync Era Mainnet",
-            "network": "ETH",
-            "icon": "zksync-era",
-            "rpc": "https://mainnet.era.zksync.io",
-            "nativeCurrency": { "name": "Ether", "symbol": "ETH", "decimals": 18 },
-            "value": 21000000000000000,
-            "id": 324,
-            "networkId": 324,
-            "blockExplorers": "https://explorer.zksync.io"
-        },
-        {
-            "name": "REI Chain Mainnet",
-            "network": "REI",
-            "icon": "reinetwork",
-            "rpc": "https://rei-rpc.moonrhythm.io",
-            "nativeCurrency": { "name": "Rei", "symbol": "REI", "decimals": 18 },
-            "value": 27000000000000000,
-            "id": 55555,
-            "networkId": 55555,
-            "blockExplorers": "https://reiscan.com"
-        },
-        {
-            "name": "Tipboxcoin Mainnet",
-            "network": "TPBX",
-            "icon": "tipboxcoinIcon",
-            "rpc": "https://mainnet-rpc.tipboxcoin.net",
-            "nativeCurrency": { "name": "Tipboxcoin", "symbol": "TPBX", "decimals": 18 },
-            "value": 19000000000000000,
-            "id": 404040,
-            "networkId": 404040,
-            "blockExplorers": "https://tipboxcoin.net"
-        },
-        {
-            "name": "Quadrans Blocknetwork",
-            "network": "QDC",
-            "icon": "quadrans",
-            "rpc": "https://rpc.quadrans.io",
-            "nativeCurrency": { "name": "Quadrans Coin", "symbol": "QDC", "decimals": 18 },
-            "value": 22000000000000000,
-            "id": 10946,
-            "networkId": 10946,
-            "blockExplorers": "https://explorer.quadrans.io"
-        },
-        {
-            "name": "Filecoin - Mainnet",
-            "network": "FIL",
-            "icon": "filecoin",
-            "rpc": "https://api.node.glif.io/",
-            "nativeCurrency": { "name": "filecoin", "symbol": "FIL", "decimals": 18 },
-            "value": 20000000000000000,
-            "id": 314,
-            "networkId": 314,
-            "blockExplorers": "https://filfox.info/en"
-        },
-        {
-            "name": "Zilliqa EVM",
-            "network": "ZIL",
-            "icon": "zilliqa",
-            "rpc": "https://api.zilliqa.com",
-            "nativeCurrency": { "name": "Zilliqa", "symbol": "ZIL", "decimals": 18 },
-            "value": 22000000000000000,
-            "id": 32769,
-            "networkId": 32769,
-            "blockExplorers": "https://evmx.zilliqa.com"
-        },
-        {
-            "name": "Crossbell",
-            "network": "Crossbell",
-            "icon": "crossbell",
-            "rpc": "https://rpc.crossbell.io",
-            "nativeCurrency": { "name": "Crossbell Token", "symbol": "CSB", "decimals": 18 },
-            "value": 20000000000000000,
-            "id": 3737,
-            "networkId": 3737,
-            "blockExplorers": "https://scan.crossbell.io"
-        },
-        {
-            "name": "ThaiChain",
-            "network": "TCH",
-            "rpc": "https://rpc.dome.cloud",
-            "nativeCurrency": { "name": "ThaiChain Ether", "symbol": "TCH", "decimals": 18 },
-            "value": 27000000000000000,
-            "id": 7,
-            "networkId": 7,
-            "blockExplorers": "https://exp.thainetwork.org"
-        },
-        {
-            "name": "Vela1 Chain Mainnet",
-            "network": "VELA1",
-            "rpc": "https://rpc.velaverse.io",
-            "nativeCurrency": { "name": "CLASS COIN", "symbol": "CLASS", "decimals": 18 },
-            "value": 22000000000000000,
-            "id": 555,
-            "networkId": 555,
-            "blockExplorers": "https://exp.velaverse.io"
-        },
-        {
-            "name": "Zyx Mainnet",
-            "network": "ZYX",
-            "rpc": "https://rpc-1.zyx.network/",
-            "nativeCurrency": { "name": "Zyx", "symbol": "ZYX", "decimals": 18 },
-            "value": 19000000000000000,
-            "id": 55,
-            "networkId": 55,
-            "blockExplorers": "https://zyxscan.com"
-        },
-        {
-            "name": "Rangers Protocol Mainnet",
-            "network": "Rangers",
-            "icon": "rangers",
-            "rpc": "https://mainnet.rangersprotocol.com/api/jsonrpc",
-            "nativeCurrency": { "name": "Rangers Protocol Gas", "symbol": "RPG", "decimals": 18 },
-            "value": 21000000000000000,
-            "id": 2025,
-            "networkId": 2025,
-            "blockExplorers": "https://scan.rangersprotocol.com"
-        },
-        {
-            "name": "Bitcoin EVM",
-            "network": "Bitcoin EVM",
-            "icon": "ebtc",
-            "rpc": "https://connect.bitcoinevm.com",
-            "nativeCurrency": { "name": "Bitcoin", "symbol": "BTC", "decimals": 18 },
-            "value": 20000000000000000,
-            "id": 2203,
-            "networkId": 2203,
-            "blockExplorers": "https://explorer.bitcoinevm.com"
-        },
-        {
-            "name": "Endurance Smart Chain Mainnet",
-            "network": "ACE",
-            "rpc": "https://rpc-endurance.fusionist.io/",
-            "nativeCurrency": { "name": "Endurance Chain Native Token", "symbol": "ACE", "decimals": 18 },
-            "value": 22000000000000000,
-            "id": 648,
-            "networkId": 648,
-            "blockExplorers": "https://explorer.endurance.fusionist.io"
-        },
-        {
-            "name": "ethereum Fair",
-            "network": "ETHF",
-            "rpc": "https://rpc.etherfair.org",
-            "nativeCurrency": { "name": "EthereumFair", "symbol": "ETHF", "decimals": 18 },
-            "value": 20000000000000000,
-            "id": 513100,
-            "networkId": 513100,
-            "blockExplorers": "https://www.oklink.com/ethf"
-        },
-        {
-            "name": "Imversed Mainnet",
-            "network": "Imversed",
-            "icon": "imversed",
-            "rpc": "https://jsonrpc.imversed.network",
-            "nativeCurrency": { "name": "Imversed Token", "symbol": "IMV", "decimals": 18 },
-            "value": 27000000000000000,
-            "id": 5555555,
-            "networkId": 5555555,
-            "blockExplorers": "https://txe.imversed.network"
-        },
-        {
-            "name": "DoKEN Super Chain Mainnet",
-            "network": "DoKEN Super Chain",
-            "icon": "doken",
-            "rpc": "https://sgrpc.doken.dev",
-            "nativeCurrency": { "name": "DoKEN", "symbol": "DKN", "decimals": 18 },
-            "value": 19000000000000000,
-            "id": 61916,
-            "networkId": 61916,
-            "blockExplorers": "https://explore.doken.dev"
-        },
-        {
-            "name": "TCG Verse Mainnet",
-            "network": "TCG Verse",
-            "icon": "tcg_verse",
-            "rpc": "https://rpc.tcgverse.xyz",
-            "nativeCurrency": { "name": "OAS", "symbol": "OAS", "decimals": 18 },
-            "value": 22000000000000000,
-            "id": 2400,
-            "networkId": 2400,
-            "blockExplorers": "https://explorer.tcgverse.xyz"
-        },
-        {
-            "name": "Gear Zero Network Mainnet",
-            "network": "GearZero",
-            "rpc": "https://gzn.linksme.info",
-            "nativeCurrency": { "name": "Gear Zero Network Native Token", "symbol": "GZN", "decimals": 18 },
-            "value": 21000000000000000,
-            "id": 516,
-            "networkId": 516,
-            "blockExplorers": ""
-        },
-        {
-            "name": "DRAC Network",
-            "network": "DRAC",
-            "icon": "drac",
-            "rpc": "https://www.dracscan.com/rpc",
-            "nativeCurrency": { "name": "DRAC", "symbol": "DRAC", "decimals": 18 },
-            "value": 20000000000000000,
-            "id": 3912,
-            "networkId": 3912,
-            "blockExplorers": "https://www.dracscan.io"
-        },
-        {
-            "name": "OpenVessel",
-            "network": "VSL",
-            "icon": "vsl",
-            "rpc": "https://mainnet-external.openvessel.io",
-            "nativeCurrency": { "name": "Vessel ETH", "symbol": "VETH", "decimals": 18 },
-            "value": 22000000000000000,
-            "id": 7355310,
-            "networkId": 7355310,
-            "blockExplorers": "https://mainnet-explorer.openvessel.io"
-        },
-        {
-            "name": "MultiVAC Mainnet",
-            "network": "MultiVAC",
-            "icon": "multivac",
-            "rpc": "https://rpc.mtv.ac",
-            "nativeCurrency": { "name": "MultiVAC", "symbol": "MTV", "decimals": 18 },
-            "value": 19000000000000000,
-            "id": 62621,
-            "networkId": 62621,
-            "blockExplorers": "https://e.mtv.ac"
-        },
-        {
-            "name": "MARO Blocknetwork Mainnet",
-            "network": "MARO Blocknetwork",
-            "icon": "MARO",
-            "rpc": "https://rpc-mainnet.ma.ro",
-            "nativeCurrency": { "name": "MARO", "symbol": "MARO", "decimals": 18 },
-            "value": 27000000000000000,
-            "id": 8848,
-            "networkId": 8848,
-            "blockExplorers": "https://scan.ma.ro/#"
-        },
-        {
-            "name": "Darwinia Network",
-            "network": "darwinia",
-            "rpc": "https://rpc.darwinia.network",
-            "nativeCurrency": { "name": "Darwinia Network Native Token", "symbol": "RING", "decimals": 18 },
-            "value": 22000000000000000,
-            "id": 46,
-            "networkId": 46,
-            "blockExplorers": "https://darwinia.subscan.io"
-        },
-        {
-            "name": "Phoenix Mainnet",
-            "network": "Phoenix",
-            "icon": "phoenix",
-            "rpc": "https://rpc.phoenixplorer.com/",
-            "nativeCurrency": { "name": "Phoenix", "symbol": "PHX", "decimals": 18 },
-            "value": 20000000000000000,
-            "id": 13381,
-            "networkId": 13381,
-            "blockExplorers": "https://phoenixplorer.com"
-        },
-        {
-            "name": "WoopChain Mainnet",
-            "network": "WOOP",
-            "icon": "woopnetwork",
-            "rpc": "https://rpc.woop.ai/rpc",
-            "nativeCurrency": { "name": "WoopCoin", "symbol": "WOOC", "decimals": 18 },
-            "value": 22000000000000000,
-            "id": 139,
-            "networkId": 139,
-            "blockExplorers": "https://explorer.wikiwoop.com"
-        },
-        {
-            "name": "Mixin Virtual Machine",
-            "network": "MVM",
-            "icon": "mvm",
-            "rpc": "https://geth.mvm.dev",
-            "nativeCurrency": { "name": "Ether", "symbol": "ETH", "decimals": 18 },
-            "value": 19000000000000000,
-            "id": 73927,
-            "networkId": 73927,
-            "blockExplorers": "https://scan.mvm.dev"
-        },
-        {
-            "name": "TLChain Network Mainnet",
-            "network": "TLC",
-            "icon": "tlc",
-            "rpc": "https://mainnet-rpc.tlxscan.com/",
-            "nativeCurrency": { "name": "TLChain Network", "symbol": "TLC", "decimals": 18 },
-            "value": 21000000000000000,
-            "id": 5177,
-            "networkId": 5177,
-            "blockExplorers": "https://explorer.tlnetwork.network"
-        },
-        {
-            "name": "Planq Mainnet",
-            "network": "Planq",
-            "icon": "planq",
-            "rpc": "https://evm-rpc.planq.network",
-            "nativeCurrency": { "name": "Planq", "symbol": "PLQ", "decimals": 18 },
-            "value": 22000000000000000,
-            "id": 7070,
-            "networkId": 7070,
-            "blockExplorers": "https://evm.planq.network"
-        },
-        {
-            "name": "Lucid Blocknetwork",
-            "network": "Lucid",
-            "icon": "lucid",
-            "rpc": "https://rpc.lucidcoin.io",
-            "nativeCurrency": { "name": "LUCID", "symbol": "LUCID", "decimals": 18 },
-            "value": 27000000000000000,
-            "id": 800,
-            "networkId": 800,
-            "blockExplorers": "https://explorer.lucidcoin.io"
-        },
-        {
-            "name": "CENNZnet Nikau",
-            "network": "CENNZnet",
-            "icon": "cennz",
-            "rpc": "https://nikau.centrality.me/public",
-            "nativeCurrency": { "name": "CPAY", "symbol": "CPAY", "decimals": 18 },
-            "value": 20000000000000000,
-            "id": 3001,
-            "networkId": 3001,
-            "blockExplorers": "https://www.uncoverexplorer.com/?network=Nikau"
-        },
-        {
-            "name": "PandoProject Mainnet",
-            "network": "PandoProject",
-            "icon": "pando",
-            "rpc": "https://eth-rpc-api.pandoproject.org/rpc",
-            "nativeCurrency": { "name": "pando-token", "symbol": "PTX", "decimals": 18 },
-            "value": 19000000000000000,
-            "id": 3601,
-            "networkId": 3601,
-            "blockExplorers": "https://explorer.pandoproject.org"
-        },
-        {
-            "name": "IVAR Chain Mainnet",
-            "network": "IVAR",
-            "icon": "ivar",
-            "rpc": "https://mainnet-rpc.ivarex.com",
-            "nativeCurrency": { "name": "Ivar", "symbol": "IVAR", "decimals": 18 },
-            "value": 22000000000000000,
-            "id": 88888,
-            "networkId": 88888,
-            "blockExplorers": "https://ivarscan.com"
-        },
-        {
-            "name": "Alph Network",
-            "network": "ALPH",
-            "rpc": "https://rpc.alph.network",
-            "nativeCurrency": { "name": "Alph Network", "symbol": "ALPH", "decimals": 18 },
-            "value": 20000000000000000,
-            "id": 8738,
-            "networkId": 8738,
-            "blockExplorers": "https://explorer.alph.network"
-        },
-        {
-            "name": "PartyChain",
-            "network": "mainnet",
-            "icon": "grams",
-            "rpc": "https://tea.mining4people.com/rpc",
-            "nativeCurrency": { "name": "Grams", "symbol": "GRAMS", "decimals": 18 },
-            "value": 19000000000000000,
-            "id": 1773,
-            "networkId": 1773,
-            "blockExplorers": "https://partyexplorer.co"
-        },
-        {
-            "name": "Binance Smart Chain TestNet",
-            "network": "BSC",
-            "rpc": "https://data-seed-prebsc-1-s1.binance.org:8545",
-            "nativeCurrency": { "name": "Binance Chain Native Token", "symbol": "tBNB", "decimals": 18 },
-            "value": 27000000000000000,
-            "id": 97,
-            "networkId": 97,
-            "blockExplorers": "https://testnet.bscscan.com"
-        },
-        {
-            "name": "BeanEco SmartChain",
-            "network": "BESC",
-            "rpc": "https://mainnet-rpc.bescscan.io",
-            "nativeCurrency": { "name": "BeanEco SmartChain", "symbol": "BESC", "decimals": 18 },
-            "value": 19000000000000000,
-            "id": 535037,
-            "networkId": 535037,
-            "blockExplorers": "https://Bescscan.io"
-        },
-        {
-            "name": "Acria IntelliChain",
-            "network": "AIC",
-            "rpc": "https://aic.acria.ai",
-            "nativeCurrency": { "name": "ACRIA", "symbol": "ACRIA", "decimals": 18 },
-            "value": 22000000000000000,
-            "id": 47,
-            "networkId": 47,
-            "blockExplorers": "https://explorer.acria.ai"
-        },
-        {
-            "name": "Neonlink Mainnet",
-            "network": "Neonlink",
-            "icon": "neonlink",
-            "rpc": "https://mainnet.neonlink.io",
-            "nativeCurrency": { "name": "Neonlink Native Token", "symbol": "NEON", "decimals": 18 },
-            "value": 20000000000000000,
-            "id": 259,
-            "networkId": 259,
-            "blockExplorers": "https://scan.neonlink.io"
-        },
-        {
-            "name": "Omax Mainnet",
-            "network": "OMAX Chain",
-            "icon": "omaxnetwork",
-            "rpc": "https://mainapi.omaxray.com",
-            "nativeCurrency": { "name": "OMAX COIN", "symbol": "OMAX", "decimals": 18 },
-            "value": 27000000000000000,
-            "id": 311,
-            "networkId": 311,
-            "blockExplorers": "https://omaxray.com"
-        },
-        {
-            "name": "Bear Network Chain Mainnet",
-            "network": "BRNKC",
-            "icon": "brnkc",
-            "rpc": "https://brnkc-mainnet.bearnetwork.net",
-            "nativeCurrency": { "name": "Bear Network Chain Native Token", "symbol": "BRNKC", "decimals": 18 },
-            "value": 21000000000000000,
-            "id": 641230,
-            "networkId": 641230,
-            "blockExplorers": "https://brnkscan.bearnetwork.net"
-        },
-        {
-            "name": "Oasis Sapphire",
-            "network": "Sapphire",
-            "icon": "oasis",
-            "rpc": "https://sapphire.oasis.io",
-            "nativeCurrency": { "name": "Sapphire Rose", "symbol": "ROSE", "decimals": 18 },
-            "value": 20000000000000000,
-            "id": 23294,
-            "networkId": 23294,
-            "blockExplorers": "https://explorer.sapphire.oasis.io"
-        },
-        {
-            "name": "Bifrost Mainnet",
-            "network": "BFC",
-            "icon": "bifrost",
-            "rpc": "https://public-01.mainnet.thebifrost.io/rpc",
-            "nativeCurrency": { "name": "Bifrost", "symbol": "BFC", "decimals": 18 },
-            "value": 19000000000000000,
-            "id": 3068,
-            "networkId": 3068,
-            "blockExplorers": "https://explorer.mainnet.thebifrost.io"
-        },
-        {
-            "name": "Vision - Mainnet",
-            "network": "Vision",
-            "rpc": "https://infragrid.v.network/ethereum/compatible",
-            "nativeCurrency": { "name": "VS", "symbol": "VS", "decimals": 18 },
-            "value": 22000000000000000,
-            "id": 888888,
-            "networkId": 888888,
-            "blockExplorers": "https://www.visionscan.org"
-        },
-        {
-            "name": "Etica Mainnet",
-            "network": "Etica Protocol (ETI/EGAZ)",
-            "icon": "etica",
-            "rpc": "https://eticamainnet.eticascan.org",
-            "nativeCurrency": { "name": "EGAZ", "symbol": "EGAZ", "decimals": 18 },
-            "value": 20000000000000000,
-            "id": 61803,
-            "networkId": 61803,
-            "blockExplorers": "https://eticascan.org"
-        },
-        {
-            "name": "Boba Network",
-            "network": "ETH",
-            "rpc": "https://mainnet.boba.network/",
-            "nativeCurrency": { "name": "Ether", "symbol": "ETH", "decimals": 18 },
-            "value": 20000000000000000,
-            "id": 288,
-            "networkId": 288,
-            "blockExplorers": "https://bobascan.com"
-        },
-        {
-            "name": "Nebula Staging",
-            "network": "staging-faint-slimy-achird",
-            "rpc": "https://staging-v3.skalenodes.com/v1/staging-faint-slimy-achird",
-            "nativeCurrency": { "name": "sFUEL", "symbol": "sFUEL", "decimals": 18 },
-            "value": 21000000000000000,
-            "id": 503129905,
-            "networkId": 503129905,
-            "blockExplorers": "https://staging-faint-slimy-achird.explorer.staging-v3.skalenodes.com"
-        },
-        {
-            "name": "XANAChain",
-            "network": "XANAChain",
-            "icon": "xeta",
-            "rpc": "https://mainnet.xana.net/rpc",
-            "nativeCurrency": { "name": "XETA", "symbol": "XETA", "decimals": 18 },
-            "value": 19000000000000000,
-            "id": 8888,
-            "networkId": 8888,
-            "blockExplorers": "https://xananetwork.xana.net"
-        },
-        {
-            "name": "Vention Smart Chain Mainnet",
-            "network": "VSC",
-            "icon": "vention",
-            "rpc": "https://mainnet-rpc.vention.network",
-            "nativeCurrency": { "name": "VNT", "symbol": "VNT", "decimals": 18 },
-            "value": 20000000000000000,
-            "id": 77612,
-            "networkId": 77612,
-            "blockExplorers": "https://ventionscan.io"
-        },
-        {
-            "name": "YuanChain Mainnet",
-            "network": "YCC",
-            "icon": "ycc",
-            "rpc": "https://mainnet.yuan.org/eth",
-            "nativeCurrency": { "name": "YCC", "symbol": "YCC", "decimals": 18 },
-            "value": 27000000000000000,
-            "id": 3999,
-            "networkId": 3999,
-            "blockExplorers": "https://mainnet.yuan.org"
-        },
-        {
-            "name": "Bobaopera",
-            "network": "Bobaopera",
-            "rpc": "https://bobaopera.boba.network",
-            "nativeCurrency": { "name": "Boba Token", "symbol": "BOBA", "decimals": 18 },
-            "value": 22000000000000000,
-            "id": 301,
-            "networkId": 301,
-            "blockExplorers": "https://blockexplorer.bobaopera.boba.network"
-        },
-        {
-            "name": "Aitd Mainnet",
-            "network": "AITD",
-            "icon": "aitd",
-            "rpc": "https://walletrpc.aitd.io",
-            "nativeCurrency": { "name": "AITD Mainnet", "symbol": "AITD", "decimals": 18 },
-            "value": 19000000000000000,
-            "id": 1319,
-            "networkId": 1319,
-            "blockExplorers": "https://aitd-explorer-new.aitd.io"
-        },
-        {
-            "name": "XDC Apothem Network",
-            "network": "XDC",
-            "icon": "xdc",
-            "rpc": "https://rpc.apothem.network",
-            "nativeCurrency": { "name": "XinFin", "symbol": "TXDC", "decimals": 18 },
-            "value": 20000000000000000,
-            "id": 51,
-            "networkId": 51,
-            "blockExplorers": "https://apothem.xinfinscan.com"
-        },
-        {
-            "name": "Toki Network",
-            "network": "TOKI",
-            "icon": "toki",
-            "rpc": "https://mainnet.buildwithtoki.com/v0/rpc",
-            "nativeCurrency": { "name": "Toki", "symbol": "TOKI", "decimals": 18 },
-            "value": 19000000000000000,
-            "id": 8654,
-            "networkId": 8654,
-            "blockExplorers": ""
-        },
-        {
-            "name": "RSK Mainnet",
-            "network": "RSK",
-            "rpc": "https://public-node.rsk.co",
-            "nativeCurrency": { "name": "Smart Bitcoin", "symbol": "RBTC", "decimals": 18 },
-            "value": 21000000000000000,
-            "id": 30,
-            "networkId": 30,
-            "blockExplorers": "https://explorer.rsk.co"
-        },
-        {
-            "name": "Boba Avax",
-            "network": "Boba Avax",
-            "rpc": "https://avax.boba.network",
-            "nativeCurrency": { "name": "Boba Token", "symbol": "BOBA", "decimals": 18 },
-            "value": 19000000000000000,
-            "id": 43288,
-            "networkId": 43288,
-            "blockExplorers": "https://blockexplorer.avax.boba.network"
-        },
-        {
-            "name": "Scolcoin Mainnet",
-            "network": "SCOLWEI",
-            "icon": "scolcoin",
-            "rpc": "https://mainnet-rpc.scolcoin.com",
-            "nativeCurrency": { "name": "Scolcoin", "symbol": "SCOL", "decimals": 18 },
-            "value": 27000000000000000,
-            "id": 65450,
-            "networkId": 65450,
-            "blockExplorers": "https://explorer.scolcoin.com"
-        },
-        {
-            "name": "Fusion Mainnet",
-            "network": "FSN",
-            "icon": "fusion",
-            "rpc": "https://mainnet.fusionnetwork.io",
-            "nativeCurrency": { "name": "Fusion", "symbol": "FSN", "decimals": 18 },
-            "value": 19000000000000000,
-            "id": 32659,
-            "networkId": 32659,
-            "blockExplorers": "https://fsnscan.com"
-        },
-        {
-            "name": "Hedera Previewnet",
-            "network": "Hedera",
-            "icon": "hedera",
-            "rpc": "https://previewnet.hashio.io/api",
-            "nativeCurrency": { "name": "hbar", "symbol": "HBAR", "decimals": 18 },
-            "value": 20000000000000000,
-            "id": 297,
-            "networkId": 297,
-            "blockExplorers": "https://hashscan.io/previewnet/dashboard"
-        },
-        {
-            "name": "Carbon EVM",
-            "network": "Carbon",
-            "icon": "carbon",
-            "rpc": "https://evm-api.carbon.network/",
-            "nativeCurrency": { "name": "swth", "symbol": "SWTH", "decimals": 18 },
-            "value": 21000000000000000,
-            "id": 9790,
-            "networkId": 9790,
-            "blockExplorers": ""
-        },
-        {
-            "name": "Sapphire by Unique",
-            "network": "UNQ",
-            "icon": "sapphire",
-            "rpc": "https://rpc-sapphire.unique.network",
-            "nativeCurrency": { "name": "Quartz", "symbol": "QTZ", "decimals": 18 },
-            "value": 27000000000000000,
-            "id": 8883,
-            "networkId": 8883,
-            "blockExplorers": "https://uniquescan.io/sapphire"
-        },
-        {
-            "name": "PDC Mainnet",
-            "network": "IPDC",
-            "rpc": "https://mainnet.ipdc.io/",
-            "nativeCurrency": { "name": "PDC", "symbol": "PDC", "decimals": 18 },
-            "value": 24000000000000000,
-            "id": 666301171999,
-            "networkId": 666301171999,
-            "blockExplorers": "https://scan.ipdc.io"
-        },
-        {
-            "name": "Thinkium Mainnet Chain 2",
-            "network": "Thinkium",
-            "rpc": "https://proxy2.thinkiumrpc.net/",
-            "nativeCurrency": { "name": "TKM", "symbol": "TKM", "decimals": 18 },
-            "value": 22000000000000000,
-            "id": 70002,
-            "networkId": 70002,
-            "blockExplorers": "https://network2.thinkiumscan.net"
-        },
-        {
-            "name": "XT Smart Chain Mainnet",
-            "network": "XSC",
-            "icon": "xsc",
-            "rpc": "https://datarpc1.xsc.pub",
-            "nativeCurrency": { "name": "XT Smart Chain Native Token", "symbol": "XT", "decimals": 18 },
-            "value": 19000000000000000,
-            "id": 1024,
-            "networkId": 1024,
-            "blockExplorers": "https://xscscan.pub"
-        },
-        {
-            "name": "Nahmii Mainnet",
-            "network": "Nahmii",
-            "icon": "nahmii",
-            "rpc": "https://l2.nahmii.io",
-            "nativeCurrency": { "name": "Ether", "symbol": "ETH", "decimals": 18 },
-            "value": 24000000000000000,
-            "id": 5551,
-            "networkId": 5551,
-            "blockExplorers": "https://explorer.nahmii.io"
-        },
-        {
-            "name": "Boba BNB Mainnet",
-            "network": "Boba BNB Mainnet",
-            "rpc": "https://bnb.boba.network",
-            "nativeCurrency": { "name": "Boba Token", "symbol": "BOBA", "decimals": 18 },
-            "value": 20000000000000000,
-            "id": 56288,
-            "networkId": 56288,
-            "blockExplorers": "https://blockexplorer.bnb.boba.network"
-        },
-        {
-            "name": "Thinkium Mainnet Chain 1",
-            "network": "Thinkium",
-            "rpc": "https://proxy1.thinkiumrpc.net/",
-            "nativeCurrency": { "name": "TKM", "symbol": "TKM", "decimals": 18 },
-            "value": 21000000000000000,
-            "id": 70001,
-            "networkId": 70001,
-            "blockExplorers": "https://network1.thinkiumscan.net"
-        },
-        {
-            "name": "Quartz by Unique",
-            "network": "UNQ",
-            "icon": "quartz",
-            "rpc": "https://rpc-quartz.unique.network",
-            "nativeCurrency": { "name": "Quartz", "symbol": "QTZ", "decimals": 18 },
-            "value": 22000000000000000,
-            "id": 8881,
-            "networkId": 8881,
-            "blockExplorers": "https://uniquescan.io/quartz"
-        },
-        {
-            "name": "Qitmeer",
-            "network": "MEER",
-            "icon": "meer",
-            "rpc": "https://evm-dataseed1.meerscan.io",
-            "nativeCurrency": { "name": "Qitmeer", "symbol": "MEER", "decimals": 18 },
-            "value": 20000000000000000,
-            "id": 813,
-            "networkId": 813,
-            "blockExplorers": "https://evm.meerscan.com"
-        },
-        {
-            "name": "Telos EVM Mainnet",
-            "network": "TLOS",
-            "rpc": "https://mainnet.telos.net/evm",
-            "nativeCurrency": { "name": "Telos", "symbol": "TLOS", "decimals": 18 },
-            "value": 24000000000000000,
-            "id": 40,
-            "networkId": 40,
-            "blockExplorers": "https://teloscan.io"
-        },
-        {
-            "name": "HAPnetwork",
-            "network": "HAPnetwork",
-            "icon": "hap",
-            "rpc": "https://jsonrpc.hap.land",
-            "nativeCurrency": { "name": "HAP", "symbol": "HAP", "decimals": 18 },
-            "value": 20000000000000000,
-            "id": 8794598,
-            "networkId": 8794598,
-            "blockExplorers": "https://blockscout.hap.land"
-        },
-        {
-            "name": "The Root Network - Mainnet",
-            "network": "TRN",
-            "rpc": "https://root.rootnet.live/archive",
-            "nativeCurrency": { "name": "XRP", "symbol": "XRP", "decimals": 6 },
-            "value": 21000000000000000,
-            "id": 7668,
-            "networkId": 7668,
-            "blockExplorers": "https://explorer.rootnet.live"
-        },
-        {
-            "name": "Unique",
-            "network": "UNQ",
-            "icon": "unique",
-            "rpc": "https://rpc.unique.network",
-            "nativeCurrency": { "name": "Unique", "symbol": "UNQ", "decimals": 18 },
-            "value": 22000000000000000,
-            "id": 8880,
-            "networkId": 8880,
-            "blockExplorers": "https://uniquescan.io/unique"
-        },
-        {
-            "name": "Thinkium Mainnet Chain 103",
-            "network": "Thinkium",
-            "rpc": "https://proxy103.thinkiumrpc.net/",
-            "nativeCurrency": { "name": "TKM", "symbol": "TKM", "decimals": 18 },
-            "value": 20000000000000000,
-            "id": 70103,
-            "networkId": 70103,
-            "blockExplorers": "https://network103.thinkiumscan.net"
-        },
-        {
-            "name": "OctaSpace",
-            "network": "OCTA",
-            "icon": "octaspace",
-            "rpc": "https://rpc.octa.space",
-            "nativeCurrency": { "name": "OctaSpace", "symbol": "OCTA", "decimals": 18 },
-            "value": 19000000000000000,
-            "id": 800001,
-            "networkId": 800001,
-            "blockExplorers": "https://explorer.octa.space"
-        },
-        {
-            "name": "Meter Mainnet",
-            "network": "METER",
-            "rpc": "https://rpc.meter.io",
-            "nativeCurrency": { "name": "Meter", "symbol": "MTR", "decimals": 18 },
-            "value": 24000000000000000,
-            "id": 82,
-            "networkId": 82,
-            "blockExplorers": "https://scan.meter.io"
-        },
-        {
-            "name": "CoinEx Smart Chain Mainnet",
-            "network": "CSC",
-            "rpc": "https://rpc.coinex.net",
-            "nativeCurrency": { "name": "CoinEx Chain Native Token", "symbol": "cet", "decimals": 18 },
-            "value": 22000000000000000,
-            "id": 52,
-            "networkId": 52,
-            "blockExplorers": "https://www.coinex.net"
-        },
-        {
-            "name": "GateChain Mainnet",
-            "network": "GT",
-            "rpc": "https://evm.gatenode.cc",
-            "nativeCurrency": { "name": "GateToken", "symbol": "GT", "decimals": 18 },
-            "value": 20000000000000000,
-            "id": 86,
-            "networkId": 86,
-            "blockExplorers": "https://www.gatescan.org"
-        },
-        {
-            "name": "Humanode Mainnet",
-            "network": "HMND",
-            "rpc": "https://explorer-rpc-http.mainnet.stages.humanode.io",
-            "nativeCurrency": { "name": "HMND", "symbol": "HMND", "decimals": 18 },
-            "value": 19000000000000000,
-            "id": 5234,
-            "networkId": 5234,
-            "blockExplorers": ""
-        },
-        {
-            "name": "Ennothem Mainnet Proterozoic",
-            "network": "ETMP",
-            "icon": "etmp",
-            "rpc": "https://rpc.etm.network",
-            "nativeCurrency": { "name": "Ennothem", "symbol": "ETMP", "decimals": 18 },
-            "value": 21000000000000000,
-            "id": 48,
-            "networkId": 48,
-            "blockExplorers": "https://etmscan.network"
-        },
-        {
-            "name": "Mammoth Mainnet",
-            "network": "MMT",
-            "icon": "mmt",
-            "rpc": "https://dataseed.mmtscan.io",
-            "nativeCurrency": { "name": "Mammoth Token", "symbol": "MMT", "decimals": 18 },
-            "value": 22000000000000000,
-            "id": 8898,
-            "networkId": 8898,
-            "blockExplorers": "https://mmtscan.io"
-        },
-        {
-            "name": "Aves Mainnet",
-            "network": "AVS",
-            "icon": "aves",
-            "rpc": "https://rpc.avescoin.io",
-            "nativeCurrency": { "name": "Aves", "symbol": "AVS", "decimals": 18 },
-            "value": 20000000000000000,
-            "id": 33333,
-            "networkId": 33333,
-            "blockExplorers": "https://avescan.io"
-        },
-        {
-            "name": "Palette Chain Mainnet",
-            "network": "PLT",
-            "icon": "PLT",
-            "rpc": "https://palette-rpc.com:22000",
-            "nativeCurrency": { "name": "Palette Token", "symbol": "PLT", "decimals": 18 },
-            "value": 24000000000000000,
-            "id": 1718,
-            "networkId": 1718,
-            "blockExplorers": "https://palettescan.com"
-        },
-        {
-            "name": "eCredits Mainnet",
-            "network": "ECS",
-            "icon": "ecredits",
-            "rpc": "https://rpc.ecredits.com",
-            "nativeCurrency": { "name": "eCredits", "symbol": "ECS", "decimals": 18 },
-            "value": 19000000000000000,
-            "id": 63000,
-            "networkId": 63000,
-            "blockExplorers": "https://explorer.ecredits.com"
-        },
-        { "name": "EOS EVM Legacy", "network": "EOS", "rpc": "https://api.eosargentina.io", "nativeCurrency": { "name": "EOS", "symbol": "EOS", "decimals": 18 }, "value": 22000000000000000, "id": 59, "networkId": 59, "blockExplorers": "" },
-        {
-            "name": "REI Network",
-            "network": "REI",
-            "rpc": "https://rpc.rei.network",
-            "nativeCurrency": { "name": "REI", "symbol": "REI", "decimals": 18 },
-            "value": 21000000000000000,
-            "id": 47805,
-            "networkId": 47805,
-            "blockExplorers": "https://scan.rei.network"
-        },
-        {
-            "name": "Oasis Emerald",
-            "network": "Emerald",
-            "icon": "oasis",
-            "rpc": "https://emerald.oasis.dev",
-            "nativeCurrency": { "name": "Emerald Rose", "symbol": "ROSE", "decimals": 18 },
-            "value": 20000000000000000,
-            "id": 42262,
-            "networkId": 42262,
-            "blockExplorers": "https://explorer.emerald.oasis.dev"
-        },
-        {
-            "name": "Q Mainnet",
-            "network": "Q",
-            "icon": "q",
-            "rpc": "https://rpc.q.org",
-            "nativeCurrency": { "name": "Q token", "symbol": "Q", "decimals": 18 },
-            "value": 19000000000000000,
-            "id": 35441,
-            "networkId": 35441,
-            "blockExplorers": "https://explorer.q.org"
-        },
-        {
-            "name": "Evanesco Mainnet",
-            "network": "EVA",
-            "icon": "evanesco",
-            "rpc": "https://seed4.evanesco.org:8546",
-            "nativeCurrency": { "name": "EVA", "symbol": "EVA", "decimals": 18 },
-            "value": 22000000000000000,
-            "id": 2213,
-            "networkId": 2213,
-            "blockExplorers": "https://explorer.evanesco.org"
-        },
-        {
-            "name": "Nova Network",
-            "network": "NNW",
-            "icon": "novanetwork",
-            "rpc": "https://connect.novanetwork.io",
-            "nativeCurrency": { "name": "Supernova", "symbol": "SNT", "decimals": 18 },
-            "value": 24000000000000000,
-            "id": 87,
-            "networkId": 87,
-            "blockExplorers": "https://explorer.novanetwork.io"
-        },
-        {
-            "name": "Ubiq",
-            "network": "UBQ",
-            "rpc": "https://rpc.octano.dev",
-            "nativeCurrency": { "name": "Ubiq Ether", "symbol": "UBQ", "decimals": 18 },
-            "value": 21000000000000000,
-            "id": 8,
-            "networkId": 8,
-            "blockExplorers": "https://ubiqscan.io"
-        },
-        {
-            "name": "Markr Go",
-            "network": "Unified",
-            "icon": "markrgo",
-            "rpc": "https://rpc.markr.io/ext/",
-            "nativeCurrency": { "name": "Avalanche", "symbol": "AVAX", "decimals": 18 },
-            "value": 24000000000000000,
-            "id": 431140,
-            "networkId": 431140,
-            "blockExplorers": ""
-        },
-        {
-            "name": "Saakuru Mainnet",
-            "network": "Saakuru",
-            "icon": "saakuru",
-            "rpc": "https://rpc.saakuru.network",
-            "nativeCurrency": { "name": "OAS", "symbol": "OAS", "decimals": 18 },
-            "value": 22000000000000000,
-            "id": 7225878,
-            "networkId": 7225878,
-            "blockExplorers": "https://explorer.saakuru.network"
-        },
-        {
-            "name": "Frennetwork",
-            "network": "fren",
-            "icon": "fren",
-            "rpc": "https://rpc-02.frenscan.io",
-            "nativeCurrency": { "name": "FREN", "symbol": "FREN", "decimals": 18 },
-            "value": 20000000000000000,
-            "id": 44444,
-            "networkId": 44444,
-            "blockExplorers": "https://frenscan.io"
-        },
-        {
-            "name": "Shiden",
-            "network": "SDN",
-            "icon": "shiden",
-            "rpc": "https://shiden.api.onfinality.io/public",
-            "nativeCurrency": { "name": "Shiden", "symbol": "SDN", "decimals": 18 },
-            "value": 20000000000000000,
-            "id": 336,
-            "networkId": 336,
-            "blockExplorers": "https://shiden.subscan.io"
-        },
-        {
-            "name": "Liveplex OracleEVM",
-            "network": "Liveplex OracleEVM Network",
-            "rpc": "https://rpc.oracle.liveplex.io",
-            "nativeCurrency": { "name": "Ether", "symbol": "ETH", "decimals": 18 },
-            "value": 21000000000000000,
-            "id": 50001,
-            "networkId": 50001,
-            "blockExplorers": ""
-        },
-        {
-            "name": "Paribu Net Mainnet",
-            "network": "PRB",
-            "icon": "prb",
-            "rpc": "https://rpc.paribu.network",
-            "nativeCurrency": { "name": "PRB", "symbol": "PRB", "decimals": 18 },
-            "value": 20000000000000000,
-            "id": 3400,
-            "networkId": 3400,
-            "blockExplorers": "https://explorer.paribu.network"
-        },
-        {
-            "name": "Shardeum Sphinx 1.X",
-            "network": "Shardeum",
-            "icon": "shardeum",
-            "rpc": "https://sphinx.shardeum.org/",
-            "nativeCurrency": { "name": "Shardeum SHM", "symbol": "SHM", "decimals": 18 },
-            "value": 24000000000000000,
-            "id": 8082,
-            "networkId": 8082,
-            "blockExplorers": "https://explorer-sphinx.shardeum.org"
-        },
-        {
-            "name": "Ella the heart",
-            "network": "ella",
-            "icon": "ella",
-            "rpc": "https://rpc.ella.network",
-            "nativeCurrency": { "name": "Ella", "symbol": "ELLA", "decimals": 18 },
-            "value": 19000000000000000,
-            "id": 7027,
-            "networkId": 7027,
-            "blockExplorers": "https://ella.network"
-        },
-        {
-            "name": "Taraxa Mainnet",
-            "network": "Tara",
-            "icon": "taraxa",
-            "rpc": "https://rpc.mainnet.taraxa.io/",
-            "nativeCurrency": { "name": "Tara", "symbol": "TARA", "decimals": 18 },
-            "value": 22000000000000000,
-            "id": 841,
-            "networkId": 841,
-            "blockExplorers": "https://explorer.mainnet.taraxa.io"
-        },
-        {
-            "name": "Shyft Mainnet",
-            "network": "SHYFT",
-            "icon": "shyft",
-            "rpc": "https://rpc.shyft.network/",
-            "nativeCurrency": { "name": "Shyft", "symbol": "SHYFT", "decimals": 18 },
-            "value": 20000000000000000,
-            "id": 7341,
-            "networkId": 7341,
-            "blockExplorers": "https://bx.shyft.network"
-        },
-        {
-            "name": "Godwoken Mainnet",
-            "network": "GWT",
-            "rpc": "https://v1.mainnet.godwoken.io/rpc",
-            "nativeCurrency": { "name": "pCKB", "symbol": "pCKB", "decimals": 18 },
-            "value": 22000000000000000,
-            "id": 71402,
-            "networkId": 71402,
-            "blockExplorers": "https://gw-mainnet-explorer.nervosdao.community"
-        },
-        {
-            "name": "PHI Network V1",
-            "network": "PHI V1",
-            "icon": "phi",
-            "rpc": "https://rpc1.phi.network",
-            "nativeCurrency": { "name": "PHI", "symbol": "Φ", "decimals": 18 },
-            "value": 19000000000000000,
-            "id": 4181,
-            "networkId": 4181,
-            "blockExplorers": "https://explorer.phi.network"
-        },
-        {
-            "name": "SX Network Mainnet",
-            "network": "SX",
-            "icon": "SX",
-            "rpc": "https://rpc.sx.technology",
-            "nativeCurrency": { "name": "SX Network", "symbol": "SX", "decimals": 18 },
-            "value": 24000000000000000,
-            "id": 416,
-            "networkId": 416,
-            "blockExplorers": "https://explorer.sx.technology"
-        },
-        {
-            "name": "Tres Mainnet",
-            "network": "TresLeches",
-            "icon": "tresleches",
-            "rpc": "https://rpc.tresleches.finance/",
-            "nativeCurrency": { "name": "TRES", "symbol": "TRES", "decimals": 18 },
-            "value": 22000000000000000,
-            "id": 6066,
-            "networkId": 6066,
-            "blockExplorers": "https://explorer.tresleches.finance"
-        },
-        {
-            "name": "Evmos",
-            "network": "Evmos",
-            "icon": "evmos",
-            "rpc": "https://eth.bd.evmos.org:8545",
-            "nativeCurrency": { "name": "Evmos", "symbol": "EVMOS", "decimals": 18 },
-            "value": 20000000000000000,
-            "id": 9001,
-            "networkId": 9001,
-            "blockExplorers": "https://escan.live"
-        },
-        {
-            "name": "Zeniq",
-            "network": "ZENIQ",
-            "rpc": "https://smart.zeniq.network:9545",
-            "nativeCurrency": { "name": "Zeniq", "symbol": "ZENIQ", "decimals": 18 },
-            "value": 20000000000000000,
-            "id": 383414847825,
-            "networkId": 383414847825,
-            "blockExplorers": "https://smart.zeniq.net"
-        },
-        {
-            "name": "Web3Q Galileo",
-            "network": "Web3Q",
-            "icon": "https://raw.githubusercontent.com/erience/chains/main/crypto87.png",
-            "rpc": "https://galileo.web3q.io:8545",
-            "nativeCurrency": { "name": "Web3Q", "symbol": "W3Q", "decimals": 18 },
-            "value": 24000000000000000,
-            "id": 3334,
-            "networkId": 3334,
-            "blockExplorers": "https://explorer.galileo.web3q.io"
-        },
-        {
-            "name": "Hedera Mainnet",
-            "network": "Hedera",
-            "icon": "https://raw.githubusercontent.com/erience/chains/main/crypto87.png",
-            "rpc": "https://mainnet.hashio.io/api",
-            "nativeCurrency": { "name": "hbar", "symbol": "HBAR", "decimals": 18 },
-            "value": 21000000000000000,
-            "id": 295,
-            "networkId": 295,
-            "blockExplorers": "https://hashscan.io/mainnet/dashboard"
-        },
-        {
-            "name": "F(x)Core Mainnet Network",
-            "network": "Fxcore",
-            "icon": "fxcore",
-            "rpc": "https://fx-json-web3.functionx.io:8545",
-            "nativeCurrency": { "name": "Function X", "symbol": "FX", "decimals": 18 },
-            "value": 22000000000000000,
-            "id": 530,
-            "networkId": 530,
-            "blockExplorers": "https://fx-evm.functionx.io"
-        },
-        {
-            "name": "Double-A Chain Mainnet",
-            "network": "AAC",
-            "icon": "https://raw.githubusercontent.com/erience/chains/main/crypto87.png",
-            "rpc": "https://rpc.acuteangle.com",
-            "nativeCurrency": { "name": "Acuteangle Native Token", "symbol": "AAC", "decimals": 18 },
-            "value": 19000000000000000,
-            "id": 512,
-            "networkId": 512,
-            "blockExplorers": "https://scan.acuteangle.com"
-        },
-        {
-            "name": "ENULS Mainnet",
-            "network": "ENULS",
-            "icon": "https://raw.githubusercontent.com/erience/chains/main/crypto87.png",
-            "rpc": "https://evmapi.nuls.io",
-            "nativeCurrency": { "name": "NULS", "symbol": "NULS", "decimals": 18 },
-            "value": 20000000000000000,
-            "id": 119,
-            "networkId": 119,
-            "blockExplorers": "https://evmscan.nuls.io"
-        },
-        {
-            "name": "Shardeum Liberty 1.X",
-            "network": "Shardeum",
-            "icon": "https://raw.githubusercontent.com/erience/chains/main/crypto87.png",
-            "rpc": "https://liberty10.shardeum.org/",
-            "nativeCurrency": { "name": "Shardeum SHM", "symbol": "SHM", "decimals": 18 },
-            "value": 22000000000000000,
-            "id": 8080,
-            "networkId": 8080,
-            "blockExplorers": "https://explorer-liberty10.shardeum.org"
-        },
-        {
-            "name": "Shardeum Liberty 2.X",
-            "network": "Shardeum",
-            "icon": "https://raw.githubusercontent.com/erience/chains/main/crypto87.png",
-            "rpc": "https://liberty20.shardeum.org/",
-            "nativeCurrency": { "name": "Shardeum SHM", "symbol": "SHM", "decimals": 18 },
-            "value": 19000000000000000,
-            "id": 8081,
-            "networkId": 8081,
-            "blockExplorers": "https://explorer-liberty20.shardeum.org"
-        }
-    ]
+  "ChainData": [
+    {
+      "name": "Ethereum Mainnet",
+      "network": "Ethereum",
+      "icon": "https://raw.githubusercontent.com/erience/chains/main/eth.png",
+      "rpc": "https://eth.llamarpc.com",
+      "nativeCurrency": {
+        "name": "Ethereum",
+        "symbol": "ETH",
+        "decimals": 18
+      },
+      "value": 20000000000000000,
+      "id": 1,
+      "networkId": 1,
+      "blockExplorers": "https://etherscan.io"
+    },
+    {
+      "name": "Binance Smart Chain Mainnet",
+      "network": "BSC",
+      "icon": "https://raw.githubusercontent.com/erience/chains/main/bsc.png",
+      "rpc": "https://bsc-dataseed1.binance.org",
+      "nativeCurrency": {
+        "name": "Binance Chain Native Token",
+        "symbol": "BNB",
+        "decimals": 18
+      },
+      "value": 21000000000000000,
+      "id": 56,
+      "networkId": 56,
+      "blockExplorers": "https://bscscan.com"
+    },
+    {
+      "name": "DogeChain Mainnet",
+      "network": "DogeChain",
+      "icon": "https://raw.githubusercontent.com/erience/chains/main/dogechain.png",
+      "rpc": "https://rpc.dogechain.dog",
+      "nativeCurrency": {
+        "name": "DogeChain",
+        "symbol": "DOGE",
+        "decimals": 18
+      },
+      "value": 20000000000000000,
+      "id": 2000,
+      "networkId": 2000,
+      "blockExplorers": "https://explorer.dogechain.dog"
+    },
+    {
+      "name": "Polygon Mainnet",
+      "network": "Polygon",
+      "icon": "https://raw.githubusercontent.com/erience/chains/main/polygon.png",
+      "rpc": "https://polygon-rpc.com/",
+      "nativeCurrency": {
+        "name": "MATIC",
+        "symbol": "MATIC",
+        "decimals": 18
+      },
+      "value": 16000000000000000,
+      "id": 137,
+      "networkId": 137,
+      "blockExplorers": "https://polygonscan.com"
+    },
+    {
+      "name": "Polygon zkEVM Mainnet",
+      "network": "Polygon",
+      "icon": "https://raw.githubusercontent.com/erience/chains/main/polygon.png",
+      "rpc": "https://zkevm-rpc.com",
+      "nativeCurrency": {
+        "name": "Ether",
+        "symbol": "ETH",
+        "decimals": 18
+      },
+      "value": 20000000000000000,
+      "id": 1101,
+      "networkId": 1101,
+      "blockExplorers": "https://zkevm.polygonscan.com"
+    },
+    {
+      "name": "Smart Bitcoin Cash Mainnet",
+      "network": "SmartBCH",
+      "icon": "https://raw.githubusercontent.com/erience/chains/main/smartbch.png",
+      "rpc": "https://smartbch.greyh.at",
+      "nativeCurrency": {
+        "name": "SmartBCH",
+        "symbol": "BCH",
+        "decimals": 18
+      },
+      "value": 20000000000000000,
+      "id": 10000,
+      "networkId": 10000,
+      "blockExplorers": "https://www.smartscan.cash"
+    },
+    {
+      "name": "Avalanche C-Chain",
+      "network": "AVAX",
+      "icon": "https://raw.githubusercontent.com/erience/chains/main/avax.png",
+      "rpc": "https://api.avax.network/ext/bc/C/rpc",
+      "nativeCurrency": {
+        "name": "Avalanche",
+        "symbol": "AVAX",
+        "decimals": 18
+      },
+      "value": 21000000000000000,
+      "id": 43114,
+      "networkId": 43114,
+      "blockExplorers": "https://snowtrace.io"
+    },
+    {
+      "name": "Ethereum Classic Mainnet",
+      "network": "Ethereum Classic",
+      "icon": "https://raw.githubusercontent.com/erience/chains/main/etc.png",
+      "rpc": "https://geth-at.etc-network.info",
+      "nativeCurrency": {
+        "name": "Ethereum Classic",
+        "symbol": "ETC",
+        "decimals": 18
+      },
+      "value": 20000000000000000,
+      "id": 61,
+      "networkId": 61,
+      "blockExplorers": "https://etcblockexplorer.com"
+    },
+    {
+      "name": "OKX Chain Mainnet",
+      "network": "OKX",
+      "icon": "https://raw.githubusercontent.com/erience/chains/main/okx.png",
+      "rpc": "https://exchainrpc.okex.org",
+      "nativeCurrency": {
+        "name": "OKX",
+        "symbol": "OKX",
+        "decimals": 18
+      },
+      "value": 20000000000000000,
+      "id": 66,
+      "networkId": 66,
+      "blockExplorers": "https://www.okx.com/explorer/oktc"
+    },
+    {
+      "name": "Cronos Mainnet Beta",
+      "network": "CRO",
+      "icon": "https://raw.githubusercontent.com/erience/chains/main/cronos.png",
+      "rpc": "https://evm.cronos.org",
+      "nativeCurrency": {
+        "name": "Cronos",
+        "symbol": "CRO",
+        "decimals": 18
+      },
+      "value": 0,
+      "id": 25,
+      "networkId": 25,
+      "blockExplorers": "https://cronoscan.com"
+    },
+    {
+      "name": "Arbitrum Nova Mainnet",
+      "network": "ETH",
+      "icon": "https://raw.githubusercontent.com/erience/chains/main/arbitrum.png",
+      "rpc": "https://nova.arbitrum.io/rpc",
+      "nativeCurrency": {
+        "name": "Ether",
+        "symbol": "ETH",
+        "decimals": 18
+      },
+      "value": 20000000000000000,
+      "id": 42170,
+      "networkId": 42170,
+      "blockExplorers": "https://nova-explorer.arbitrum.io"
+    },
+    {
+      "name": "Optimism Mainnet",
+      "network": "ETH",
+      "icon": "https://raw.githubusercontent.com/erience/chains/main/optimism.png",
+      "rpc": "https://mainnet.optimism.io/",
+      "nativeCurrency": {
+        "name": "Ether",
+        "symbol": "ETH",
+        "decimals": 18
+      },
+      "value": 20000000000000000,
+      "id": 10,
+      "networkId": 10,
+      "blockExplorers": "https://optimistic.etherscan.io"
+    },
+    {
+      "name": "XinFin XDC Network",
+      "network": "XDC",
+      "icon": "https://raw.githubusercontent.com/erience/chains/main/xinfin.png",
+      "rpc": "https://erpc.xinfin.network",
+      "nativeCurrency": {
+        "name": "XinFin",
+        "symbol": "XDC",
+        "decimals": 18
+      },
+      "value": 20000000000000000,
+      "id": 50,
+      "networkId": 50,
+      "blockExplorers": "https://xdcscan.io"
+    },
+    {
+      "name": "Fantom Opera Mainnet",
+      "network": "FTM",
+      "icon": "https://raw.githubusercontent.com/erience/chains/main/fantom.png",
+      "rpc": "https://rpc.ftm.tools",
+      "nativeCurrency": {
+        "name": "Fantom",
+        "symbol": "FTM",
+        "decimals": 18
+      },
+      "value": 21000000000000000,
+      "id": 250,
+      "networkId": 250,
+      "blockExplorers": "https://ftmscan.com"
+    },
+    {
+      "name": "Kava EVM Mainnet",
+      "network": "KAVA",
+      "icon": "https://raw.githubusercontent.com/erience/chains/main/kava.png",
+      "rpc": "https://evm.kava.io",
+      "nativeCurrency": {
+        "name": "Kava",
+        "symbol": "KAVA",
+        "decimals": 18
+      },
+      "value": 27000000000000000,
+      "id": 2222,
+      "networkId": 2222,
+      "blockExplorers": "https://explorer.kava.io"
+    },
+    {
+      "name": "Kucoin Community Chain Mainnet",
+      "network": "KCC",
+      "icon": "https://raw.githubusercontent.com/erience/chains/main/kucoin.png",
+      "rpc": "https://rpc-mainnet.kcc.network",
+      "nativeCurrency": {
+        "name": "KuCoin Token",
+        "symbol": "KCS",
+        "decimals": 18
+      },
+      "value": 21000000000000000,
+      "id": 321,
+      "networkId": 321,
+      "blockExplorers": "https://explorer.kcc.io/en"
+    },
+    {
+      "name": "Klaytn Cypress Mainnet",
+      "network": "KLAY",
+      "icon": "https://raw.githubusercontent.com/erience/chains/main/klaytn.png",
+      "rpc": "https://public-node-api.klaytnapi.com/v1/cypress",
+      "nativeCurrency": {
+        "name": "KLAY",
+        "symbol": "KLAY",
+        "decimals": 18
+      },
+      "value": 22000000000000000,
+      "id": 8217,
+      "networkId": 8217,
+      "blockExplorers": "https://scope.klaytn.com"
+    },
+    {
+      "name": "Pepe Chain Mainnet",
+      "network": "Pepe",
+      "icon": "https://raw.githubusercontent.com/erience/chains/main/pepe.png",
+      "rpc": "https://rpc.pepe-chain.vip",
+      "nativeCurrency": {
+        "name": "Pepe",
+        "symbol": "PEPE",
+        "decimals": 18
+      },
+      "value": 20000000000000000,
+      "id": 411,
+      "networkId": 411,
+      "blockExplorers": "https://explorer.pepe-chain.vip"
+    },
+    {
+      "name": "BitTorrent Mainnet",
+      "network": "BitTorrent",
+      "icon": "https://raw.githubusercontent.com/erience/chains/main/btt.png",
+      "rpc": "https://rpc.bittorrentchain.io",
+      "nativeCurrency": {
+        "name": "BitTorrent",
+        "symbol": "BTT",
+        "decimals": 18
+      },
+      "value": 20000000000000000,
+      "id": 199,
+      "networkId": 199,
+      "blockExplorers": "https://bttcscan.com"
+    },
+    {
+      "name": "Huobi Eco Mainnet",
+      "network": "Huobi",
+      "icon": "https://raw.githubusercontent.com/erience/chains/main/heco.png",
+      "rpc": "https://http-mainnet.hecochain.com",
+      "nativeCurrency": {
+        "name": "Huobi",
+        "symbol": "HT",
+        "decimals": 18
+      },
+      "value": 20000000000000000,
+      "id": 128,
+      "networkId": 128,
+      "blockExplorers": "https://www.hecoinfo.com"
+    },
+    {
+      "name": "Flare Mainnet",
+      "network": "FLR",
+      "icon": "https://raw.githubusercontent.com/erience/chains/main/flare.png",
+      "rpc": "https://flare-api.flare.network/ext/C/rpc",
+      "nativeCurrency": {
+        "name": "Flare",
+        "symbol": "FLR",
+        "decimals": 18
+      },
+      "value": 20000000000000000,
+      "id": 14,
+      "networkId": 14,
+      "blockExplorers": "https://flare-explorer.flare.network"
+    },
+    {
+      "name": "Celo Mainnet",
+      "network": "Celo",
+      "icon": "https://raw.githubusercontent.com/erience/chains/main/celo.png",
+      "rpc": "https://rpc.ankr.com/celo",
+      "nativeCurrency": {
+        "name": "Celo",
+        "symbol": "CELO",
+        "decimals": 18
+      },
+      "value": 20000000000000000,
+      "id": 42220,
+      "networkId": 42220,
+      "blockExplorers": "https://celoscan.io"
+    },
+    {
+      "name": "EthereumPoW Mainnet",
+      "network": "EthereumPoW",
+      "icon": "https://raw.githubusercontent.com/erience/chains/main/ethereumpow.png",
+      "rpc": "https://mainnet.ethereumpow.org",
+      "nativeCurrency": {
+        "name": "EthereumPoW",
+        "symbol": "ETHW",
+        "decimals": 18
+      },
+      "value": 20000000000000000,
+      "id": 10001,
+      "networkId": 10001,
+      "blockExplorers": "https://www.oklink.com/cn/ethw"
+    },
+    {
+      "name": "Mantle Mainnet",
+      "network": "Mantle",
+      "icon": "https://raw.githubusercontent.com/erience/chains/main/mantle.png",
+      "rpc": "https://rpc.mantle.xyz",
+      "nativeCurrency": {
+        "name": "Mantle",
+        "symbol": "MNT",
+        "decimals": 18
+      },
+      "value": 20000000000000000,
+      "id": 5000,
+      "networkId": 5000,
+      "blockExplorers": "https://explorer.mantle.xyz"
+    },
+    {
+      "name": "IoTeX EVM Mainnet",
+      "network": "IoTeX",
+      "icon": "https://raw.githubusercontent.com/erience/chains/main/iotex.png",
+      "rpc": "https://babel-api.mainnet.iotex.io",
+      "nativeCurrency": {
+        "name": "IoTeX",
+        "symbol": "IOTX",
+        "decimals": 18
+      },
+      "value": 22000000000000000,
+      "id": 4689,
+      "networkId": 4689,
+      "blockExplorers": "https://iotexscan.io"
+    },
+    {
+      "name": "Moonbeam",
+      "network": "MOON",
+      "icon": "https://assets.coingecko.com/coins/images/22459/small/glmr.png?1641880985",
+      "rpc": "https://rpc.api.moonbeam.network",
+      "nativeCurrency": {
+        "name": "Glimmer",
+        "symbol": "GLMR",
+        "decimals": 18
+      },
+      "value": 21000000000000000,
+      "id": 1284,
+      "networkId": 1284,
+      "blockExplorers": "https://moonbeam.moonscan.io"
+    },
+    {
+      "name": "Harmony Mainnet Shard 0",
+      "network": "Harmony",
+      "icon": "https://s2.coinmarketcap.com/static/img/coins/64x64/3945.png",
+      "rpc": "https://api.harmony.one",
+      "nativeCurrency": {
+        "name": "ONE",
+        "symbol": "ONE",
+        "decimals": 18
+      },
+      "value": 27000000000000000,
+      "id": 1666600000,
+      "networkId": 1666600000,
+      "blockExplorers": "https://explorer.harmony.one"
+    },
+    {
+      "name": "Tomochain Mainnet",
+      "network": "Tomo",
+      "icon": "",
+      "rpc": "https://rpc.tomochain.com",
+      "nativeCurrency": {
+        "name": "Tomo",
+        "symbol": "TOMO",
+        "decimals": 18
+      },
+      "value": 20000000000000000,
+      "id": 88,
+      "networkId": 88,
+      "blockExplorers": "https://tomoscan.io"
+    },
+    {
+      "name": "Bitgert Mainnet",
+      "network": "Brise",
+      "icon": "brise",
+      "rpc": "https://rpc.icecreamswap.com",
+      "nativeCurrency": {
+        "name": "Bitrise Token",
+        "symbol": "Brise",
+        "decimals": 18
+      },
+      "value": 19000000000000000,
+      "id": 32520,
+      "networkId": 32520,
+      "blockExplorers": "https://brisescan.com"
+    },
+    {
+      "name": "Core Blocknetwork Mainnet",
+      "network": "Core",
+      "icon": "https://s2.coinmarketcap.com/static/img/coins/64x64/23254.png",
+      "rpc": "https://rpc.coredao.org/",
+      "nativeCurrency": {
+        "name": "Core Blocknetwork Native Token",
+        "symbol": "CORE",
+        "decimals": 18
+      },
+      "value": 21000000000000000,
+      "id": 1116,
+      "networkId": 1116,
+      "blockExplorers": "https://scan.coredao.org"
+    },
+    {
+      "name": "PulseChain Mainnet",
+      "network": "PulseChain",
+      "icon": "",
+      "rpc": "https://rpc.pulsechain.com",
+      "nativeCurrency": {
+        "name": "PulseChain",
+        "symbol": "PLS",
+        "decimals": 18
+      },
+      "value": 20000000000000000,
+      "id": 369,
+      "networkId": 369,
+      "blockExplorers": "https://scan.pulsechain.com"
+    },
+    {
+      "name": "WEMIX3.0 Mainnet",
+      "network": "WEMIX",
+      "icon": "",
+      "rpc": "https://api.wemix.com",
+      "nativeCurrency": {
+        "name": "WEMIX",
+        "symbol": "WEMIX",
+        "decimals": 18
+      },
+      "value": 20000000000000000,
+      "id": 1111,
+      "networkId": 1111,
+      "blockExplorers": "https://explorer.wemix.com"
+    },
+    {
+      "name": "Syscoin Mainnet",
+      "network": "SYS",
+      "rpc": "https://rpc.syscoin.org",
+      "nativeCurrency": {
+        "name": "Syscoin",
+        "symbol": "SYS",
+        "decimals": 18
+      },
+      "value": 20000000000000000,
+      "id": 57,
+      "networkId": 57,
+      "blockExplorers": "https://explorer.syscoin.org"
+    },
+    {
+      "name": "Energy Web Chain",
+      "network": "Energy Web Chain",
+      "rpc": "https://rpc.energyweb.org",
+      "nativeCurrency": {
+        "name": "Energy Web Token",
+        "symbol": "EWT",
+        "decimals": 18
+      },
+      "value": 19000000000000000,
+      "id": 246,
+      "networkId": 246,
+      "blockExplorers": "https://explorer.energyweb.org"
+    },
+    {
+      "name": "Velas EVM Mainnet",
+      "network": "Velas",
+      "icon": "https://assets.coingecko.com/coins/images/9651/small/logo_blue.png?1663764088",
+      "rpc": "https://evmexplorer.velas.com/rpc",
+      "nativeCurrency": {
+        "name": "Velas",
+        "symbol": "VLX",
+        "decimals": 18
+      },
+      "value": 16000000000000000,
+      "id": 106,
+      "networkId": 106,
+      "blockExplorers": "https://evmexplorer.velas.com"
+    },
+    {
+      "name": "Aurora Mainnet",
+      "network": "NEAR",
+      "icon": "https://assets.coingecko.com/coins/images/20582/small/aurora.jpeg?1637250883",
+      "rpc": "https://mainnet.aurora.dev",
+      "nativeCurrency": {
+        "name": "Ether",
+        "symbol": "ETH",
+        "decimals": 18
+      },
+      "value": 21000000000000000,
+      "id": 1313161554,
+      "networkId": 1313161554,
+      "blockExplorers": "https://aurorascan.dev"
+    },
+    {
+      "name": "Conflux eSpace",
+      "network": "Conflux",
+      "icon": "https://assets.coingecko.com/coins/images/13079/small/3vuYMbjN.png",
+      "rpc": "https://evm.confluxrpc.com",
+      "nativeCurrency": {
+        "name": "CFX",
+        "symbol": "CFX",
+        "decimals": 18
+      },
+      "value": 27000000000000000,
+      "id": 1030,
+      "networkId": 1030,
+      "blockExplorers": "https://evm.confluxscan.net"
+    },
+    {
+      "name": "Metis Andromeda Mainnet",
+      "network": "ETH",
+      "icon": "https://assets.coingecko.com/coins/images/15595/small/metis.jpeg?1660285312",
+      "rpc": "https://andromeda.metis.io/?owner=1088",
+      "nativeCurrency": {
+        "name": "Metis",
+        "symbol": "METIS",
+        "decimals": 18
+      },
+      "value": 16000000000000000,
+      "id": 1088,
+      "networkId": 1088,
+      "blockExplorers": "https://andromeda-explorer.metis.io"
+    },
+    {
+      "name": "Uptick Mainnet",
+      "network": "Uptick",
+      "icon": "https://cdn-images-1.medium.com/v2/resize:fit:1200/1*TTEyywFuUEaaNO9n9eThWQ.png",
+      "rpc": "https://json-rpc.uptick.network",
+      "nativeCurrency": {
+        "name": "Uptick",
+        "symbol": "UPTICK",
+        "decimals": 18
+      },
+      "value": 24000000000000000,
+      "id": 117,
+      "networkId": 117,
+      "blockExplorers": "https://evm-explorer.uptick.network"
+    },
+    {
+      "name": "ThunderCore Mainnet",
+      "network": "TT",
+      "icon": "https://assets.coingecko.com/coins/images/4375/small/ThunderCore_Logo_Mark_Gradient_%283%29.png?1650455349",
+      "rpc": "https://mainnet-rpc.thundercore.com",
+      "nativeCurrency": {
+        "name": "ThunderCore Token",
+        "symbol": "TT",
+        "decimals": 18
+      },
+      "value": 21000000000000000,
+      "id": 108,
+      "networkId": 108,
+      "blockExplorers": "https://viewblock.io/thundercore"
+    },
+    {
+      "name": "Ultron Mainnet",
+      "network": "Ultron",
+      "icon": "https://assets.coingecko.com/coins/images/26977/small/ULX.png?1661168951",
+      "rpc": "https://ultron-rpc.net",
+      "nativeCurrency": {
+        "name": "Ultron",
+        "symbol": "ULX",
+        "decimals": 18
+      },
+      "value": 27000000000000000,
+      "id": 1231,
+      "networkId": 1231,
+      "blockExplorers": "https://ulxscan.com"
+    },
+    {
+      "name": "Dehvo",
+      "network": "Dehvo",
+      "rpc": "https://connect.dehvo.com",
+      "nativeCurrency": {
+        "name": "Dehvo",
+        "symbol": "Deh",
+        "decimals": 18
+      },
+      "value": 22000000000000000,
+      "id": 113,
+      "networkId": 113,
+      "blockExplorers": "https://explorer.dehvo.com"
+    },
+    {
+      "name": "Siberium Network",
+      "network": "SBR",
+      "icon": "https://pbs.twimg.com/media/Fl1XagYWQAIx7a-?format=jpg&name=large",
+      "rpc": "https://rpc.main.siberium.net",
+      "nativeCurrency": {
+        "name": "Siberium",
+        "symbol": "SBR",
+        "decimals": 18
+      },
+      "value": 16000000000000000,
+      "id": 111111,
+      "networkId": 111111,
+      "blockExplorers": "https://explorer.main.siberium.net"
+    },
+    {
+      "name": "CIC Chain Mainnet",
+      "network": "CIC",
+      "icon": "https://s2.coinmarketcap.com/static/img/coins/64x64/4743.png",
+      "rpc": "https://xapi.cicscan.com",
+      "nativeCurrency": {
+        "name": "Crazy Internet Coin",
+        "symbol": "CIC",
+        "decimals": 18
+      },
+      "value": 24000000000000000,
+      "id": 1353,
+      "networkId": 1353,
+      "blockExplorers": "https://cicscan.com"
+    },
+    {
+      "name": "Astra",
+      "network": "Astra",
+      "icon": "https://s2.coinmarketcap.com/static/img/coins/64x64/10621.png",
+      "rpc": "https://rpc.astranaut.io",
+      "nativeCurrency": {
+        "name": "Astra",
+        "symbol": "ASA",
+        "decimals": 18
+      },
+      "value": 20000000000000000,
+      "id": 11110,
+      "networkId": 11110,
+      "blockExplorers": "https://explorer.astranaut.io"
+    },
+    {
+      "name": "Step Network",
+      "network": "STEP",
+      "icon": "https://s2.coinmarketcap.com/static/img/coins/64x64/17010.png",
+      "rpc": "https://rpc.step.network",
+      "nativeCurrency": {
+        "name": "FITFI",
+        "symbol": "FITFI",
+        "decimals": 18
+      },
+      "value": 22000000000000000,
+      "id": 1234,
+      "networkId": 1234,
+      "blockExplorers": "https://stepscan.io"
+    },
+    {
+      "name": "Dexalot Subnet",
+      "network": "DEXALOT",
+      "icon": "https://s2.coinmarketcap.com/static/img/coins/64x64/18732.png",
+      "rpc": "https://subnets.avax.network/dexalot/mainnet/rpc",
+      "nativeCurrency": {
+        "name": "Dexalot",
+        "symbol": "ALOT",
+        "decimals": 18
+      },
+      "value": 16000000000000000,
+      "id": 432204,
+      "networkId": 432204,
+      "blockExplorers": "https://subnets.avax.network/dexalot"
+    },
+    {
+      "name": "SPS",
+      "network": "SPS",
+      "icon": "https://s2.coinmarketcap.com/static/img/coins/64x64/11035.png",
+      "rpc": "https://rpc.ssquad.games",
+      "nativeCurrency": {
+        "name": "ECG",
+        "symbol": "ECG",
+        "decimals": 18
+      },
+      "value": 22000000000000000,
+      "id": 13000,
+      "networkId": 13000,
+      "blockExplorers": "http://spsscan.ssquad.games"
+    },
+    {
+      "name": "Dogcoin Mainnet",
+      "network": "DOGS",
+      "icon": "https://s2.coinmarketcap.com/static/img/coins/64x64/21521.png",
+      "rpc": "https://mainnet-rpc.dogcoin.me",
+      "nativeCurrency": {
+        "name": "Dogcoin",
+        "symbol": "DOGS",
+        "decimals": 18
+      },
+      "value": 16000000000000000,
+      "id": 1117,
+      "networkId": 1117,
+      "blockExplorers": "https://explorer.dogcoin.network"
+    },
+    {
+      "name": "Elastos Smart Chain",
+      "network": "ETH",
+      "icon": "https://s2.coinmarketcap.com/static/img/coins/64x64/2492.png",
+      "rpc": "https://api.elastos.io/eth",
+      "nativeCurrency": {
+        "name": "Elastos",
+        "symbol": "ELA",
+        "decimals": 18
+      },
+      "value": 20000000000000000,
+      "id": 20,
+      "networkId": 20,
+      "blockExplorers": "https://esc.elastos.io"
+    },
+    {
+      "name": "Haqq Network",
+      "network": "Haqq",
+      "icon": "https://play-lh.googleusercontent.com/ctaMhi6t9l8JFa6xZ8ZyqgKnuXzQFw7H6CpqXtW-GmBThZehyiAQ-i0YTjoBU2oReHi5",
+      "rpc": "https://rpc.eth.haqq.network",
+      "nativeCurrency": {
+        "name": "Islamic Coin",
+        "symbol": "ISLM",
+        "decimals": 18
+      },
+      "value": 27000000000000000,
+      "id": 11235,
+      "networkId": 11235,
+      "blockExplorers": "https://explorer.haqq.network"
+    },
+    {
+      "name": "AirDAO Mainnet",
+      "network": "ambnet",
+      "icon": "https://s2.coinmarketcap.com/static/img/coins/64x64/2081.png",
+      "rpc": "https://network.ambrosus.io",
+      "nativeCurrency": {
+        "name": "Amber",
+        "symbol": "AMB",
+        "decimals": 18
+      },
+      "value": 21000000000000000,
+      "id": 16718,
+      "networkId": 16718,
+      "blockExplorers": "https://airdao.io/explorer"
+    },
+    {
+      "name": "GTON Mainnet",
+      "network": "GTON",
+      "icon": "https://s2.coinmarketcap.com/static/img/coins/64x64/10006.png",
+      "rpc": "https://rpc.gton.network/",
+      "nativeCurrency": {
+        "name": "GCD",
+        "symbol": "GCD",
+        "decimals": 18
+      },
+      "value": 24000000000000000,
+      "id": 1000,
+      "networkId": 1000,
+      "blockExplorers": ""
+    },
+    {
+      "name": "HUMAN Protocol",
+      "network": "wan-red-ain",
+      "icon": "https://s2.coinmarketcap.com/static/img/coins/64x64/10347.png",
+      "rpc": "https://mainnet.skalenodes.com/v1/wan-red-ain",
+      "nativeCurrency": {
+        "name": "sFUEL",
+        "symbol": "sFUEL",
+        "decimals": 18
+      },
+      "value": 16000000000000000,
+      "id": 1273227453,
+      "networkId": 1273227453,
+      "blockExplorers": "https://wan-red-ain.explorer.mainnet.skalenodes.com"
+    },
+    {
+      "name": "Zafirium Mainnet",
+      "network": "ZAFIC",
+      "icon": "https://ipfs-2.thirdwebcdn.com/ipfs/bafybeifxqd7zel2m237kq5enavnh2s6cshaavswigogyvae2wevxy5k2ti/",
+      "rpc": "https://mainnet.zakumi.io",
+      "nativeCurrency": {
+        "name": "Zakumi Chain Native Token",
+        "symbol": "ZAFIC",
+        "decimals": 18
+      },
+      "value": 22000000000000000,
+      "id": 1369,
+      "networkId": 1369,
+      "blockExplorers": "https://explorer.zakumi.io"
+    },
+    {
+      "name": "Soverun Mainnet",
+      "network": "SVRN",
+      "icon": "https://testnet.soverun.com/images/SVRN_logo.png",
+      "rpc": "https://mainnet-rpc.soverun.com",
+      "nativeCurrency": {
+        "name": "Soverun",
+        "symbol": "SVRN",
+        "decimals": 18
+      },
+      "value": 27000000000000000,
+      "id": 10101010,
+      "networkId": 10101010,
+      "blockExplorers": "https://explorer.soverun.com"
+    },
+    {
+      "name": "Nebula Mainnet",
+      "network": "green-giddy-denebola",
+      "icon": "https://s2.coinmarketcap.com/static/img/coins/64x64/15153.png",
+      "rpc": "https://mainnet.skalenodes.com/v1/green-giddy-denebola",
+      "nativeCurrency": {
+        "name": "sFUEL",
+        "symbol": "sFUEL",
+        "decimals": 18
+      },
+      "value": 20000000000000000,
+      "id": 1482601649,
+      "networkId": 1482601649,
+      "blockExplorers": "https://green-giddy-denebola.explorer.mainnet.skalenodes.com"
+    },
+    {
+      "name": "Songbird Canary-Network",
+      "network": "SGB",
+      "icon": "https://s2.coinmarketcap.com/static/img/coins/64x64/12186.png",
+      "rpc": "https://songbird-api.flare.network/ext/C/rpc",
+      "nativeCurrency": {
+        "name": "Songbird",
+        "symbol": "SGB",
+        "decimals": 18
+      },
+      "value": 21000000000000000,
+      "id": 19,
+      "networkId": 19,
+      "blockExplorers": "https://songbird-explorer.flare.network"
+    },
+    {
+      "name": "HashBit Mainnet",
+      "network": "HBIT",
+      "icon": "https://s2.coinmarketcap.com/static/img/coins/64x64/12661.png",
+      "rpc": "https://mainnet-rpc.hashbit.org",
+      "nativeCurrency": {
+        "name": "HashBit Native Token",
+        "symbol": "HBIT",
+        "decimals": 18
+      },
+      "value": 20000000000000000,
+      "id": 11119,
+      "networkId": 11119,
+      "blockExplorers": "https://explorer.hashbit.org"
+    },
+    {
+      "name": "Oasys Mainnet",
+      "network": "Oasys",
+      "icon": "https://s2.coinmarketcap.com/static/img/coins/64x64/22265.png",
+      "rpc": "https://rpc.mainnet.oasys.games",
+      "nativeCurrency": {
+        "name": "OAS",
+        "symbol": "OAS",
+        "decimals": 18
+      },
+      "value": 16000000000000000,
+      "id": 248,
+      "networkId": 248,
+      "blockExplorers": "https://explorer.oasys.games"
+    },
+    {
+      "name": "Calypso NFT Hub (SKALE)",
+      "network": "honorable-steel-rasalhague",
+      "icon": "",
+      "rpc": "https://mainnet.skalenodes.com/v1/honorable-steel-rasalhague",
+      "nativeCurrency": {
+        "name": "sFUEL",
+        "symbol": "sFUEL",
+        "decimals": 18
+      },
+      "value": 22000000000000000,
+      "id": 1564830818,
+      "networkId": 1564830818,
+      "blockExplorers": "https://honorable-steel-rasalhague.explorer.mainnet.skalenodes.com"
+    },
+    {
+      "name": "Ctex Scan Blocknetwork",
+      "network": "Ctex Scan Blocknetwork",
+      "icon": "https://s2.coinmarketcap.com/static/img/coins/64x64/23266.png",
+      "rpc": "https://mainnet-rpc.ctexscan.com/",
+      "nativeCurrency": {
+        "name": "CTEX",
+        "symbol": "CTEX",
+        "decimals": 18
+      },
+      "value": 24000000000000000,
+      "id": 1455,
+      "networkId": 1455,
+      "blockExplorers": "https://ctexscan.com"
+    },
+    {
+      "name": "MainnetZ Mainnet",
+      "network": "NetZ",
+      "icon": "https://pbs.twimg.com/profile_images/1563701010241146883/zcM8MEO5_400x400.png",
+      "rpc": "https://mainnet-rpc.mainnetz.io",
+      "nativeCurrency": {
+        "name": "MainnetZ",
+        "symbol": "NetZ",
+        "decimals": 18
+      },
+      "value": 20000000000000000,
+      "id": 2016,
+      "networkId": 2016,
+      "blockExplorers": "https://explorer.mainnetz.io"
+    },
+    {
+      "name": "Numbers Mainnet",
+      "network": "NUM",
+      "icon": "https://s2.coinmarketcap.com/static/img/coins/64x64/13521.png",
+      "rpc": "https://mainnetrpc.num.network",
+      "nativeCurrency": {
+        "name": "NUM Token",
+        "symbol": "NUM",
+        "decimals": 18
+      },
+      "value": 16000000000000000,
+      "id": 10507,
+      "networkId": 10507,
+      "blockExplorers": "https://mainnet.num.network"
+    },
+    {
+      "name": "Exosama Network",
+      "network": "EXN",
+      "icon": "https://img.api.cryptorank.io/coins/exosama_network1670508799547.png",
+      "rpc": "https://rpc.exosama.com",
+      "nativeCurrency": {
+        "name": "Sama Token",
+        "symbol": "SAMA",
+        "decimals": 18
+      },
+      "value": 19000000000000000,
+      "id": 2109,
+      "networkId": 2109,
+      "blockExplorers": "https://explorer.exosama.com"
+    },
+    {
+      "name": "Europa SKALE Chain",
+      "network": "europa",
+      "icon": "https://s2.coinmarketcap.com/static/img/coins/64x64/20318.png",
+      "rpc": "https://mainnet.skalenodes.com/v1/elated-tan-skat",
+      "nativeCurrency": {
+        "name": "sFUEL",
+        "symbol": "sFUEL",
+        "decimals": 18
+      },
+      "value": 16000000000000000,
+      "id": 2046399126,
+      "networkId": 2046399126,
+      "blockExplorers": "https://elated-tan-skat.explorer.mainnet.skalenodes.com"
+    },
+    {
+      "name": "Edgeware EdgeEVM Mainnet",
+      "network": "EDG",
+      "icon": "https://s2.coinmarketcap.com/static/img/coins/64x64/5274.png",
+      "rpc": "https://edgeware-evm.jelliedowl.net",
+      "nativeCurrency": {
+        "name": "Edgeware",
+        "symbol": "EDG",
+        "decimals": 18
+      },
+      "value": 22000000000000000,
+      "id": 2021,
+      "networkId": 2021,
+      "blockExplorers": "https://edgscan.live"
+    },
+    {
+      "name": "Seele Mainnet",
+      "network": "Seele",
+      "icon": "https://s2.coinmarketcap.com/static/img/coins/64x64/2830.png",
+      "rpc": "https://rpc.seelen.pro/",
+      "nativeCurrency": {
+        "name": "Seele",
+        "symbol": "Seele",
+        "decimals": 18
+      },
+      "value": 21000000000000000,
+      "id": 186,
+      "networkId": 186,
+      "blockExplorers": "https://seeleview.net"
+    },
+    {
+      "name": "Lightlink Phoenix Mainnet",
+      "network": "Lightlink Phoenix Mainnet",
+      "icon": "https://s2.coinmarketcap.com/static/img/coins/64x64/22943.png",
+      "rpc": "https://replicator-01.phoenix.lightlink.io/rpc/v1",
+      "nativeCurrency": {
+        "name": "Ethereum",
+        "symbol": "ETH",
+        "decimals": 18
+      },
+      "value": 19000000000000000,
+      "id": 1890,
+      "networkId": 1890,
+      "blockExplorers": "https://phoenix.lightlink.io"
+    },
+    {
+      "name": "OneLedger Mainnet",
+      "network": "OLT",
+      "icon": "https://s2.coinmarketcap.com/static/img/coins/64x64/2921.png",
+      "rpc": "https://mainnet-rpc.oneledger.network",
+      "nativeCurrency": {
+        "name": "OLT",
+        "symbol": "OLT",
+        "decimals": 18
+      },
+      "value": 27000000000000000,
+      "id": 311752642,
+      "networkId": 311752642,
+      "blockExplorers": "https://mainnet-explorer.oneledger.network"
+    },
+    {
+      "name": "TechPay Mainnet",
+      "network": "TPC",
+      "icon": "https://s2.coinmarketcap.com/static/img/coins/64x64/19113.png",
+      "rpc": "https://api.techpay.io/",
+      "nativeCurrency": {
+        "name": "TechPay",
+        "symbol": "TPC",
+        "decimals": 18
+      },
+      "value": 16000000000000000,
+      "id": 2569,
+      "networkId": 2569,
+      "blockExplorers": "https://tpcscan.com"
+    },
+    {
+      "name": "Popcateum Mainnet",
+      "network": "POPCATEUM",
+      "icon": "https://s2.coinmarketcap.com/static/img/coins/64x64/27022.png",
+      "rpc": "https://dataseed.popcateum.org",
+      "nativeCurrency": {
+        "name": "Popcat",
+        "symbol": "POP",
+        "decimals": 18
+      },
+      "value": 22000000000000000,
+      "id": 1213,
+      "networkId": 1213,
+      "blockExplorers": "https://explorer.popcateum.org"
+    },
+    {
+      "name": "Bobabeam",
+      "network": "Bobabeam",
+      "icon": "https://s2.coinmarketcap.com/static/img/coins/64x64/14556.png",
+      "rpc": "https://bobabeam.boba.network",
+      "nativeCurrency": {
+        "name": "Boba Token",
+        "symbol": "BOBA",
+        "decimals": 18
+      },
+      "value": 20000000000000000,
+      "id": 1294,
+      "networkId": 1294,
+      "blockExplorers": "https://blockexplorer.bobabeam.boba.network"
+    },
+    {
+      "name": "AIOZ Network",
+      "network": "AIOZ",
+      "icon": "https://s2.coinmarketcap.com/static/img/coins/64x64/9104.png",
+      "rpc": "https://eth-dataseed.aioz.network",
+      "nativeCurrency": {
+        "name": "AIOZ",
+        "symbol": "AIOZ",
+        "decimals": 18
+      },
+      "value": 19000000000000000,
+      "id": 168,
+      "networkId": 168,
+      "blockExplorers": "https://explorer.aioz.network"
+    },
+    {
+      "name": "AmStar Mainnet",
+      "network": "AmStar",
+      "icon": "",
+      "rpc": "https://mainnet-rpc.amstarscan.com",
+      "nativeCurrency": {
+        "name": "SINSO",
+        "symbol": "SINSO",
+        "decimals": 18
+      },
+      "value": 16000000000000000,
+      "id": 1388,
+      "networkId": 1388,
+      "blockExplorers": "https://mainnet.amstarscan.com"
+    },
+    {
+      "name": "Anytype EVM Chain",
+      "network": "ETH",
+      "icon": "https://www.gitbook.com/cdn-cgi/image/width=40,dpr=2,height=40,fit=contain,format=auto/https%3A%2F%2F291311858-files.gitbook.io%2F~%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FJbcKxgThRdSa4vZyLbvH%252Ficon%252FWnbsw1H89GGdGeGljoLI%252FFrame%25201%2520(6).png%3Falt%3Dmedia%26token%3D3a42bc35-eaa8-4a55-b985-d4bfb76278ca",
+      "rpc": "https://geth.anytype.io",
+      "nativeCurrency": {
+        "name": "ANY",
+        "symbol": "ANY",
+        "decimals": 18
+      },
+      "value": 22000000000000000,
+      "id": 1701,
+      "networkId": 1701,
+      "blockExplorers": "https://explorer.anytype.io"
+    },
+    {
+      "name": "Ekta",
+      "network": "EKTA",
+      "icon": "https://s2.coinmarketcap.com/static/img/coins/64x64/11516.png",
+      "rpc": "https://main.ekta.io",
+      "nativeCurrency": {
+        "name": "EKTA",
+        "symbol": "EKTA",
+        "decimals": 18
+      },
+      "value": 20000000000000000,
+      "id": 1994,
+      "networkId": 1994,
+      "blockExplorers": "https://ektascan.io"
+    },
+    {
+      "name": "High Performance Blocknetwork",
+      "network": "HPB",
+      "icon": "https://s2.coinmarketcap.com/static/img/coins/64x64/2345.png",
+      "rpc": "https://hpbnode.com",
+      "nativeCurrency": {
+        "name": "High Performance Blocknetwork Ether",
+        "symbol": "HPB",
+        "decimals": 18
+      },
+      "value": 19000000000000000,
+      "id": 269,
+      "networkId": 269,
+      "blockExplorers": "https://hscan.org"
+    },
+    {
+      "name": "J2O Taro",
+      "network": "TARO",
+      "rpc": "https://rpc.j2o.io",
+      "nativeCurrency": {
+        "name": "TARO Coin",
+        "symbol": "taro",
+        "decimals": 18
+      },
+      "value": 16000000000000000,
+      "id": 35011,
+      "networkId": 35011,
+      "blockExplorers": "https://exp.j2o.io"
+    },
+    {
+      "name": "Darwinia Crab Network",
+      "network": "crab",
+      "icon": "https://s2.coinmarketcap.com/static/img/coins/64x64/5798.png",
+      "rpc": "https://crab-rpc.darwinia.network",
+      "nativeCurrency": {
+        "name": "Crab Network Native Token",
+        "symbol": "CRAB",
+        "decimals": 18
+      },
+      "value": 22000000000000000,
+      "id": 44,
+      "networkId": 44,
+      "blockExplorers": "https://crab.subscan.io"
+    },
+    {
+      "name": "Sherpax Mainnet",
+      "network": "Sherpax Mainnet",
+      "icon": "",
+      "rpc": "https://mainnet.sherpax.io/rpc",
+      "nativeCurrency": {
+        "name": "KSX",
+        "symbol": "KSX",
+        "decimals": 18
+      },
+      "value": 20000000000000000,
+      "id": 1506,
+      "networkId": 1506,
+      "blockExplorers": "https://evm.sherpax.io"
+    },
+    {
+      "name": "PHI Network v2",
+      "network": "PHI",
+      "icon": "https://s2.coinmarketcap.com/static/img/coins/64x64/25853.png",
+      "rpc": "https://connect.phi.network",
+      "nativeCurrency": {
+        "name": "PHI",
+        "symbol": "Φ",
+        "decimals": 18
+      },
+      "value": 21000000000000000,
+      "id": 144,
+      "networkId": 144,
+      "blockExplorers": "https://phiscan.com"
+    },
+    {
+      "name": "CloudTx Mainnet",
+      "network": "CLD",
+      "icon": "https://s2.coinmarketcap.com/static/img/coins/64x64/22332.png",
+      "rpc": "https://mainnet-rpc.cloudtx.finance",
+      "nativeCurrency": {
+        "name": "CloudTx",
+        "symbol": "CLD",
+        "decimals": 18
+      },
+      "value": 27000000000000000,
+      "id": 31223,
+      "networkId": 31223,
+      "blockExplorers": "https://scan.cloudtx.finance"
+    },
+    {
+      "name": "Sardis Mainnet",
+      "network": "SRDX",
+      "icon": "https://ipfs-2.thirdwebcdn.com/ipfs/QmdR9QJjQEh1mBnf2WbJfehverxiP5RDPWMtEECbDP2rc3/",
+      "rpc": "https://mainnet-rpc.sardisnetwork.com",
+      "nativeCurrency": {
+        "name": "Sardis",
+        "symbol": "SRDX",
+        "decimals": 18
+      },
+      "value": 16000000000000000,
+      "id": 51712,
+      "networkId": 51712,
+      "blockExplorers": "https://contract-mainnet.sardisnetwork.com"
+    },
+    {
+      "name": "Etho Protocol",
+      "network": "ETHO",
+      "icon": "https://s2.coinmarketcap.com/static/img/coins/64x64/3452.png",
+      "rpc": "https://rpc.ethoprotocol.com",
+      "nativeCurrency": {
+        "name": "Etho Protocol",
+        "symbol": "ETHO",
+        "decimals": 18
+      },
+      "value": 20000000000000000,
+      "id": 1313114,
+      "networkId": 1313114,
+      "blockExplorers": "https://explorer.ethoprotocol.com"
+    },
+    {
+      "name": "Venidium Mainnet",
+      "network": "XVM",
+      "icon": "https://uploads-ssl.webflow.com/61af88c5d2b4d87acb63a2c2/61b1c5bd75fd54f4a8f1bf27_venix2-p-800.png",
+      "rpc": "https://rpc.venidium.io",
+      "nativeCurrency": {
+        "name": "Venidium",
+        "symbol": "XVM",
+        "decimals": 18
+      },
+      "value": 19000000000000000,
+      "id": 4919,
+      "networkId": 4919,
+      "blockExplorers": "https://evm.venidiumexplorer.com"
+    },
+    {
+      "name": "Bitcinetwork Mainnet",
+      "network": "BITCI",
+      "icon": "https://cdn.dribbble.com/users/4113101/screenshots/19666010/media/f85534150b2ac81cb32752e0400864f5.jpg?compress=1&resize=768x576&vertical=center",
+      "rpc": "https://rpc.bitci.com",
+      "nativeCurrency": {
+        "name": "Bitci",
+        "symbol": "BITCI",
+        "decimals": 18
+      },
+      "value": 20000000000000000,
+      "id": 1907,
+      "networkId": 1907,
+      "blockExplorers": "https://bitciexplorer.com"
+    },
+    {
+      "name": "Genesis L1",
+      "network": "genesis",
+      "icon": "https://s2.coinmarketcap.com/static/img/coins/64x64/13932.png",
+      "rpc": "https://rpc.genesisl1.org",
+      "nativeCurrency": {
+        "name": "L1 coin",
+        "symbol": "L1",
+        "decimals": 18
+      },
+      "value": 19000000000000000,
+      "id": 29,
+      "networkId": 29,
+      "blockExplorers": "https://explorer.genesisl1.org"
+    },
+    {
+      "name": "Metaplayerone Mainnet",
+      "network": "METAD",
+      "icon": "",
+      "rpc": "https://rpc.metaplayer.one/",
+      "nativeCurrency": {
+        "name": "METAD",
+        "symbol": "METAD",
+        "decimals": 18
+      },
+      "value": 22000000000000000,
+      "id": 2122,
+      "networkId": 2122,
+      "blockExplorers": "https://scan.metaplayer.one"
+    },
+    {
+      "name": "Excelon Mainnet",
+      "network": "XLON",
+      "icon": "",
+      "rpc": "https://edgewallet1.xlon.org/",
+      "nativeCurrency": {
+        "name": "Excelon",
+        "symbol": "xlon",
+        "decimals": 18
+      },
+      "value": 21000000000000000,
+      "id": 22052002,
+      "networkId": 22052002,
+      "blockExplorers": "https://explorer.excelon.io"
+    },
+    {
+      "name": "CENNZnet Azalea",
+      "network": "CENNZnet",
+      "icon": "https://s2.coinmarketcap.com/static/img/coins/64x64/2585.png",
+      "rpc": "https://cennznet.unfrastructure.io/public",
+      "nativeCurrency": {
+        "name": "CPAY",
+        "symbol": "CPAY",
+        "decimals": 18
+      },
+      "value": 16000000000000000,
+      "id": 21337,
+      "networkId": 21337,
+      "blockExplorers": "https://uncoverexplorer.com"
+    },
+    {
+      "name": "OHO Mainnet",
+      "network": "OHO",
+      "icon": "https://s2.coinmarketcap.com/static/img/coins/64x64/22264.png",
+      "rpc": "https://mainnet.oho.ai",
+      "nativeCurrency": {
+        "name": "OHO",
+        "symbol": "OHO",
+        "decimals": 18
+      },
+      "value": 19000000000000000,
+      "id": 39815,
+      "networkId": 39815,
+      "blockExplorers": "https://ohoscan.com"
+    },
+    {
+      "name": "Empire Network",
+      "network": "EMPIRE",
+      "icon": "https://s2.coinmarketcap.com/static/img/coins/64x64/10613.png",
+      "rpc": "https://rpc.empirenetwork.io",
+      "nativeCurrency": {
+        "name": "Empire",
+        "symbol": "EMPIRE",
+        "decimals": 18
+      },
+      "value": 27000000000000000,
+      "id": 3693,
+      "networkId": 3693,
+      "blockExplorers": "https://explorer.empirenetwork.io"
+    },
+    {
+      "name": "MAP Mainnet",
+      "network": "MAP",
+      "icon": "https://s2.coinmarketcap.com/static/img/coins/64x64/4956.png",
+      "rpc": "https://rpc.maplabs.io",
+      "nativeCurrency": {
+        "name": "MAP",
+        "symbol": "MAP",
+        "decimals": 18
+      },
+      "value": 16000000000000000,
+      "id": 22776,
+      "networkId": 22776,
+      "blockExplorers": "https://mapscan.io"
+    },
+    {
+      "name": "Redlight Chain Mainnet",
+      "network": "REDLC",
+      "icon": "https://s2.coinmarketcap.com/static/img/coins/64x64/21505.png",
+      "rpc": "https://dataseed2.redlightscan.finance",
+      "nativeCurrency": {
+        "name": "Redlight Coin",
+        "symbol": "REDLC",
+        "decimals": 18
+      },
+      "value": 22000000000000000,
+      "id": 2611,
+      "networkId": 2611,
+      "blockExplorers": "https://redlightscan.finance"
+    },
+    {
+      "name": "Graphlinq Blocknetwork Mainnet",
+      "network": "GLQ Blocknetwork",
+      "rpc": "https://glq-dataseed.graphlinq.io",
+      "nativeCurrency": {
+        "name": "GLQ",
+        "symbol": "GLQ",
+        "decimals": 18
+      },
+      "value": 19000000000000000,
+      "id": 614,
+      "networkId": 614,
+      "blockExplorers": "https://explorer.graphlinq.io"
+    },
+    {
+      "name": "TTcoin Smart Chain Mainnet",
+      "network": "TSC",
+      "icon": "tscscan",
+      "rpc": "https://mainnet-rpc.tscscan.com",
+      "nativeCurrency": {
+        "name": "TTcoin",
+        "symbol": "TC",
+        "decimals": 18
+      },
+      "value": 16000000000000000,
+      "id": 330844,
+      "networkId": 330844,
+      "blockExplorers": "https://tscscan.com"
+    },
+    {
+      "name": "Milkomeda C1 Mainnet",
+      "network": "milkAda",
+      "icon": "milkomeda",
+      "rpc": "https://rpc-mainnet-cardano-evm.c1.milkomeda.com",
+      "nativeCurrency": {
+        "name": "milkAda",
+        "symbol": "mADA",
+        "decimals": 18
+      },
+      "value": 20000000000000000,
+      "id": 2001,
+      "networkId": 2001,
+      "blockExplorers": "https://explorer-mainnet-cardano-evm.c1.milkomeda.com"
+    },
+    {
+      "name": "LoopNetwork Mainnet",
+      "network": "LoopNetwork",
+      "rpc": "https://api.mainnetloop.com",
+      "nativeCurrency": {
+        "name": "LOOP",
+        "symbol": "LOOP",
+        "decimals": 18
+      },
+      "value": 22000000000000000,
+      "id": 15551,
+      "networkId": 15551,
+      "blockExplorers": "http://explorer.mainnetloop.com"
+    },
+    {
+      "name": "Plian Mainnet Subnetwork 1",
+      "network": "Plian",
+      "rpc": "https://mainnet.plian.io/child_0",
+      "nativeCurrency": {
+        "name": "Plian Token",
+        "symbol": "PI",
+        "decimals": 18
+      },
+      "value": 19000000000000000,
+      "id": 8007736,
+      "networkId": 8007736,
+      "blockExplorers": "https://piscan.plian.org/child_0"
+    },
+    {
+      "name": "Milkomeda A1 Mainnet",
+      "network": "milkALGO",
+      "icon": "milkomeda",
+      "rpc": "https://rpc-mainnet-algorand-rollup.a1.milkomeda.com",
+      "nativeCurrency": {
+        "name": "milkALGO",
+        "symbol": "mALGO",
+        "decimals": 18
+      },
+      "value": 20000000000000000,
+      "id": 2002,
+      "networkId": 2002,
+      "blockExplorers": "https://explorer-mainnet-algorand-rollup.a1.milkomeda.com"
+    },
+    {
+      "name": "PoCRNet",
+      "network": "CRC",
+      "rpc": "https://pocrnet.westeurope.cloudapp.azure.com/http",
+      "nativeCurrency": {
+        "name": "Carbon Reduction Coin",
+        "symbol": "CRC",
+        "decimals": 18
+      },
+      "value": 22000000000000000,
+      "id": 2606,
+      "networkId": 2606,
+      "blockExplorers": "https://ethereum-pocr.github.io/explorer/pocrnet"
+    },
+    {
+      "name": "Camelark Mainnet",
+      "network": "ETHW",
+      "icon": "camelark",
+      "rpc": "https://mainnet-http-rpc.camelark.com",
+      "nativeCurrency": {
+        "name": "EthereumPoW",
+        "symbol": "ETHW",
+        "decimals": 18
+      },
+      "value": 19000000000000000,
+      "id": 20001,
+      "networkId": 20001,
+      "blockExplorers": "https://scan.camelark.com"
+    },
+    {
+      "name": "zkSync Era Mainnet",
+      "network": "ETH",
+      "icon": "zksync-era",
+      "rpc": "https://mainnet.era.zksync.io",
+      "nativeCurrency": {
+        "name": "Ether",
+        "symbol": "ETH",
+        "decimals": 18
+      },
+      "value": 21000000000000000,
+      "id": 324,
+      "networkId": 324,
+      "blockExplorers": "https://explorer.zksync.io"
+    },
+    {
+      "name": "REI Chain Mainnet",
+      "network": "REI",
+      "icon": "reinetwork",
+      "rpc": "https://rei-rpc.moonrhythm.io",
+      "nativeCurrency": {
+        "name": "Rei",
+        "symbol": "REI",
+        "decimals": 18
+      },
+      "value": 27000000000000000,
+      "id": 55555,
+      "networkId": 55555,
+      "blockExplorers": "https://reiscan.com"
+    },
+    {
+      "name": "Tipboxcoin Mainnet",
+      "network": "TPBX",
+      "icon": "tipboxcoinIcon",
+      "rpc": "https://mainnet-rpc.tipboxcoin.net",
+      "nativeCurrency": {
+        "name": "Tipboxcoin",
+        "symbol": "TPBX",
+        "decimals": 18
+      },
+      "value": 19000000000000000,
+      "id": 404040,
+      "networkId": 404040,
+      "blockExplorers": "https://tipboxcoin.net"
+    },
+    {
+      "name": "Quadrans Blocknetwork",
+      "network": "QDC",
+      "icon": "quadrans",
+      "rpc": "https://rpc.quadrans.io",
+      "nativeCurrency": {
+        "name": "Quadrans Coin",
+        "symbol": "QDC",
+        "decimals": 18
+      },
+      "value": 22000000000000000,
+      "id": 10946,
+      "networkId": 10946,
+      "blockExplorers": "https://explorer.quadrans.io"
+    },
+    {
+      "name": "Filecoin - Mainnet",
+      "network": "FIL",
+      "icon": "filecoin",
+      "rpc": "https://api.node.glif.io/",
+      "nativeCurrency": {
+        "name": "filecoin",
+        "symbol": "FIL",
+        "decimals": 18
+      },
+      "value": 20000000000000000,
+      "id": 314,
+      "networkId": 314,
+      "blockExplorers": "https://filfox.info/en"
+    },
+    {
+      "name": "Zilliqa EVM",
+      "network": "ZIL",
+      "icon": "zilliqa",
+      "rpc": "https://api.zilliqa.com",
+      "nativeCurrency": {
+        "name": "Zilliqa",
+        "symbol": "ZIL",
+        "decimals": 18
+      },
+      "value": 22000000000000000,
+      "id": 32769,
+      "networkId": 32769,
+      "blockExplorers": "https://evmx.zilliqa.com"
+    },
+    {
+      "name": "Crossbell",
+      "network": "Crossbell",
+      "icon": "crossbell",
+      "rpc": "https://rpc.crossbell.io",
+      "nativeCurrency": {
+        "name": "Crossbell Token",
+        "symbol": "CSB",
+        "decimals": 18
+      },
+      "value": 20000000000000000,
+      "id": 3737,
+      "networkId": 3737,
+      "blockExplorers": "https://scan.crossbell.io"
+    },
+    {
+      "name": "ThaiChain",
+      "network": "TCH",
+      "rpc": "https://rpc.dome.cloud",
+      "nativeCurrency": {
+        "name": "ThaiChain Ether",
+        "symbol": "TCH",
+        "decimals": 18
+      },
+      "value": 27000000000000000,
+      "id": 7,
+      "networkId": 7,
+      "blockExplorers": "https://exp.thainetwork.org"
+    },
+    {
+      "name": "Vela1 Chain Mainnet",
+      "network": "VELA1",
+      "rpc": "https://rpc.velaverse.io",
+      "nativeCurrency": {
+        "name": "CLASS COIN",
+        "symbol": "CLASS",
+        "decimals": 18
+      },
+      "value": 22000000000000000,
+      "id": 555,
+      "networkId": 555,
+      "blockExplorers": "https://exp.velaverse.io"
+    },
+    {
+      "name": "Zyx Mainnet",
+      "network": "ZYX",
+      "rpc": "https://rpc-1.zyx.network/",
+      "nativeCurrency": {
+        "name": "Zyx",
+        "symbol": "ZYX",
+        "decimals": 18
+      },
+      "value": 19000000000000000,
+      "id": 55,
+      "networkId": 55,
+      "blockExplorers": "https://zyxscan.com"
+    },
+    {
+      "name": "Rangers Protocol Mainnet",
+      "network": "Rangers",
+      "icon": "rangers",
+      "rpc": "https://mainnet.rangersprotocol.com/api/jsonrpc",
+      "nativeCurrency": {
+        "name": "Rangers Protocol Gas",
+        "symbol": "RPG",
+        "decimals": 18
+      },
+      "value": 21000000000000000,
+      "id": 2025,
+      "networkId": 2025,
+      "blockExplorers": "https://scan.rangersprotocol.com"
+    },
+    {
+      "name": "Bitcoin EVM",
+      "network": "Bitcoin EVM",
+      "icon": "ebtc",
+      "rpc": "https://connect.bitcoinevm.com",
+      "nativeCurrency": {
+        "name": "Bitcoin",
+        "symbol": "BTC",
+        "decimals": 18
+      },
+      "value": 20000000000000000,
+      "id": 2203,
+      "networkId": 2203,
+      "blockExplorers": "https://explorer.bitcoinevm.com"
+    },
+    {
+      "name": "Endurance Smart Chain Mainnet",
+      "network": "ACE",
+      "rpc": "https://rpc-endurance.fusionist.io/",
+      "nativeCurrency": {
+        "name": "Endurance Chain Native Token",
+        "symbol": "ACE",
+        "decimals": 18
+      },
+      "value": 22000000000000000,
+      "id": 648,
+      "networkId": 648,
+      "blockExplorers": "https://explorer.endurance.fusionist.io"
+    },
+    {
+      "name": "ethereum Fair",
+      "network": "ETHF",
+      "rpc": "https://rpc.etherfair.org",
+      "nativeCurrency": {
+        "name": "EthereumFair",
+        "symbol": "ETHF",
+        "decimals": 18
+      },
+      "value": 20000000000000000,
+      "id": 513100,
+      "networkId": 513100,
+      "blockExplorers": "https://www.oklink.com/ethf"
+    },
+    {
+      "name": "Imversed Mainnet",
+      "network": "Imversed",
+      "icon": "imversed",
+      "rpc": "https://jsonrpc.imversed.network",
+      "nativeCurrency": {
+        "name": "Imversed Token",
+        "symbol": "IMV",
+        "decimals": 18
+      },
+      "value": 27000000000000000,
+      "id": 5555555,
+      "networkId": 5555555,
+      "blockExplorers": "https://txe.imversed.network"
+    },
+    {
+      "name": "DoKEN Super Chain Mainnet",
+      "network": "DoKEN Super Chain",
+      "icon": "doken",
+      "rpc": "https://sgrpc.doken.dev",
+      "nativeCurrency": {
+        "name": "DoKEN",
+        "symbol": "DKN",
+        "decimals": 18
+      },
+      "value": 19000000000000000,
+      "id": 61916,
+      "networkId": 61916,
+      "blockExplorers": "https://explore.doken.dev"
+    },
+    {
+      "name": "TCG Verse Mainnet",
+      "network": "TCG Verse",
+      "icon": "tcg_verse",
+      "rpc": "https://rpc.tcgverse.xyz",
+      "nativeCurrency": {
+        "name": "OAS",
+        "symbol": "OAS",
+        "decimals": 18
+      },
+      "value": 22000000000000000,
+      "id": 2400,
+      "networkId": 2400,
+      "blockExplorers": "https://explorer.tcgverse.xyz"
+    },
+    {
+      "name": "Gear Zero Network Mainnet",
+      "network": "GearZero",
+      "rpc": "https://gzn.linksme.info",
+      "nativeCurrency": {
+        "name": "Gear Zero Network Native Token",
+        "symbol": "GZN",
+        "decimals": 18
+      },
+      "value": 21000000000000000,
+      "id": 516,
+      "networkId": 516,
+      "blockExplorers": ""
+    },
+    {
+      "name": "DRAC Network",
+      "network": "DRAC",
+      "icon": "drac",
+      "rpc": "https://www.dracscan.com/rpc",
+      "nativeCurrency": {
+        "name": "DRAC",
+        "symbol": "DRAC",
+        "decimals": 18
+      },
+      "value": 20000000000000000,
+      "id": 3912,
+      "networkId": 3912,
+      "blockExplorers": "https://www.dracscan.io"
+    },
+    {
+      "name": "OpenVessel",
+      "network": "VSL",
+      "icon": "vsl",
+      "rpc": "https://mainnet-external.openvessel.io",
+      "nativeCurrency": {
+        "name": "Vessel ETH",
+        "symbol": "VETH",
+        "decimals": 18
+      },
+      "value": 22000000000000000,
+      "id": 7355310,
+      "networkId": 7355310,
+      "blockExplorers": "https://mainnet-explorer.openvessel.io"
+    },
+    {
+      "name": "MultiVAC Mainnet",
+      "network": "MultiVAC",
+      "icon": "multivac",
+      "rpc": "https://rpc.mtv.ac",
+      "nativeCurrency": {
+        "name": "MultiVAC",
+        "symbol": "MTV",
+        "decimals": 18
+      },
+      "value": 19000000000000000,
+      "id": 62621,
+      "networkId": 62621,
+      "blockExplorers": "https://e.mtv.ac"
+    },
+    {
+      "name": "MARO Blocknetwork Mainnet",
+      "network": "MARO Blocknetwork",
+      "icon": "MARO",
+      "rpc": "https://rpc-mainnet.ma.ro",
+      "nativeCurrency": {
+        "name": "MARO",
+        "symbol": "MARO",
+        "decimals": 18
+      },
+      "value": 27000000000000000,
+      "id": 8848,
+      "networkId": 8848,
+      "blockExplorers": "https://scan.ma.ro/#"
+    },
+    {
+      "name": "Darwinia Network",
+      "network": "darwinia",
+      "rpc": "https://rpc.darwinia.network",
+      "nativeCurrency": {
+        "name": "Darwinia Network Native Token",
+        "symbol": "RING",
+        "decimals": 18
+      },
+      "value": 22000000000000000,
+      "id": 46,
+      "networkId": 46,
+      "blockExplorers": "https://darwinia.subscan.io"
+    },
+    {
+      "name": "Phoenix Mainnet",
+      "network": "Phoenix",
+      "icon": "phoenix",
+      "rpc": "https://rpc.phoenixplorer.com/",
+      "nativeCurrency": {
+        "name": "Phoenix",
+        "symbol": "PHX",
+        "decimals": 18
+      },
+      "value": 20000000000000000,
+      "id": 13381,
+      "networkId": 13381,
+      "blockExplorers": "https://phoenixplorer.com"
+    },
+    {
+      "name": "WoopChain Mainnet",
+      "network": "WOOP",
+      "icon": "woopnetwork",
+      "rpc": "https://rpc.woop.ai/rpc",
+      "nativeCurrency": {
+        "name": "WoopCoin",
+        "symbol": "WOOC",
+        "decimals": 18
+      },
+      "value": 22000000000000000,
+      "id": 139,
+      "networkId": 139,
+      "blockExplorers": "https://explorer.wikiwoop.com"
+    },
+    {
+      "name": "Mixin Virtual Machine",
+      "network": "MVM",
+      "icon": "mvm",
+      "rpc": "https://geth.mvm.dev",
+      "nativeCurrency": {
+        "name": "Ether",
+        "symbol": "ETH",
+        "decimals": 18
+      },
+      "value": 19000000000000000,
+      "id": 73927,
+      "networkId": 73927,
+      "blockExplorers": "https://scan.mvm.dev"
+    },
+    {
+      "name": "TLChain Network Mainnet",
+      "network": "TLC",
+      "icon": "tlc",
+      "rpc": "https://mainnet-rpc.tlxscan.com/",
+      "nativeCurrency": {
+        "name": "TLChain Network",
+        "symbol": "TLC",
+        "decimals": 18
+      },
+      "value": 21000000000000000,
+      "id": 5177,
+      "networkId": 5177,
+      "blockExplorers": "https://explorer.tlnetwork.network"
+    },
+    {
+      "name": "Planq Mainnet",
+      "network": "Planq",
+      "icon": "planq",
+      "rpc": "https://evm-rpc.planq.network",
+      "nativeCurrency": {
+        "name": "Planq",
+        "symbol": "PLQ",
+        "decimals": 18
+      },
+      "value": 22000000000000000,
+      "id": 7070,
+      "networkId": 7070,
+      "blockExplorers": "https://evm.planq.network"
+    },
+    {
+      "name": "Lucid Blocknetwork",
+      "network": "Lucid",
+      "icon": "lucid",
+      "rpc": "https://rpc.lucidcoin.io",
+      "nativeCurrency": {
+        "name": "LUCID",
+        "symbol": "LUCID",
+        "decimals": 18
+      },
+      "value": 27000000000000000,
+      "id": 800,
+      "networkId": 800,
+      "blockExplorers": "https://explorer.lucidcoin.io"
+    },
+    {
+      "name": "CENNZnet Nikau",
+      "network": "CENNZnet",
+      "icon": "cennz",
+      "rpc": "https://nikau.centrality.me/public",
+      "nativeCurrency": {
+        "name": "CPAY",
+        "symbol": "CPAY",
+        "decimals": 18
+      },
+      "value": 20000000000000000,
+      "id": 3001,
+      "networkId": 3001,
+      "blockExplorers": "https://www.uncoverexplorer.com/?network=Nikau"
+    },
+    {
+      "name": "PandoProject Mainnet",
+      "network": "PandoProject",
+      "icon": "pando",
+      "rpc": "https://eth-rpc-api.pandoproject.org/rpc",
+      "nativeCurrency": {
+        "name": "pando-token",
+        "symbol": "PTX",
+        "decimals": 18
+      },
+      "value": 19000000000000000,
+      "id": 3601,
+      "networkId": 3601,
+      "blockExplorers": "https://explorer.pandoproject.org"
+    },
+    {
+      "name": "IVAR Chain Mainnet",
+      "network": "IVAR",
+      "icon": "ivar",
+      "rpc": "https://mainnet-rpc.ivarex.com",
+      "nativeCurrency": {
+        "name": "Ivar",
+        "symbol": "IVAR",
+        "decimals": 18
+      },
+      "value": 22000000000000000,
+      "id": 88888,
+      "networkId": 88888,
+      "blockExplorers": "https://ivarscan.com"
+    },
+    {
+      "name": "Alph Network",
+      "network": "ALPH",
+      "rpc": "https://rpc.alph.network",
+      "nativeCurrency": {
+        "name": "Alph Network",
+        "symbol": "ALPH",
+        "decimals": 18
+      },
+      "value": 20000000000000000,
+      "id": 8738,
+      "networkId": 8738,
+      "blockExplorers": "https://explorer.alph.network"
+    },
+    {
+      "name": "PartyChain",
+      "network": "mainnet",
+      "icon": "grams",
+      "rpc": "https://tea.mining4people.com/rpc",
+      "nativeCurrency": {
+        "name": "Grams",
+        "symbol": "GRAMS",
+        "decimals": 18
+      },
+      "value": 19000000000000000,
+      "id": 1773,
+      "networkId": 1773,
+      "blockExplorers": "https://partyexplorer.co"
+    },
+    {
+      "name": "Binance Smart Chain TestNet",
+      "network": "BSC",
+      "rpc": "https://data-seed-prebsc-1-s1.binance.org:8545",
+      "nativeCurrency": {
+        "name": "Binance Chain Native Token",
+        "symbol": "tBNB",
+        "decimals": 18
+      },
+      "value": 27000000000000000,
+      "id": 97,
+      "networkId": 97,
+      "blockExplorers": "https://testnet.bscscan.com"
+    },
+    {
+      "name": "BeanEco SmartChain",
+      "network": "BESC",
+      "rpc": "https://mainnet-rpc.bescscan.io",
+      "nativeCurrency": {
+        "name": "BeanEco SmartChain",
+        "symbol": "BESC",
+        "decimals": 18
+      },
+      "value": 19000000000000000,
+      "id": 535037,
+      "networkId": 535037,
+      "blockExplorers": "https://Bescscan.io"
+    },
+    {
+      "name": "Acria IntelliChain",
+      "network": "AIC",
+      "rpc": "https://aic.acria.ai",
+      "nativeCurrency": {
+        "name": "ACRIA",
+        "symbol": "ACRIA",
+        "decimals": 18
+      },
+      "value": 22000000000000000,
+      "id": 47,
+      "networkId": 47,
+      "blockExplorers": "https://explorer.acria.ai"
+    },
+    {
+      "name": "Neonlink Mainnet",
+      "network": "Neonlink",
+      "icon": "neonlink",
+      "rpc": "https://mainnet.neonlink.io",
+      "nativeCurrency": {
+        "name": "Neonlink Native Token",
+        "symbol": "NEON",
+        "decimals": 18
+      },
+      "value": 20000000000000000,
+      "id": 259,
+      "networkId": 259,
+      "blockExplorers": "https://scan.neonlink.io"
+    },
+    {
+      "name": "Omax Mainnet",
+      "network": "OMAX Chain",
+      "icon": "https://raw.githubusercontent.com/erience/chains/main/crypto87.png",
+      "rpc": "https://mainapi.omaxray.com",
+      "nativeCurrency": {
+        "name": "OMAX COIN",
+        "symbol": "OMAX",
+        "decimals": 18
+      },
+      "value": 27000000000000000,
+      "id": 311,
+      "networkId": 311,
+      "blockExplorers": "https://omaxray.com"
+    },
+    {
+      "name": "Bear Network Chain Mainnet",
+      "network": "BRNKC",
+      "icon": "https://raw.githubusercontent.com/erience/chains/main/crypto87.png",
+      "rpc": "https://brnkc-mainnet.bearnetwork.net",
+      "nativeCurrency": {
+        "name": "Bear Network Chain Native Token",
+        "symbol": "BRNKC",
+        "decimals": 18
+      },
+      "value": 21000000000000000,
+      "id": 641230,
+      "networkId": 641230,
+      "blockExplorers": "https://brnkscan.bearnetwork.net"
+    },
+    {
+      "name": "Oasis Sapphire",
+      "network": "Sapphire",
+      "icon": "https://raw.githubusercontent.com/erience/chains/main/crypto87.png",
+      "rpc": "https://sapphire.oasis.io",
+      "nativeCurrency": {
+        "name": "Sapphire Rose",
+        "symbol": "ROSE",
+        "decimals": 18
+      },
+      "value": 20000000000000000,
+      "id": 23294,
+      "networkId": 23294,
+      "blockExplorers": "https://explorer.sapphire.oasis.io"
+    },
+    {
+      "name": "Bifrost Mainnet",
+      "network": "BFC",
+      "icon": "https://raw.githubusercontent.com/erience/chains/main/crypto87.png",
+      "rpc": "https://public-01.mainnet.thebifrost.io/rpc",
+      "nativeCurrency": {
+        "name": "Bifrost",
+        "symbol": "BFC",
+        "decimals": 18
+      },
+      "value": 19000000000000000,
+      "id": 3068,
+      "networkId": 3068,
+      "blockExplorers": "https://explorer.mainnet.thebifrost.io"
+    },
+    {
+      "name": "Vision - Mainnet",
+      "network": "Vision",
+      "icon": "https://raw.githubusercontent.com/erience/chains/main/crypto87.png",
+      "rpc": "https://infragrid.v.network/ethereum/compatible",
+      "nativeCurrency": {
+        "name": "VS",
+        "symbol": "VS",
+        "decimals": 18
+      },
+      "value": 22000000000000000,
+      "id": 888888,
+      "networkId": 888888,
+      "blockExplorers": "https://www.visionscan.org"
+    },
+    {
+      "name": "Etica Mainnet",
+      "network": "Etica Protocol (ETI/EGAZ)",
+      "icon": "https://raw.githubusercontent.com/erience/chains/main/crypto87.png",
+      "rpc": "https://eticamainnet.eticascan.org",
+      "nativeCurrency": {
+        "name": "EGAZ",
+        "symbol": "EGAZ",
+        "decimals": 18
+      },
+      "value": 20000000000000000,
+      "id": 61803,
+      "networkId": 61803,
+      "blockExplorers": "https://eticascan.org"
+    },
+    {
+      "name": "Boba Network",
+      "network": "ETH",
+      "icon": "https://raw.githubusercontent.com/erience/chains/main/crypto87.png",
+      "rpc": "https://mainnet.boba.network/",
+      "nativeCurrency": {
+        "name": "Ether",
+        "symbol": "ETH",
+        "decimals": 18
+      },
+      "value": 20000000000000000,
+      "id": 288,
+      "networkId": 288,
+      "blockExplorers": "https://bobascan.com"
+    },
+    {
+      "name": "Nebula Staging",
+      "network": "staging-faint-slimy-achird",
+      "icon": "https://raw.githubusercontent.com/erience/chains/main/crypto87.png",
+      "rpc": "https://staging-v3.skalenodes.com/v1/staging-faint-slimy-achird",
+      "nativeCurrency": {
+        "name": "sFUEL",
+        "symbol": "sFUEL",
+        "decimals": 18
+      },
+      "value": 21000000000000000,
+      "id": 503129905,
+      "networkId": 503129905,
+      "blockExplorers": "https://staging-faint-slimy-achird.explorer.staging-v3.skalenodes.com"
+    },
+    {
+      "name": "XANAChain",
+      "network": "XANAChain",
+      "icon": "https://raw.githubusercontent.com/erience/chains/main/crypto87.png",
+      "rpc": "https://mainnet.xana.net/rpc",
+      "nativeCurrency": {
+        "name": "XETA",
+        "symbol": "XETA",
+        "decimals": 18
+      },
+      "value": 19000000000000000,
+      "id": 8888,
+      "networkId": 8888,
+      "blockExplorers": "https://xananetwork.xana.net"
+    },
+    {
+      "name": "Vention Smart Chain Mainnet",
+      "network": "VSC",
+      "icon": "https://raw.githubusercontent.com/erience/chains/main/crypto87.png",
+      "rpc": "https://mainnet-rpc.vention.network",
+      "nativeCurrency": {
+        "name": "VNT",
+        "symbol": "VNT",
+        "decimals": 18
+      },
+      "value": 20000000000000000,
+      "id": 77612,
+      "networkId": 77612,
+      "blockExplorers": "https://ventionscan.io"
+    },
+    {
+      "name": "YuanChain Mainnet",
+      "network": "YCC",
+      "icon": "https://raw.githubusercontent.com/erience/chains/main/crypto87.png",
+      "rpc": "https://mainnet.yuan.org/eth",
+      "nativeCurrency": {
+        "name": "YCC",
+        "symbol": "YCC",
+        "decimals": 18
+      },
+      "value": 27000000000000000,
+      "id": 3999,
+      "networkId": 3999,
+      "blockExplorers": "https://mainnet.yuan.org"
+    },
+    {
+      "name": "Bobaopera",
+      "network": "Bobaopera",
+      "icon": "https://raw.githubusercontent.com/erience/chains/main/crypto87.png",
+      "rpc": "https://bobaopera.boba.network",
+      "nativeCurrency": {
+        "name": "Boba Token",
+        "symbol": "BOBA",
+        "decimals": 18
+      },
+      "value": 22000000000000000,
+      "id": 301,
+      "networkId": 301,
+      "blockExplorers": "https://blockexplorer.bobaopera.boba.network"
+    },
+    {
+      "name": "Aitd Mainnet",
+      "network": "AITD",
+      "icon": "https://raw.githubusercontent.com/erience/chains/main/crypto87.png",
+      "rpc": "https://walletrpc.aitd.io",
+      "nativeCurrency": {
+        "name": "AITD Mainnet",
+        "symbol": "AITD",
+        "decimals": 18
+      },
+      "value": 19000000000000000,
+      "id": 1319,
+      "networkId": 1319,
+      "blockExplorers": "https://aitd-explorer-new.aitd.io"
+    },
+    {
+      "name": "XDC Apothem Network",
+      "network": "XDC",
+      "icon": "https://raw.githubusercontent.com/erience/chains/main/crypto87.png",
+      "rpc": "https://rpc.apothem.network",
+      "nativeCurrency": {
+        "name": "XinFin",
+        "symbol": "TXDC",
+        "decimals": 18
+      },
+      "value": 20000000000000000,
+      "id": 51,
+      "networkId": 51,
+      "blockExplorers": "https://apothem.xinfinscan.com"
+    },
+    {
+      "name": "Toki Network",
+      "network": "TOKI",
+      "icon": "https://raw.githubusercontent.com/erience/chains/main/crypto87.png",
+      "rpc": "https://mainnet.buildwithtoki.com/v0/rpc",
+      "nativeCurrency": {
+        "name": "Toki",
+        "symbol": "TOKI",
+        "decimals": 18
+      },
+      "value": 19000000000000000,
+      "id": 8654,
+      "networkId": 8654,
+      "blockExplorers": ""
+    },
+    {
+      "name": "RSK Mainnet",
+      "network": "RSK",
+      "icon": "https://raw.githubusercontent.com/erience/chains/main/crypto87.png",
+      "rpc": "https://public-node.rsk.co",
+      "nativeCurrency": {
+        "name": "Smart Bitcoin",
+        "symbol": "RBTC",
+        "decimals": 18
+      },
+      "value": 21000000000000000,
+      "id": 30,
+      "networkId": 30,
+      "blockExplorers": "https://explorer.rsk.co"
+    },
+    {
+      "name": "Boba Avax",
+      "network": "Boba Avax",
+      "icon": "https://raw.githubusercontent.com/erience/chains/main/crypto87.png",
+      "rpc": "https://avax.boba.network",
+      "nativeCurrency": {
+        "name": "Boba Token",
+        "symbol": "BOBA",
+        "decimals": 18
+      },
+      "value": 19000000000000000,
+      "id": 43288,
+      "networkId": 43288,
+      "blockExplorers": "https://blockexplorer.avax.boba.network"
+    },
+    {
+      "name": "Scolcoin Mainnet",
+      "network": "SCOLWEI",
+      "icon": "https://raw.githubusercontent.com/erience/chains/main/crypto87.png",
+      "rpc": "https://mainnet-rpc.scolcoin.com",
+      "nativeCurrency": {
+        "name": "Scolcoin",
+        "symbol": "SCOL",
+        "decimals": 18
+      },
+      "value": 27000000000000000,
+      "id": 65450,
+      "networkId": 65450,
+      "blockExplorers": "https://explorer.scolcoin.com"
+    },
+    {
+      "name": "Fusion Mainnet",
+      "network": "FSN",
+      "icon": "https://raw.githubusercontent.com/erience/chains/main/crypto87.png",
+      "rpc": "https://mainnet.fusionnetwork.io",
+      "nativeCurrency": {
+        "name": "Fusion",
+        "symbol": "FSN",
+        "decimals": 18
+      },
+      "value": 19000000000000000,
+      "id": 32659,
+      "networkId": 32659,
+      "blockExplorers": "https://fsnscan.com"
+    },
+    {
+      "name": "Hedera Previewnet",
+      "network": "Hedera",
+      "icon": "https://raw.githubusercontent.com/erience/chains/main/crypto87.png",
+      "rpc": "https://previewnet.hashio.io/api",
+      "nativeCurrency": {
+        "name": "hbar",
+        "symbol": "HBAR",
+        "decimals": 18
+      },
+      "value": 20000000000000000,
+      "id": 297,
+      "networkId": 297,
+      "blockExplorers": "https://hashscan.io/previewnet/dashboard"
+    },
+    {
+      "name": "Carbon EVM",
+      "network": "Carbon",
+      "icon": "https://raw.githubusercontent.com/erience/chains/main/crypto87.png",
+      "rpc": "https://evm-api.carbon.network/",
+      "nativeCurrency": {
+        "name": "swth",
+        "symbol": "SWTH",
+        "decimals": 18
+      },
+      "value": 21000000000000000,
+      "id": 9790,
+      "networkId": 9790,
+      "blockExplorers": ""
+    },
+    {
+      "name": "Sapphire by Unique",
+      "network": "UNQ",
+      "icon": "https://raw.githubusercontent.com/erience/chains/main/crypto87.png",
+      "rpc": "https://rpc-sapphire.unique.network",
+      "nativeCurrency": {
+        "name": "Quartz",
+        "symbol": "QTZ",
+        "decimals": 18
+      },
+      "value": 27000000000000000,
+      "id": 8883,
+      "networkId": 8883,
+      "blockExplorers": "https://uniquescan.io/sapphire"
+    },
+    {
+      "name": "PDC Mainnet",
+      "network": "IPDC",
+      "icon": "https://raw.githubusercontent.com/erience/chains/main/crypto87.png",
+      "rpc": "https://mainnet.ipdc.io/",
+      "nativeCurrency": {
+        "name": "PDC",
+        "symbol": "PDC",
+        "decimals": 18
+      },
+      "value": 24000000000000000,
+      "id": 666301171999,
+      "networkId": 666301171999,
+      "blockExplorers": "https://scan.ipdc.io"
+    },
+    {
+      "name": "Thinkium Mainnet Chain 2",
+      "network": "Thinkium",
+      "icon": "https://raw.githubusercontent.com/erience/chains/main/crypto87.png",
+      "rpc": "https://proxy2.thinkiumrpc.net/",
+      "nativeCurrency": {
+        "name": "TKM",
+        "symbol": "TKM",
+        "decimals": 18
+      },
+      "value": 22000000000000000,
+      "id": 70002,
+      "networkId": 70002,
+      "blockExplorers": "https://network2.thinkiumscan.net"
+    },
+    {
+      "name": "XT Smart Chain Mainnet",
+      "network": "XSC",
+      "icon": "https://raw.githubusercontent.com/erience/chains/main/crypto87.png",
+      "rpc": "https://datarpc1.xsc.pub",
+      "nativeCurrency": {
+        "name": "XT Smart Chain Native Token",
+        "symbol": "XT",
+        "decimals": 18
+      },
+      "value": 19000000000000000,
+      "id": 1024,
+      "networkId": 1024,
+      "blockExplorers": "https://xscscan.pub"
+    },
+    {
+      "name": "Nahmii Mainnet",
+      "network": "Nahmii",
+      "icon": "https://raw.githubusercontent.com/erience/chains/main/crypto87.png",
+      "rpc": "https://l2.nahmii.io",
+      "nativeCurrency": {
+        "name": "Ether",
+        "symbol": "ETH",
+        "decimals": 18
+      },
+      "value": 24000000000000000,
+      "id": 5551,
+      "networkId": 5551,
+      "blockExplorers": "https://explorer.nahmii.io"
+    },
+    {
+      "name": "Boba BNB Mainnet",
+      "network": "Boba BNB Mainnet",
+      "icon": "https://raw.githubusercontent.com/erience/chains/main/crypto87.png",
+      "rpc": "https://bnb.boba.network",
+      "nativeCurrency": {
+        "name": "Boba Token",
+        "symbol": "BOBA",
+        "decimals": 18
+      },
+      "value": 20000000000000000,
+      "id": 56288,
+      "networkId": 56288,
+      "blockExplorers": "https://blockexplorer.bnb.boba.network"
+    },
+    {
+      "name": "Thinkium Mainnet Chain 1",
+      "network": "Thinkium",
+      "icon": "https://raw.githubusercontent.com/erience/chains/main/crypto87.png",
+      "rpc": "https://proxy1.thinkiumrpc.net/",
+      "nativeCurrency": {
+        "name": "TKM",
+        "symbol": "TKM",
+        "decimals": 18
+      },
+      "value": 21000000000000000,
+      "id": 70001,
+      "networkId": 70001,
+      "blockExplorers": "https://network1.thinkiumscan.net"
+    },
+    {
+      "name": "Quartz by Unique",
+      "network": "UNQ",
+      "icon": "https://raw.githubusercontent.com/erience/chains/main/crypto87.png",
+      "rpc": "https://rpc-quartz.unique.network",
+      "nativeCurrency": {
+        "name": "Quartz",
+        "symbol": "QTZ",
+        "decimals": 18
+      },
+      "value": 22000000000000000,
+      "id": 8881,
+      "networkId": 8881,
+      "blockExplorers": "https://uniquescan.io/quartz"
+    },
+    {
+      "name": "Qitmeer",
+      "network": "MEER",
+      "icon": "https://raw.githubusercontent.com/erience/chains/main/crypto87.png",
+      "rpc": "https://evm-dataseed1.meerscan.io",
+      "nativeCurrency": {
+        "name": "Qitmeer",
+        "symbol": "MEER",
+        "decimals": 18
+      },
+      "value": 20000000000000000,
+      "id": 813,
+      "networkId": 813,
+      "blockExplorers": "https://evm.meerscan.com"
+    },
+    {
+      "name": "Telos EVM Mainnet",
+      "network": "TLOS",
+      "icon": "https://raw.githubusercontent.com/erience/chains/main/crypto87.png",
+      "rpc": "https://mainnet.telos.net/evm",
+      "nativeCurrency": {
+        "name": "Telos",
+        "symbol": "TLOS",
+        "decimals": 18
+      },
+      "value": 24000000000000000,
+      "id": 40,
+      "networkId": 40,
+      "blockExplorers": "https://teloscan.io"
+    },
+    {
+      "name": "HAPnetwork",
+      "network": "HAPnetwork",
+      "icon": "https://raw.githubusercontent.com/erience/chains/main/crypto87.png",
+      "rpc": "https://jsonrpc.hap.land",
+      "nativeCurrency": {
+        "name": "HAP",
+        "symbol": "HAP",
+        "decimals": 18
+      },
+      "value": 20000000000000000,
+      "id": 8794598,
+      "networkId": 8794598,
+      "blockExplorers": "https://blockscout.hap.land"
+    },
+    {
+      "name": "The Root Network - Mainnet",
+      "network": "TRN",
+      "icon": "https://raw.githubusercontent.com/erience/chains/main/crypto87.png",
+      "rpc": "https://root.rootnet.live/archive",
+      "nativeCurrency": {
+        "name": "XRP",
+        "symbol": "XRP",
+        "decimals": 6
+      },
+      "value": 21000000000000000,
+      "id": 7668,
+      "networkId": 7668,
+      "blockExplorers": "https://explorer.rootnet.live"
+    },
+    {
+      "name": "Unique",
+      "network": "UNQ",
+      "icon": "https://raw.githubusercontent.com/erience/chains/main/crypto87.png",
+      "rpc": "https://rpc.unique.network",
+      "nativeCurrency": {
+        "name": "Unique",
+        "symbol": "UNQ",
+        "decimals": 18
+      },
+      "value": 22000000000000000,
+      "id": 8880,
+      "networkId": 8880,
+      "blockExplorers": "https://uniquescan.io/unique"
+    },
+    {
+      "name": "Thinkium Mainnet Chain 103",
+      "network": "Thinkium",
+      "icon": "https://raw.githubusercontent.com/erience/chains/main/crypto87.png",
+      "rpc": "https://proxy103.thinkiumrpc.net/",
+      "nativeCurrency": {
+        "name": "TKM",
+        "symbol": "TKM",
+        "decimals": 18
+      },
+      "value": 20000000000000000,
+      "id": 70103,
+      "networkId": 70103,
+      "blockExplorers": "https://network103.thinkiumscan.net"
+    },
+    {
+      "name": "OctaSpace",
+      "network": "OCTA",
+      "icon": "https://raw.githubusercontent.com/erience/chains/main/crypto87.png",
+      "rpc": "https://rpc.octa.space",
+      "nativeCurrency": {
+        "name": "OctaSpace",
+        "symbol": "OCTA",
+        "decimals": 18
+      },
+      "value": 19000000000000000,
+      "id": 800001,
+      "networkId": 800001,
+      "blockExplorers": "https://explorer.octa.space"
+    },
+    {
+      "name": "Meter Mainnet",
+      "network": "METER",
+      "icon": "https://raw.githubusercontent.com/erience/chains/main/crypto87.png",
+      "rpc": "https://rpc.meter.io",
+      "nativeCurrency": {
+        "name": "Meter",
+        "symbol": "MTR",
+        "decimals": 18
+      },
+      "value": 24000000000000000,
+      "id": 82,
+      "networkId": 82,
+      "blockExplorers": "https://scan.meter.io"
+    },
+    {
+      "name": "CoinEx Smart Chain Mainnet",
+      "network": "CSC",
+      "icon": "https://raw.githubusercontent.com/erience/chains/main/crypto87.png",
+      "rpc": "https://rpc.coinex.net",
+      "nativeCurrency": {
+        "name": "CoinEx Chain Native Token",
+        "symbol": "cet",
+        "decimals": 18
+      },
+      "value": 22000000000000000,
+      "id": 52,
+      "networkId": 52,
+      "blockExplorers": "https://www.coinex.net"
+    },
+    {
+      "name": "GateChain Mainnet",
+      "network": "GT",
+      "icon": "https://raw.githubusercontent.com/erience/chains/main/crypto87.png",
+      "rpc": "https://evm.gatenode.cc",
+      "nativeCurrency": {
+        "name": "GateToken",
+        "symbol": "GT",
+        "decimals": 18
+      },
+      "value": 20000000000000000,
+      "id": 86,
+      "networkId": 86,
+      "blockExplorers": "https://www.gatescan.org"
+    },
+    {
+      "name": "Humanode Mainnet",
+      "network": "HMND",
+      "icon": "https://raw.githubusercontent.com/erience/chains/main/crypto87.png",
+      "rpc": "https://explorer-rpc-http.mainnet.stages.humanode.io",
+      "nativeCurrency": {
+        "name": "HMND",
+        "symbol": "HMND",
+        "decimals": 18
+      },
+      "value": 19000000000000000,
+      "id": 5234,
+      "networkId": 5234,
+      "blockExplorers": ""
+    },
+    {
+      "name": "Ennothem Mainnet Proterozoic",
+      "network": "ETMP",
+      "icon": "https://raw.githubusercontent.com/erience/chains/main/crypto87.png",
+      "rpc": "https://rpc.etm.network",
+      "nativeCurrency": {
+        "name": "Ennothem",
+        "symbol": "ETMP",
+        "decimals": 18
+      },
+      "value": 21000000000000000,
+      "id": 48,
+      "networkId": 48,
+      "blockExplorers": "https://etmscan.network"
+    },
+    {
+      "name": "Mammoth Mainnet",
+      "network": "MMT",
+      "icon": "https://raw.githubusercontent.com/erience/chains/main/crypto87.png",
+      "rpc": "https://dataseed.mmtscan.io",
+      "nativeCurrency": {
+        "name": "Mammoth Token",
+        "symbol": "MMT",
+        "decimals": 18
+      },
+      "value": 22000000000000000,
+      "id": 8898,
+      "networkId": 8898,
+      "blockExplorers": "https://mmtscan.io"
+    },
+    {
+      "name": "Aves Mainnet",
+      "network": "AVS",
+      "icon": "https://raw.githubusercontent.com/erience/chains/main/crypto87.png",
+      "rpc": "https://rpc.avescoin.io",
+      "nativeCurrency": {
+        "name": "Aves",
+        "symbol": "AVS",
+        "decimals": 18
+      },
+      "value": 20000000000000000,
+      "id": 33333,
+      "networkId": 33333,
+      "blockExplorers": "https://avescan.io"
+    },
+    {
+      "name": "Palette Chain Mainnet",
+      "network": "PLT",
+      "icon": "https://raw.githubusercontent.com/erience/chains/main/crypto87.png",
+      "rpc": "https://palette-rpc.com:22000",
+      "nativeCurrency": {
+        "name": "Palette Token",
+        "symbol": "PLT",
+        "decimals": 18
+      },
+      "value": 24000000000000000,
+      "id": 1718,
+      "networkId": 1718,
+      "blockExplorers": "https://palettescan.com"
+    },
+    {
+      "name": "eCredits Mainnet",
+      "network": "ECS",
+      "icon": "https://raw.githubusercontent.com/erience/chains/main/crypto87.png",
+      "rpc": "https://rpc.ecredits.com",
+      "nativeCurrency": {
+        "name": "eCredits",
+        "symbol": "ECS",
+        "decimals": 18
+      },
+      "value": 19000000000000000,
+      "id": 63000,
+      "networkId": 63000,
+      "blockExplorers": "https://explorer.ecredits.com"
+    },
+    {
+      "name": "EOS EVM Legacy",
+      "network": "EOS",
+      "icon": "https://raw.githubusercontent.com/erience/chains/main/crypto87.png",
+      "rpc": "https://api.eosargentina.io",
+      "nativeCurrency": {
+        "name": "EOS",
+        "symbol": "EOS",
+        "decimals": 18
+      },
+      "value": 22000000000000000,
+      "id": 59,
+      "networkId": 59,
+      "blockExplorers": ""
+    },
+    {
+      "name": "REI Network",
+      "network": "REI",
+      "icon": "https://raw.githubusercontent.com/erience/chains/main/crypto87.png",
+      "rpc": "https://rpc.rei.network",
+      "nativeCurrency": {
+        "name": "REI",
+        "symbol": "REI",
+        "decimals": 18
+      },
+      "value": 21000000000000000,
+      "id": 47805,
+      "networkId": 47805,
+      "blockExplorers": "https://scan.rei.network"
+    },
+    {
+      "name": "Oasis Emerald",
+      "network": "Emerald",
+      "icon": "https://raw.githubusercontent.com/erience/chains/main/crypto87.png",
+      "rpc": "https://emerald.oasis.dev",
+      "nativeCurrency": {
+        "name": "Emerald Rose",
+        "symbol": "ROSE",
+        "decimals": 18
+      },
+      "value": 20000000000000000,
+      "id": 42262,
+      "networkId": 42262,
+      "blockExplorers": "https://explorer.emerald.oasis.dev"
+    },
+    {
+      "name": "Q Mainnet",
+      "network": "Q",
+      "icon": "https://raw.githubusercontent.com/erience/chains/main/crypto87.png",
+      "rpc": "https://rpc.q.org",
+      "nativeCurrency": {
+        "name": "Q token",
+        "symbol": "Q",
+        "decimals": 18
+      },
+      "value": 19000000000000000,
+      "id": 35441,
+      "networkId": 35441,
+      "blockExplorers": "https://explorer.q.org"
+    },
+    {
+      "name": "Evanesco Mainnet",
+      "network": "EVA",
+      "icon": "https://raw.githubusercontent.com/erience/chains/main/crypto87.png",
+      "rpc": "https://seed4.evanesco.org:8546",
+      "nativeCurrency": {
+        "name": "EVA",
+        "symbol": "EVA",
+        "decimals": 18
+      },
+      "value": 22000000000000000,
+      "id": 2213,
+      "networkId": 2213,
+      "blockExplorers": "https://explorer.evanesco.org"
+    },
+    {
+      "name": "Nova Network",
+      "network": "NNW",
+      "icon": "https://raw.githubusercontent.com/erience/chains/main/crypto87.png",
+      "rpc": "https://connect.novanetwork.io",
+      "nativeCurrency": {
+        "name": "Supernova",
+        "symbol": "SNT",
+        "decimals": 18
+      },
+      "value": 24000000000000000,
+      "id": 87,
+      "networkId": 87,
+      "blockExplorers": "https://explorer.novanetwork.io"
+    },
+    {
+      "name": "Ubiq",
+      "network": "UBQ",
+      "icon": "https://raw.githubusercontent.com/erience/chains/main/crypto87.png",
+      "rpc": "https://rpc.octano.dev",
+      "nativeCurrency": {
+        "name": "Ubiq Ether",
+        "symbol": "UBQ",
+        "decimals": 18
+      },
+      "value": 21000000000000000,
+      "id": 8,
+      "networkId": 8,
+      "blockExplorers": "https://ubiqscan.io"
+    },
+    {
+      "name": "Markr Go",
+      "network": "Unified",
+      "icon": "https://raw.githubusercontent.com/erience/chains/main/crypto87.png",
+      "rpc": "https://rpc.markr.io/ext/",
+      "nativeCurrency": {
+        "name": "Avalanche",
+        "symbol": "AVAX",
+        "decimals": 18
+      },
+      "value": 24000000000000000,
+      "id": 431140,
+      "networkId": 431140,
+      "blockExplorers": ""
+    },
+    {
+      "name": "Saakuru Mainnet",
+      "network": "Saakuru",
+      "icon": "saakuru",
+      "rpc": "https://rpc.saakuru.network",
+      "nativeCurrency": {
+        "name": "OAS",
+        "symbol": "OAS",
+        "decimals": 18
+      },
+      "value": 22000000000000000,
+      "id": 7225878,
+      "networkId": 7225878,
+      "blockExplorers": "https://explorer.saakuru.network"
+    },
+    {
+      "name": "Frennetwork",
+      "network": "fren",
+      "icon": "https://raw.githubusercontent.com/erience/chains/main/crypto87.png",
+      "rpc": "https://rpc-02.frenscan.io",
+      "nativeCurrency": {
+        "name": "FREN",
+        "symbol": "FREN",
+        "decimals": 18
+      },
+      "value": 20000000000000000,
+      "id": 44444,
+      "networkId": 44444,
+      "blockExplorers": "https://frenscan.io"
+    },
+    {
+      "name": "Shiden",
+      "network": "SDN",
+      "icon": "https://raw.githubusercontent.com/erience/chains/main/crypto87.png",
+      "rpc": "https://shiden.api.onfinality.io/public",
+      "nativeCurrency": {
+        "name": "Shiden",
+        "symbol": "SDN",
+        "decimals": 18
+      },
+      "value": 20000000000000000,
+      "id": 336,
+      "networkId": 336,
+      "blockExplorers": "https://shiden.subscan.io"
+    },
+    {
+      "name": "Liveplex OracleEVM",
+      "network": "Liveplex OracleEVM Network",
+      "icon": "https://raw.githubusercontent.com/erience/chains/main/crypto87.png",
+      "rpc": "https://rpc.oracle.liveplex.io",
+      "nativeCurrency": {
+        "name": "Ether",
+        "symbol": "ETH",
+        "decimals": 18
+      },
+      "value": 21000000000000000,
+      "id": 50001,
+      "networkId": 50001,
+      "blockExplorers": ""
+    },
+    {
+      "name": "Paribu Net Mainnet",
+      "network": "PRB",
+      "icon": "https://raw.githubusercontent.com/erience/chains/main/crypto87.png",
+      "rpc": "https://rpc.paribu.network",
+      "nativeCurrency": {
+        "name": "PRB",
+        "symbol": "PRB",
+        "decimals": 18
+      },
+      "value": 20000000000000000,
+      "id": 3400,
+      "networkId": 3400,
+      "blockExplorers": "https://explorer.paribu.network"
+    },
+    {
+      "name": "Shardeum Sphinx 1.X",
+      "network": "Shardeum",
+      "icon": "https://raw.githubusercontent.com/erience/chains/main/crypto87.png",
+      "rpc": "https://sphinx.shardeum.org/",
+      "nativeCurrency": {
+        "name": "Shardeum SHM",
+        "symbol": "SHM",
+        "decimals": 18
+      },
+      "value": 24000000000000000,
+      "id": 8082,
+      "networkId": 8082,
+      "blockExplorers": "https://explorer-sphinx.shardeum.org"
+    },
+    {
+      "name": "Ella the heart",
+      "network": "ella",
+      "icon": "https://raw.githubusercontent.com/erience/chains/main/crypto87.png",
+      "rpc": "https://rpc.ella.network",
+      "nativeCurrency": {
+        "name": "Ella",
+        "symbol": "ELLA",
+        "decimals": 18
+      },
+      "value": 19000000000000000,
+      "id": 7027,
+      "networkId": 7027,
+      "blockExplorers": "https://ella.network"
+    },
+    {
+      "name": "Taraxa Mainnet",
+      "network": "Tara",
+      "icon": "https://raw.githubusercontent.com/erience/chains/main/crypto87.png",
+      "rpc": "https://rpc.mainnet.taraxa.io/",
+      "nativeCurrency": {
+        "name": "Tara",
+        "symbol": "TARA",
+        "decimals": 18
+      },
+      "value": 22000000000000000,
+      "id": 841,
+      "networkId": 841,
+      "blockExplorers": "https://explorer.mainnet.taraxa.io"
+    },
+    {
+      "name": "Shyft Mainnet",
+      "network": "SHYFT",
+      "icon": "https://raw.githubusercontent.com/erience/chains/main/crypto87.png",
+      "rpc": "https://rpc.shyft.network/",
+      "nativeCurrency": {
+        "name": "Shyft",
+        "symbol": "SHYFT",
+        "decimals": 18
+      },
+      "value": 20000000000000000,
+      "id": 7341,
+      "networkId": 7341,
+      "blockExplorers": "https://bx.shyft.network"
+    },
+    {
+      "name": "Godwoken Mainnet",
+      "network": "GWT",
+      "icon": "https://raw.githubusercontent.com/erience/chains/main/crypto87.png",
+      "rpc": "https://v1.mainnet.godwoken.io/rpc",
+      "nativeCurrency": {
+        "name": "pCKB",
+        "symbol": "pCKB",
+        "decimals": 18
+      },
+      "value": 22000000000000000,
+      "id": 71402,
+      "networkId": 71402,
+      "blockExplorers": "https://gw-mainnet-explorer.nervosdao.community"
+    },
+    {
+      "name": "PHI Network V1",
+      "network": "PHI V1",
+      "icon": "https://raw.githubusercontent.com/erience/chains/main/crypto87.png",
+      "rpc": "https://rpc1.phi.network",
+      "nativeCurrency": {
+        "name": "PHI",
+        "symbol": "Φ",
+        "decimals": 18
+      },
+      "value": 19000000000000000,
+      "id": 4181,
+      "networkId": 4181,
+      "blockExplorers": "https://explorer.phi.network"
+    },
+    {
+      "name": "SX Network Mainnet",
+      "network": "SX",
+      "icon": "https://raw.githubusercontent.com/erience/chains/main/crypto87.png",
+      "rpc": "https://rpc.sx.technology",
+      "nativeCurrency": {
+        "name": "SX Network",
+        "symbol": "SX",
+        "decimals": 18
+      },
+      "value": 24000000000000000,
+      "id": 416,
+      "networkId": 416,
+      "blockExplorers": "https://explorer.sx.technology"
+    },
+    {
+      "name": "Tres Mainnet",
+      "network": "TresLeches",
+      "icon": "https://raw.githubusercontent.com/erience/chains/main/crypto87.png",
+      "rpc": "https://rpc.tresleches.finance/",
+      "nativeCurrency": {
+        "name": "TRES",
+        "symbol": "TRES",
+        "decimals": 18
+      },
+      "value": 22000000000000000,
+      "id": 6066,
+      "networkId": 6066,
+      "blockExplorers": "https://explorer.tresleches.finance"
+    },
+    {
+      "name": "Evmos",
+      "network": "Evmos",
+      "icon": "https://raw.githubusercontent.com/erience/chains/main/crypto87.png",
+      "rpc": "https://eth.bd.evmos.org:8545",
+      "nativeCurrency": {
+        "name": "Evmos",
+        "symbol": "EVMOS",
+        "decimals": 18
+      },
+      "value": 20000000000000000,
+      "id": 9001,
+      "networkId": 9001,
+      "blockExplorers": "https://escan.live"
+    },
+    {
+      "name": "Zeniq",
+      "network": "ZENIQ",
+      "icon": "https://raw.githubusercontent.com/erience/chains/main/crypto87.png",
+      "rpc": "https://smart.zeniq.network:9545",
+      "nativeCurrency": {
+        "name": "Zeniq",
+        "symbol": "ZENIQ",
+        "decimals": 18
+      },
+      "value": 20000000000000000,
+      "id": 383414847825,
+      "networkId": 383414847825,
+      "blockExplorers": "https://smart.zeniq.net"
+    },
+    {
+      "name": "Web3Q Galileo",
+      "network": "Web3Q",
+      "icon": "https://raw.githubusercontent.com/erience/chains/main/crypto87.png",
+      "rpc": "https://galileo.web3q.io:8545",
+      "nativeCurrency": {
+        "name": "Web3Q",
+        "symbol": "W3Q",
+        "decimals": 18
+      },
+      "value": 24000000000000000,
+      "id": 3334,
+      "networkId": 3334,
+      "blockExplorers": "https://explorer.galileo.web3q.io"
+    },
+    {
+      "name": "Hedera Mainnet",
+      "network": "Hedera",
+      "icon": "https://raw.githubusercontent.com/erience/chains/main/crypto87.png",
+      "rpc": "https://mainnet.hashio.io/api",
+      "nativeCurrency": {
+        "name": "hbar",
+        "symbol": "HBAR",
+        "decimals": 18
+      },
+      "value": 21000000000000000,
+      "id": 295,
+      "networkId": 295,
+      "blockExplorers": "https://hashscan.io/mainnet/dashboard"
+    },
+    {
+      "name": "F(x)Core Mainnet Network",
+      "network": "Fxcore",
+      "icon": "https://raw.githubusercontent.com/erience/chains/main/crypto87.png",
+      "rpc": "https://fx-json-web3.functionx.io:8545",
+      "nativeCurrency": {
+        "name": "Function X",
+        "symbol": "FX",
+        "decimals": 18
+      },
+      "value": 22000000000000000,
+      "id": 530,
+      "networkId": 530,
+      "blockExplorers": "https://fx-evm.functionx.io"
+    },
+    {
+      "name": "Double-A Chain Mainnet",
+      "network": "AAC",
+      "icon": "https://raw.githubusercontent.com/erience/chains/main/crypto87.png",
+      "rpc": "https://rpc.acuteangle.com",
+      "nativeCurrency": {
+        "name": "Acuteangle Native Token",
+        "symbol": "AAC",
+        "decimals": 18
+      },
+      "value": 19000000000000000,
+      "id": 512,
+      "networkId": 512,
+      "blockExplorers": "https://scan.acuteangle.com"
+    },
+    {
+      "name": "ENULS Mainnet",
+      "network": "ENULS",
+      "icon": "https://raw.githubusercontent.com/erience/chains/main/crypto87.png",
+      "rpc": "https://evmapi.nuls.io",
+      "nativeCurrency": {
+        "name": "NULS",
+        "symbol": "NULS",
+        "decimals": 18
+      },
+      "value": 20000000000000000,
+      "id": 119,
+      "networkId": 119,
+      "blockExplorers": "https://evmscan.nuls.io"
+    },
+    {
+      "name": "Shardeum Liberty 1.X",
+      "network": "Shardeum",
+      "icon": "https://raw.githubusercontent.com/erience/chains/main/crypto87.png",
+      "rpc": "https://liberty10.shardeum.org/",
+      "nativeCurrency": {
+        "name": "Shardeum SHM",
+        "symbol": "SHM",
+        "decimals": 18
+      },
+      "value": 22000000000000000,
+      "id": 8080,
+      "networkId": 8080,
+      "blockExplorers": "https://explorer-liberty10.shardeum.org"
+    },
+    {
+      "name": "Shardeum Liberty 2.X",
+      "network": "Shardeum",
+      "icon": "https://raw.githubusercontent.com/erience/chains/main/crypto87.png",
+      "rpc": "https://liberty20.shardeum.org/",
+      "nativeCurrency": {
+        "name": "Shardeum SHM",
+        "symbol": "SHM",
+        "decimals": 18
+      },
+      "value": 19000000000000000,
+      "id": 8081,
+      "networkId": 8081,
+      "blockExplorers": "https://explorer-liberty20.shardeum.org"
+    }
+  ]
 }
