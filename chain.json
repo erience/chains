@@ -46,13 +46,29 @@
             "blockExplorers": "https://tomoscan.io"
         },
         {
+            "name": "WEMIX3.0 Mainnet",
+            "network": "WEMIX",
+            "icon": "",
+            "rpc": "https://api.wemix.com",
+            "nativeCurrency": {
+                "name": "WEMIX",
+                "symbol": "WEMIX",
+                "decimals": 18
+            },
+            "value": 20000000000000000,
+            "id": 1111,
+            "networkId": 1111,
+            "blockExplorers": "https://explorer.wemix.com"
+        },
+
+        {
             "name": "PulseChain Mainnet",
             "network": "PulseChain",
             "icon": "",
             "rpc": "https://rpc.pulsechain.com",
             "nativeCurrency": {
                 "name": "PulseChain",
-                "symbol": "HEX",
+                "symbol": "PLS",
                 "decimals": 18
             },
             "value": 20000000000000000,
