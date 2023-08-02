@@ -130,7 +130,7 @@
             "value": 20000000000000000,
             "id": 10,
             "networkId": 10,
-            "blockExplorers": ""
+            "blockExplorers": "https://optimistic.etherscan.io"
         },
         {
             "name": "XinFin XDC Network",
@@ -155,7 +155,7 @@
             "blockExplorers": "https://ftmscan.com"
         },
         {
-            "name": "Kava Mainnet",
+            "name": "Kava EVM Mainnet",
             "network": "KAVA",
             "icon": "https://raw.githubusercontent.com/erience/chains/main/kava.png",
             "rpc": "https://evm.kava.io",
