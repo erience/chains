@@ -76,21 +76,35 @@
             "blockExplorers": "https://www.okx.com/explorer/oktc"
         },
         {
-            "name": "Optimism Mainnet",
-            "network": "Optimism",
+            "name": "Pepe Chain Mainnet",
+            "network": "Pepe",
             "icon": "",
-            "rpc": "https://mainnet.optimism.io",
+            "rpc": "https://rpc.pepe-chain.vip",
             "nativeCurrency": {
-                "name": "Optimism",
-                "symbol": "OP",
+                "name": "Pepe",
+                "symbol": "PEPE",
                 "decimals": 18
             },
             "value": 20000000000000000,
-            "id": 10,
-            "networkId": 10,
-            "blockExplorers": "https://optimistic.etherscan.io"
+            "id": 411,
+            "networkId": 411,
+            "blockExplorers": "https://explorer.pepe-chain.vip"
         },
-
+        {
+            "name": "BitTorrent Mainnet",
+            "network": "BitTorrent",
+            "icon": "",
+            "rpc": "https://rpc.bittorrentchain.io",
+            "nativeCurrency": {
+                "name": "BitTorrent",
+                "symbol": "BTT",
+                "decimals": 18
+            },
+            "value": 20000000000000000,
+            "id": 199,
+            "networkId": 199,
+            "blockExplorers": "https://bttcscan.com"
+        },
         {
             "name": "Velas EVM Mainnet",
             "network": "Velas",
@@ -136,6 +150,7 @@
             "networkId": 137,
             "blockExplorers": "https://polygonscan.com"
         },
+
         {
             "name": "Aurora Mainnet",
             "network": "NEAR",
