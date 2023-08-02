@@ -16,6 +16,51 @@
             "blockExplorers": "https://etherscan.io"
         },
         {
+            "name": "Mantle Mainnet",
+            "network": "Mantle",
+            "icon": "",
+            "rpc": "https://rpc.mantle.xyz",
+            "nativeCurrency": {
+                "name": "Mantle",
+                "symbol": "MNT",
+                "decimals": 18
+            },
+            "value": 20000000000000000,
+            "id": 5000,
+            "networkId": 5000,
+            "blockExplorers": "https://explorer.mantle.xyz"
+        },
+        {
+            "name": "Tomochain Mainnet",
+            "network": "Tomo",
+            "icon": "",
+            "rpc": "https://rpc.tomochain.com",
+            "nativeCurrency": {
+                "name": "Tomo",
+                "symbol": "TOMO",
+                "decimals": 18
+            },
+            "value": 20000000000000000,
+            "id": 88,
+            "networkId": 88,
+            "blockExplorers": "https://tomoscan.io"
+        },
+        {
+            "name": "PulseChain Mainnet",
+            "network": "PulseChain",
+            "icon": "",
+            "rpc": "https://rpc.pulsechain.com",
+            "nativeCurrency": {
+                "name": "PulseChain",
+                "symbol": "HEX",
+                "decimals": 18
+            },
+            "value": 20000000000000000,
+            "id": 369,
+            "networkId": 369,
+            "blockExplorers": "https://scan.pulsechain.com"
+        },
+        {
             "name": "DogeChain Mainnet",
             "network": "DogeChain",
             "icon": "",
