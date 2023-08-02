@@ -2942,7 +2942,7 @@
       "icon": "https://raw.githubusercontent.com/erience/chains/main/crypto87.png",
       "rpc": "https://sphinx.shardeum.org/",
       "nativeCurrency": {
-        "name": "Shardeum SHM",
+        "name": "Shardeum",
         "symbol": "SHM",
         "decimals": 18
       },
