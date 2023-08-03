@@ -301,24 +301,9 @@
             "blockExplorers": "https://explorer.zksync.io"
         },
         {
-            "name": "zkSync Era Mainnet",
-            "network": "zkSync",
-            "icon": "https://raw.githubusercontent.com/erience/chains/main/zksync.png",
-            "rpc": "https://mainnet.era.zksync.io",
-            "nativeCurrency": {
-                "name": "Ethereum",
-                "symbol": "ETH",
-                "decimals": 18
-            },
-            "value": 20000000000000000,
-            "id": 324,
-            "networkId": 324,
-            "blockExplorers": "https://explorer.zksync.io"
-        },
-        {
             "name": "Linea Mainnet",
             "network": "Linea",
-            "icon": "https://raw.githubusercontent.com/erience/chains/main/zksync.png",
+            "icon": "https://raw.githubusercontent.com/erience/chains/main/linea.png",
             "rpc": "https://rpc.linea.build",
             "nativeCurrency": {
                 "name": "Ethereum",
@@ -330,7 +315,6 @@
             "networkId": 59144,
             "blockExplorers": "https://lineascan.build"
         },
-
         {
             "name": "Pepe Chain Mainnet",
             "network": "Pepe",
