@@ -2074,6 +2074,7 @@
         {
             "name": "Binance Smart Chain TestNet",
             "network": "BSC",
+            "icon": "https://raw.githubusercontent.com/erience/chains/main/bsc.png",
             "rpc": "https://data-seed-prebsc-1-s1.binance.org:8545",
             "nativeCurrency": {
                 "name": "Binance Chain Native Token",
