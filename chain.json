@@ -1585,21 +1585,6 @@
             "blockExplorers": "https://scan.camelark.com"
         },
         {
-            "name": "zkSync Era Mainnet",
-            "network": "ETH",
-            "icon": "zksync-era",
-            "rpc": "https://mainnet.era.zksync.io",
-            "nativeCurrency": {
-                "name": "Ether",
-                "symbol": "ETH",
-                "decimals": 18
-            },
-            "value": 21000000000000000,
-            "id": 324,
-            "networkId": 324,
-            "blockExplorers": "https://explorer.zksync.io"
-        },
-        {
             "name": "REI Chain Mainnet",
             "network": "REI",
             "icon": "reinetwork",
