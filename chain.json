@@ -436,9 +436,9 @@
             "blockExplorers": "https://iotexscan.io"
         },
         {
-            "name": "Moonbeam",
-            "network": "MOON",
-            "icon": "https://assets.coingecko.com/coins/images/22459/small/glmr.png?1641880985",
+            "name": "Moonbeam Mainnet",
+            "network": "Moonbeam",
+            "icon": "https://raw.githubusercontent.com/erience/chains/main/moonbeam.png",
             "rpc": "https://rpc.api.moonbeam.network",
             "nativeCurrency": {
                 "name": "Glimmer",
@@ -451,12 +451,12 @@
             "blockExplorers": "https://moonbeam.moonscan.io"
         },
         {
-            "name": "Harmony Mainnet Shard 0",
+            "name": "Harmony Shard 0 Mainnet",
             "network": "Harmony",
-            "icon": "https://s2.coinmarketcap.com/static/img/coins/64x64/3945.png",
+            "icon": "https://raw.githubusercontent.com/erience/chains/main/harmony.png",
             "rpc": "https://api.harmony.one",
             "nativeCurrency": {
-                "name": "ONE",
+                "name": "Harmony",
                 "symbol": "ONE",
                 "decimals": 18
             },
@@ -468,7 +468,7 @@
         {
             "name": "Tomochain Mainnet",
             "network": "Tomo",
-            "icon": "",
+            "icon": "https://raw.githubusercontent.com/erience/chains/main/tomo.png",
             "rpc": "https://rpc.tomochain.com",
             "nativeCurrency": {
                 "name": "Tomo",
@@ -482,8 +482,8 @@
         },
         {
             "name": "Bitgert Mainnet",
-            "network": "Brise",
-            "icon": "brise",
+            "network": "Bitrise",
+            "icon": "https://raw.githubusercontent.com/erience/chains/main/bitgert.png",
             "rpc": "https://rpc.icecreamswap.com",
             "nativeCurrency": {
                 "name": "Bitrise Token",
@@ -513,7 +513,7 @@
         {
             "name": "PulseChain Mainnet",
             "network": "PulseChain",
-            "icon": "",
+            "icon": "https://raw.githubusercontent.com/erience/chains/main/pulse.png",
             "rpc": "https://rpc.pulsechain.com",
             "nativeCurrency": {
                 "name": "PulseChain",
@@ -527,8 +527,8 @@
         },
         {
             "name": "WEMIX3.0 Mainnet",
-            "network": "WEMIX",
-            "icon": "",
+            "network": "WEMIX3.0",
+            "icon": "https://raw.githubusercontent.com/erience/chains/main/wemix.png",
             "rpc": "https://api.wemix.com",
             "nativeCurrency": {
                 "name": "WEMIX",
@@ -542,7 +542,8 @@
         },
         {
             "name": "Syscoin Mainnet",
-            "network": "SYS",
+            "network": "Syscoin",
+            "icon": "https://raw.githubusercontent.com/erience/chains/main/syscoin.png",
             "rpc": "https://rpc.syscoin.org",
             "nativeCurrency": {
                 "name": "Syscoin",
@@ -555,8 +556,9 @@
             "blockExplorers": "https://explorer.syscoin.org"
         },
         {
-            "name": "Energy Web Chain",
+            "name": "Energy Web Chain Mainnet",
             "network": "Energy Web Chain",
+            "icon": "https://raw.githubusercontent.com/erience/chains/main/energyweb.png",
             "rpc": "https://rpc.energyweb.org",
             "nativeCurrency": {
                 "name": "Energy Web Token",
