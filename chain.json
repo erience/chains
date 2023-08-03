@@ -1572,7 +1572,7 @@
         {
             "name": "Camelark Mainnet",
             "network": "ETHW",
-            "icon": "camelark",
+            "icon": "https://raw.githubusercontent.com/erience/chains/main/crypto87.png",
             "rpc": "https://mainnet-http-rpc.camelark.com",
             "nativeCurrency": {
                 "name": "EthereumPoW",
@@ -1587,7 +1587,7 @@
         {
             "name": "REI Chain Mainnet",
             "network": "REI",
-            "icon": "reinetwork",
+            "icon": "https://raw.githubusercontent.com/erience/chains/main/crypto87.png",
             "rpc": "https://rei-rpc.moonrhythm.io",
             "nativeCurrency": {
                 "name": "Rei",
@@ -1602,7 +1602,7 @@
         {
             "name": "Tipboxcoin Mainnet",
             "network": "TPBX",
-            "icon": "tipboxcoinIcon",
+            "icon": "https://raw.githubusercontent.com/erience/chains/main/crypto87.png",
             "rpc": "https://mainnet-rpc.tipboxcoin.net",
             "nativeCurrency": {
                 "name": "Tipboxcoin",
@@ -1617,7 +1617,7 @@
         {
             "name": "Quadrans Blocknetwork",
             "network": "QDC",
-            "icon": "quadrans",
+            "icon": "https://raw.githubusercontent.com/erience/chains/main/crypto87.png",
             "rpc": "https://rpc.quadrans.io",
             "nativeCurrency": {
                 "name": "Quadrans Coin",
@@ -1632,7 +1632,7 @@
         {
             "name": "Filecoin - Mainnet",
             "network": "FIL",
-            "icon": "filecoin",
+            "icon": "https://raw.githubusercontent.com/erience/chains/main/crypto87.png",
             "rpc": "https://api.node.glif.io/",
             "nativeCurrency": {
                 "name": "filecoin",
@@ -1647,7 +1647,7 @@
         {
             "name": "Zilliqa EVM",
             "network": "ZIL",
-            "icon": "zilliqa",
+            "icon": "https://raw.githubusercontent.com/erience/chains/main/crypto87.png",
             "rpc": "https://api.zilliqa.com",
             "nativeCurrency": {
                 "name": "Zilliqa",
@@ -1662,7 +1662,7 @@
         {
             "name": "Crossbell",
             "network": "Crossbell",
-            "icon": "crossbell",
+            "icon": "https://raw.githubusercontent.com/erience/chains/main/crypto87.png",
             "rpc": "https://rpc.crossbell.io",
             "nativeCurrency": {
                 "name": "Crossbell Token",
@@ -1677,6 +1677,7 @@
         {
             "name": "ThaiChain",
             "network": "TCH",
+            "icon": "https://raw.githubusercontent.com/erience/chains/main/crypto87.png",
             "rpc": "https://rpc.dome.cloud",
             "nativeCurrency": {
                 "name": "ThaiChain Ether",
@@ -1691,6 +1692,7 @@
         {
             "name": "Vela1 Chain Mainnet",
             "network": "VELA1",
+            "icon": "https://raw.githubusercontent.com/erience/chains/main/crypto87.png",
             "rpc": "https://rpc.velaverse.io",
             "nativeCurrency": {
                 "name": "CLASS COIN",
@@ -1705,6 +1707,7 @@
         {
             "name": "Zyx Mainnet",
             "network": "ZYX",
+            "icon": "https://raw.githubusercontent.com/erience/chains/main/crypto87.png",
             "rpc": "https://rpc-1.zyx.network/",
             "nativeCurrency": {
                 "name": "Zyx",
@@ -1719,7 +1722,7 @@
         {
             "name": "Rangers Protocol Mainnet",
             "network": "Rangers",
-            "icon": "rangers",
+            "icon": "https://raw.githubusercontent.com/erience/chains/main/crypto87.png",
             "rpc": "https://mainnet.rangersprotocol.com/api/jsonrpc",
             "nativeCurrency": {
                 "name": "Rangers Protocol Gas",
@@ -1734,7 +1737,7 @@
         {
             "name": "Bitcoin EVM",
             "network": "Bitcoin EVM",
-            "icon": "ebtc",
+            "icon": "https://raw.githubusercontent.com/erience/chains/main/crypto87.png",
             "rpc": "https://connect.bitcoinevm.com",
             "nativeCurrency": {
                 "name": "Bitcoin",
@@ -1749,6 +1752,7 @@
         {
             "name": "Endurance Smart Chain Mainnet",
             "network": "ACE",
+            "icon": "https://raw.githubusercontent.com/erience/chains/main/crypto87.png",
             "rpc": "https://rpc-endurance.fusionist.io/",
             "nativeCurrency": {
                 "name": "Endurance Chain Native Token",
@@ -1761,8 +1765,9 @@
             "blockExplorers": "https://explorer.endurance.fusionist.io"
         },
         {
-            "name": "ethereum Fair",
+            "name": "Ethereum Fair",
             "network": "ETHF",
+            "icon": "https://raw.githubusercontent.com/erience/chains/main/crypto87.png",
             "rpc": "https://rpc.etherfair.org",
             "nativeCurrency": {
                 "name": "EthereumFair",
@@ -1777,7 +1782,7 @@
         {
             "name": "Imversed Mainnet",
             "network": "Imversed",
-            "icon": "imversed",
+            "icon": "https://raw.githubusercontent.com/erience/chains/main/crypto87.png",
             "rpc": "https://jsonrpc.imversed.network",
             "nativeCurrency": {
                 "name": "Imversed Token",
@@ -1792,7 +1797,7 @@
         {
             "name": "DoKEN Super Chain Mainnet",
             "network": "DoKEN Super Chain",
-            "icon": "doken",
+            "icon": "https://raw.githubusercontent.com/erience/chains/main/crypto87.png",
             "rpc": "https://sgrpc.doken.dev",
             "nativeCurrency": {
                 "name": "DoKEN",
@@ -1807,7 +1812,7 @@
         {
             "name": "TCG Verse Mainnet",
             "network": "TCG Verse",
-            "icon": "tcg_verse",
+            "icon": "https://raw.githubusercontent.com/erience/chains/main/crypto87.png",
             "rpc": "https://rpc.tcgverse.xyz",
             "nativeCurrency": {
                 "name": "OAS",
@@ -1822,6 +1827,7 @@
         {
             "name": "Gear Zero Network Mainnet",
             "network": "GearZero",
+            "icon": "https://raw.githubusercontent.com/erience/chains/main/crypto87.png",
             "rpc": "https://gzn.linksme.info",
             "nativeCurrency": {
                 "name": "Gear Zero Network Native Token",
@@ -1836,7 +1842,7 @@
         {
             "name": "DRAC Network",
             "network": "DRAC",
-            "icon": "drac",
+            "icon": "https://raw.githubusercontent.com/erience/chains/main/crypto87.png",
             "rpc": "https://www.dracscan.com/rpc",
             "nativeCurrency": {
                 "name": "DRAC",
@@ -1851,7 +1857,7 @@
         {
             "name": "OpenVessel",
             "network": "VSL",
-            "icon": "vsl",
+            "icon": "https://raw.githubusercontent.com/erience/chains/main/crypto87.png",
             "rpc": "https://mainnet-external.openvessel.io",
             "nativeCurrency": {
                 "name": "Vessel ETH",
@@ -1866,7 +1872,7 @@
         {
             "name": "MultiVAC Mainnet",
             "network": "MultiVAC",
-            "icon": "multivac",
+            "icon": "https://raw.githubusercontent.com/erience/chains/main/crypto87.png",
             "rpc": "https://rpc.mtv.ac",
             "nativeCurrency": {
                 "name": "MultiVAC",
@@ -1881,7 +1887,7 @@
         {
             "name": "MARO Blocknetwork Mainnet",
             "network": "MARO Blocknetwork",
-            "icon": "MARO",
+            "icon": "https://raw.githubusercontent.com/erience/chains/main/crypto87.png",
             "rpc": "https://rpc-mainnet.ma.ro",
             "nativeCurrency": {
                 "name": "MARO",
@@ -1891,11 +1897,12 @@
             "value": 27000000000000000,
             "id": 8848,
             "networkId": 8848,
-            "blockExplorers": "https://scan.ma.ro/#"
+            "blockExplorers": "https://scan.ma.ro"
         },
         {
             "name": "Darwinia Network",
             "network": "darwinia",
+            "icon": "https://raw.githubusercontent.com/erience/chains/main/crypto87.png",
             "rpc": "https://rpc.darwinia.network",
             "nativeCurrency": {
                 "name": "Darwinia Network Native Token",
@@ -1910,7 +1917,7 @@
         {
             "name": "Phoenix Mainnet",
             "network": "Phoenix",
-            "icon": "phoenix",
+            "icon": "https://raw.githubusercontent.com/erience/chains/main/crypto87.png",
             "rpc": "https://rpc.phoenixplorer.com/",
             "nativeCurrency": {
                 "name": "Phoenix",
@@ -1925,7 +1932,7 @@
         {
             "name": "WoopChain Mainnet",
             "network": "WOOP",
-            "icon": "woopnetwork",
+            "icon": "https://raw.githubusercontent.com/erience/chains/main/crypto87.png",
             "rpc": "https://rpc.woop.ai/rpc",
             "nativeCurrency": {
                 "name": "WoopCoin",
@@ -1940,7 +1947,7 @@
         {
             "name": "Mixin Virtual Machine",
             "network": "MVM",
-            "icon": "mvm",
+            "icon": "https://raw.githubusercontent.com/erience/chains/main/crypto87.png",
             "rpc": "https://geth.mvm.dev",
             "nativeCurrency": {
                 "name": "Ether",
@@ -1955,7 +1962,7 @@
         {
             "name": "TLChain Network Mainnet",
             "network": "TLC",
-            "icon": "tlc",
+            "icon": "https://raw.githubusercontent.com/erience/chains/main/crypto87.png",
             "rpc": "https://mainnet-rpc.tlxscan.com/",
             "nativeCurrency": {
                 "name": "TLChain Network",
@@ -1970,7 +1977,7 @@
         {
             "name": "Planq Mainnet",
             "network": "Planq",
-            "icon": "planq",
+            "icon": "https://raw.githubusercontent.com/erience/chains/main/crypto87.png",
             "rpc": "https://evm-rpc.planq.network",
             "nativeCurrency": {
                 "name": "Planq",
@@ -1985,7 +1992,7 @@
         {
             "name": "Lucid Blocknetwork",
             "network": "Lucid",
-            "icon": "lucid",
+            "icon": "https://raw.githubusercontent.com/erience/chains/main/crypto87.png",
             "rpc": "https://rpc.lucidcoin.io",
             "nativeCurrency": {
                 "name": "LUCID",
@@ -2000,7 +2007,7 @@
         {
             "name": "CENNZnet Nikau",
             "network": "CENNZnet",
-            "icon": "cennz",
+            "icon": "https://raw.githubusercontent.com/erience/chains/main/crypto87.png",
             "rpc": "https://nikau.centrality.me/public",
             "nativeCurrency": {
                 "name": "CPAY",
@@ -2015,7 +2022,7 @@
         {
             "name": "PandoProject Mainnet",
             "network": "PandoProject",
-            "icon": "pando",
+            "icon": "https://raw.githubusercontent.com/erience/chains/main/crypto87.png",
             "rpc": "https://eth-rpc-api.pandoproject.org/rpc",
             "nativeCurrency": {
                 "name": "pando-token",
@@ -2030,7 +2037,7 @@
         {
             "name": "IVAR Chain Mainnet",
             "network": "IVAR",
-            "icon": "ivar",
+            "icon": "https://raw.githubusercontent.com/erience/chains/main/crypto87.png",
             "rpc": "https://mainnet-rpc.ivarex.com",
             "nativeCurrency": {
                 "name": "Ivar",
@@ -2045,6 +2052,7 @@
         {
             "name": "Alph Network",
             "network": "ALPH",
+            "icon": "https://raw.githubusercontent.com/erience/chains/main/crypto87.png",
             "rpc": "https://rpc.alph.network",
             "nativeCurrency": {
                 "name": "Alph Network",
@@ -2059,7 +2067,7 @@
         {
             "name": "PartyChain",
             "network": "mainnet",
-            "icon": "grams",
+            "icon": "https://raw.githubusercontent.com/erience/chains/main/crypto87.png",
             "rpc": "https://tea.mining4people.com/rpc",
             "nativeCurrency": {
                 "name": "Grams",
@@ -2073,11 +2081,11 @@
         },
         {
             "name": "Binance Smart Chain TestNet",
-            "network": "BSC",
+            "network": "Binance Smart Chain",
             "icon": "https://raw.githubusercontent.com/erience/chains/main/bsc.png",
             "rpc": "https://data-seed-prebsc-1-s1.binance.org:8545",
             "nativeCurrency": {
-                "name": "Binance Chain Native Token",
+                "name": "Binance Coin",
                 "symbol": "tBNB",
                 "decimals": 18
             },
@@ -2089,6 +2097,7 @@
         {
             "name": "BeanEco SmartChain",
             "network": "BESC",
+            "icon": "https://raw.githubusercontent.com/erience/chains/main/crypto87.png",
             "rpc": "https://mainnet-rpc.bescscan.io",
             "nativeCurrency": {
                 "name": "BeanEco SmartChain",
@@ -2103,6 +2112,7 @@
         {
             "name": "Acria IntelliChain",
             "network": "AIC",
+            "icon": "https://raw.githubusercontent.com/erience/chains/main/crypto87.png",
             "rpc": "https://aic.acria.ai",
             "nativeCurrency": {
                 "name": "ACRIA",
@@ -2117,7 +2127,7 @@
         {
             "name": "Neonlink Mainnet",
             "network": "Neonlink",
-            "icon": "neonlink",
+            "icon": "https://raw.githubusercontent.com/erience/chains/main/crypto87.png",
             "rpc": "https://mainnet.neonlink.io",
             "nativeCurrency": {
                 "name": "Neonlink Native Token",
@@ -2912,7 +2922,7 @@
         {
             "name": "Saakuru Mainnet",
             "network": "Saakuru",
-            "icon": "saakuru",
+            "icon": "https://raw.githubusercontent.com/erience/chains/main/crypto87.png",
             "rpc": "https://rpc.saakuru.network",
             "nativeCurrency": {
                 "name": "OAS",
